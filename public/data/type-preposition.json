@@ -103,5 +103,20 @@
     "synonyms": "",
     "antonyms": "",
     "tags": ""
+  },
+  {
+    "id": "B-0166",
+    "word": "bis",
+    "article": "",
+    "plural": "",
+    "wordType": "preposition",
+    "english": "until / to / by",
+    "bangla": "পর্যন্ত",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Die Linie 8 fährt nur bis zum Hauptbahnhof.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
   }
 ]

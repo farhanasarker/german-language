@@ -4,7 +4,7 @@
       "id": "all",
       "name": "All Words",
       "description": "",
-      "cardCount": 711,
+      "cardCount": 885,
       "category": "all"
     },
     {
@@ -18,7 +18,42 @@
       "id": "letter-b",
       "name": "Letter: B",
       "description": "",
-      "cardCount": 114,
+      "cardCount": 236,
+      "category": "letter"
+    },
+    {
+      "id": "letter-c",
+      "name": "Letter: C",
+      "description": "",
+      "cardCount": 12,
+      "category": "letter"
+    },
+    {
+      "id": "letter-d",
+      "name": "Letter: D",
+      "description": "",
+      "cardCount": 37,
+      "category": "letter"
+    },
+    {
+      "id": "letter-g",
+      "name": "Letter: G",
+      "description": "",
+      "cardCount": 1,
+      "category": "letter"
+    },
+    {
+      "id": "letter-s",
+      "name": "Letter: S",
+      "description": "",
+      "cardCount": 1,
+      "category": "letter"
+    },
+    {
+      "id": "letter-z",
+      "name": "Letter: Z",
+      "description": "",
+      "cardCount": 1,
       "category": "letter"
     },
     {
@@ -81,7 +116,7 @@
       "id": "type-adj",
       "name": "Type: Adj",
       "description": "",
-      "cardCount": 71,
+      "cardCount": 86,
       "category": "type"
     },
     {
@@ -95,7 +130,7 @@
       "id": "type-noun",
       "name": "Type: Noun",
       "description": "",
-      "cardCount": 421,
+      "cardCount": 517,
       "category": "type"
     },
     {
@@ -109,14 +144,14 @@
       "id": "type-preposition",
       "name": "Type: Preposition",
       "description": "",
-      "cardCount": 7,
+      "cardCount": 8,
       "category": "type"
     },
     {
       "id": "type-verb",
       "name": "Type: Verb",
       "description": "",
-      "cardCount": 132,
+      "cardCount": 168,
       "category": "type"
     },
     {
