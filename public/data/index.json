@@ -4,8 +4,22 @@
       "id": "all",
       "name": "All Words",
       "description": "",
-      "cardCount": 360,
+      "cardCount": 711,
       "category": "all"
+    },
+    {
+      "id": "letter-a",
+      "name": "Letter: A",
+      "description": "",
+      "cardCount": 237,
+      "category": "letter"
+    },
+    {
+      "id": "letter-b",
+      "name": "Letter: B",
+      "description": "",
+      "cardCount": 114,
+      "category": "letter"
     },
     {
       "id": "tag-bildung",
@@ -67,21 +81,21 @@
       "id": "type-adj",
       "name": "Type: Adj",
       "description": "",
-      "cardCount": 32,
+      "cardCount": 71,
       "category": "type"
     },
     {
       "id": "type-adverb",
       "name": "Type: Adverb",
       "description": "",
-      "cardCount": 6,
+      "cardCount": 22,
       "category": "type"
     },
     {
       "id": "type-noun",
       "name": "Type: Noun",
       "description": "",
-      "cardCount": 256,
+      "cardCount": 421,
       "category": "type"
     },
     {
@@ -92,10 +106,17 @@
       "category": "type"
     },
     {
+      "id": "type-preposition",
+      "name": "Type: Preposition",
+      "description": "",
+      "cardCount": 7,
+      "category": "type"
+    },
+    {
       "id": "type-verb",
       "name": "Type: Verb",
       "description": "",
-      "cardCount": 15,
+      "cardCount": 132,
       "category": "type"
     },
     {
