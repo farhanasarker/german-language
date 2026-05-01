@@ -1,0 +1,11 @@
+Word,Article,Plural,WordType,English,Bangla,Partizip_II,Auxiliary,Example_Sentence,Synonyms,Antonyms
+sehr gut,,,grade,very good (grade 1),খুব ভালো (গ্রেড ১),,,,,die/eine Eins (D), / der/ein Einser (A),
+gut,,,grade,good (grade 2),ভালো (গ্রেড ২),,,,,die/eine Zwei (D), / der/ein Zweier (A),
+befriedigend,,,grade,satisfactory (grade 3),সন্তোষজনক (গ্রেড ৩),,,,,die/eine Drei (D), / der/ein Dreier (A),
+ausreichend,,,grade,sufficient (grade 4),পর্যাপ্ত (গ্রেড ৪),,,,,die/eine Vier (D), / der/ein Vierer (A),
+mangelhaft,,,grade,deficient (grade 5),অপ্রতুল (গ্রেড ৫),,,,,die/eine Fünf (D), / der/ein Fünfer (A),
+ungenügend,,,grade,insufficient (grade 6),অপর্যাপ্ত (গ্রেড ৬),,,,,die/eine Sechs (D), / der/ein Sechser (A),
+genügend,,,adj,sufficient,পর্যাপ্ত,,,,,,
+nicht genügend,,,adj,insufficient,অপর্যাপ্ত,,,,,,
+schlecht,,,adj,bad,খারাপ,,,,,,
+sehr schlecht,,,adj,very bad,খুব খারাপ,,,,,,

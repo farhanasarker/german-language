@@ -1,0 +1,25 @@
+{
+  "last_page": 15,
+  "completed_pages": [8, 9, 10, 11, 12, 13, 14, 15],
+  "total_words": 312,
+  "current_section": "alphabetischer_wortschatz",
+  "current_letter": "A",
+  "sections_done": [
+    "1.1_Abkuerzungen",
+    "1.2_Anglizismen", 
+    "1.3_Anweisungssprache",
+    "1.4_Bildungseinrichtungen",
+    "1.5_Schulfaecher",
+    "1.6_Schulnoten",
+    "1.7_Farben",
+    "1.8_Himmelsrichtungen",
+    "1.9_Laender_Kontinente",
+    "1.10_Politische_Begriffe",
+    "1.11_Tiere",
+    "1.12_Waehrungen_Masse_Gewichte",
+    "1.13_Zahlen_Bruchzahlen",
+    "1.14_Zeit"
+  ],
+  "next_page": 16,
+  "alphabetical_pages_done": []
+}

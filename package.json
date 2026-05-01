@@ -1,0 +1,25 @@
+{
+  "name": "german-flashcards",
+  "version": "0.1.0",
+  "description": "Anki-style flash card app for German B1 vocabulary",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "build:data": "python3 data/build_data.py",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:data": "python3 -m pytest data/test_build_data.py -v"
+  },
+  "dependencies": {
+    "dexie": "^4.0.8",
+    "preact": "^10.24.3"
+  },
+  "devDependencies": {
+    "@preact/preset-vite": "^2.9.0",
+    "typescript": "^5.6.3",
+    "vite": "^6.0.0",
+    "vitest": "^2.1.0"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -c \"import PyPDF2; print\\('PyPDF2 available'\\)\")",
+      "Bash(python3 -c \"import pdfplumber; print\\('pdfplumber available'\\)\")",
+      "Bash(python3 -c \"import pikepdf; print\\('pikepdf available'\\)\")",
+      "Bash(pip3 install *)",
+      "Bash(python3 *)",
+      "Bash(npm install *)",
+      "Read(//opt/homebrew/**)",
+      "Read(//usr/local/**)",
+      "Read(//opt/homebrew/lib/node_modules/npm/**)",
+      "Bash(brew list *)",
+      "Bash(npm test *)",
+      "Bash(npm run *)",
+      "Bash(lsof -ti:5173)",
+      "Bash(xargs kill *)",
+      "Bash(curl -s http://localhost:5173/german-language/)"
+    ]
+  }
+}

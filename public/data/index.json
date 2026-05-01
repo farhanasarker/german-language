@@ -1,0 +1,201 @@
+{
+  "decks": [
+    {
+      "id": "all",
+      "name": "All Words",
+      "description": "",
+      "cardCount": 360,
+      "category": "all"
+    },
+    {
+      "id": "tag-bildung",
+      "name": "Topic: Bildung",
+      "description": "",
+      "cardCount": 68,
+      "category": "tag"
+    },
+    {
+      "id": "tag-einkaufen",
+      "name": "Topic: Einkaufen",
+      "description": "",
+      "cardCount": 21,
+      "category": "tag"
+    },
+    {
+      "id": "tag-funktion",
+      "name": "Topic: Funktion",
+      "description": "",
+      "cardCount": 61,
+      "category": "tag"
+    },
+    {
+      "id": "tag-gesellschaft",
+      "name": "Topic: Gesellschaft",
+      "description": "",
+      "cardCount": 46,
+      "category": "tag"
+    },
+    {
+      "id": "tag-medien",
+      "name": "Topic: Medien",
+      "description": "",
+      "cardCount": 73,
+      "category": "tag"
+    },
+    {
+      "id": "tag-natur",
+      "name": "Topic: Natur",
+      "description": "",
+      "cardCount": 42,
+      "category": "tag"
+    },
+    {
+      "id": "tag-reisen",
+      "name": "Topic: Reisen",
+      "description": "",
+      "cardCount": 37,
+      "category": "tag"
+    },
+    {
+      "id": "tag-zeit",
+      "name": "Topic: Zeit",
+      "description": "",
+      "cardCount": 49,
+      "category": "tag"
+    },
+    {
+      "id": "type-adj",
+      "name": "Type: Adj",
+      "description": "",
+      "cardCount": 32,
+      "category": "type"
+    },
+    {
+      "id": "type-adverb",
+      "name": "Type: Adverb",
+      "description": "",
+      "cardCount": 6,
+      "category": "type"
+    },
+    {
+      "id": "type-noun",
+      "name": "Type: Noun",
+      "description": "",
+      "cardCount": 256,
+      "category": "type"
+    },
+    {
+      "id": "type-numeral",
+      "name": "Type: Numeral",
+      "description": "",
+      "cardCount": 30,
+      "category": "type"
+    },
+    {
+      "id": "type-verb",
+      "name": "Type: Verb",
+      "description": "",
+      "cardCount": 15,
+      "category": "type"
+    },
+    {
+      "id": "wg-1-1",
+      "name": "Wortgruppe: 1-1",
+      "description": "",
+      "cardCount": 23,
+      "category": "wg"
+    },
+    {
+      "id": "wg-1-10",
+      "name": "Wortgruppe: 1-10",
+      "description": "",
+      "cardCount": 13,
+      "category": "wg"
+    },
+    {
+      "id": "wg-1-11",
+      "name": "Wortgruppe: 1-11",
+      "description": "",
+      "cardCount": 24,
+      "category": "wg"
+    },
+    {
+      "id": "wg-1-12",
+      "name": "Wortgruppe: 1-12",
+      "description": "",
+      "cardCount": 21,
+      "category": "wg"
+    },
+    {
+      "id": "wg-1-13",
+      "name": "Wortgruppe: 1-13",
+      "description": "",
+      "cardCount": 38,
+      "category": "wg"
+    },
+    {
+      "id": "wg-1-14",
+      "name": "Wortgruppe: 1-14",
+      "description": "",
+      "cardCount": 49,
+      "category": "wg"
+    },
+    {
+      "id": "wg-1-2",
+      "name": "Wortgruppe: 1-2",
+      "description": "",
+      "cardCount": 73,
+      "category": "wg"
+    },
+    {
+      "id": "wg-1-3",
+      "name": "Wortgruppe: 1-3",
+      "description": "",
+      "cardCount": 21,
+      "category": "wg"
+    },
+    {
+      "id": "wg-1-4",
+      "name": "Wortgruppe: 1-4",
+      "description": "",
+      "cardCount": 28,
+      "category": "wg"
+    },
+    {
+      "id": "wg-1-5",
+      "name": "Wortgruppe: 1-5",
+      "description": "",
+      "cardCount": 9,
+      "category": "wg"
+    },
+    {
+      "id": "wg-1-6",
+      "name": "Wortgruppe: 1-6",
+      "description": "",
+      "cardCount": 10,
+      "category": "wg"
+    },
+    {
+      "id": "wg-1-7",
+      "name": "Wortgruppe: 1-7",
+      "description": "",
+      "cardCount": 14,
+      "category": "wg"
+    },
+    {
+      "id": "wg-1-8",
+      "name": "Wortgruppe: 1-8",
+      "description": "",
+      "cardCount": 4,
+      "category": "wg"
+    },
+    {
+      "id": "wg-1-9",
+      "name": "Wortgruppe: 1-9",
+      "description": "",
+      "cardCount": 33,
+      "category": "wg"
+    }
+  ],
+  "generatedAt": ""
+}

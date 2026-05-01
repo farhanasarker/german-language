@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1.8_-0000",
+    "word": "Norden",
+    "article": "der",
+    "plural": "",
+    "wordType": "noun",
+    "english": "north",
+    "bangla": "উত্তর",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "nördlich, Nord-",
+    "antonyms": "",
+    "tags": "Reisen,Natur"
+  },
+  {
+    "id": "1.8_-0001",
+    "word": "Osten",
+    "article": "der",
+    "plural": "",
+    "wordType": "noun",
+    "english": "east",
+    "bangla": "পূর্ব",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "östlich, Ost-",
+    "antonyms": "",
+    "tags": "Reisen,Natur"
+  },
+  {
+    "id": "1.8_-0002",
+    "word": "Süden",
+    "article": "der",
+    "plural": "",
+    "wordType": "noun",
+    "english": "south",
+    "bangla": "দক্ষিণ",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "südlich, Süd-",
+    "antonyms": "",
+    "tags": "Reisen,Natur"
+  },
+  {
+    "id": "1.8_-0003",
+    "word": "Westen",
+    "article": "der",
+    "plural": "",
+    "wordType": "noun",
+    "english": "west",
+    "bangla": "পশ্চিম",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "westlich, West-",
+    "antonyms": "",
+    "tags": "Reisen,Natur"
+  }
+]

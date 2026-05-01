@@ -1,0 +1,22 @@
+Word,Article,Plural,WordType,English,Bangla,Partizip_II,Auxiliary,Example_Sentence,Synonyms,Antonyms
+Euro,der,-s,noun,euro (currency),ইউরো (মুদ্রা),,,,,
+Cent,der,-s,noun,cent,সেন্ট (মুদ্রা),,,,,
+Franken,der,-,noun,franc (Swiss currency),ফ্রাংক (সুইস মুদ্রা),,,,,
+Rappen,der,-,noun,rappen (Swiss cent),রাপেন (সুইস সেন্ট),,,,,
+Meter,der,-,noun,meter,মিটার,,,,m,
+Zentimeter,der,-,noun,centimeter,সেন্টিমিটার,,,,cm,
+Kilometer,der,-,noun,kilometer,কিলোমিটার,,,,km,
+Quadratmeter,der,-,noun,square meter,বর্গমিটার,,,,m²,
+Grad,der,-,noun,degree,ডিগ্রী,,,,°C,
+Prozent,das,-,noun,percent,শতাংশ,,,,%,
+Liter,der,-,noun,liter,লিটার,,,,l,
+Gramm,das,-,noun,gram,গ্রাম,,,,g,
+Pfund,das,-,noun,pound (500g),পাউন্ড (৫০০গ্রাম),,,,,
+Kilo(gramm),das,-,noun,kilogram,কিলোগ্রাম,,,,kg,
+Deka(gramm),das,-,noun,"decagram (10g, Austria)","ডেকাগ্রাম (১০গ্রাম, অস্ট্রিয়া)",ডেকাগ্রাম (১০গ্রাম,,,"dkg, dag",
+Kilometer pro Stunde,,,noun,kilometers per hour,কিলোমিটার প্রতি ঘণ্টা,,,,,km/h
+plus,,,preposition/conjunction,plus,যোগ,,,,,
+minus,,,preposition/conjunction,minus,বিয়োগ,,,,,
+halb,,,adj,half,অর্ধেক,,,,,½
+Drittel,das,-,noun,one third,এক তৃতীয়াংশ,,,,⅓,
+Viertel,das,-,noun,one quarter,এক চতুর্থাংশ,,,,¼,
