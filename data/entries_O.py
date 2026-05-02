@@ -1,0 +1,122 @@
+"""O entries from pages 68-69"""
+import csv, os
+
+CSV_DIR = os.path.join(os.path.dirname(os.path.dirname(__file__)), "csv", "alphabetisch")
+
+ENTRIES = [
+    ("ob", "", "", "conjunction", "whether/if", "কিনা", "", "",
+     "Ich weiss nicht, ob er heute kommt.", "", ""),
+    ("oben", "", "", "adv", "above/upstairs", "উপরে", "", "",
+     "Das Buch liegt oben im Regal.", "", ""),
+    ("ober-", "", "", "adj", "upper", "উপরের", "", "",
+     "Das obere Fenster ist geöffnet.", "", ""),
+    ("Ober", "der", "-", "noun", "waiter", "ওয়েটার", "", "",
+     "Der Ober bringt die Speisekarte.", "", ""),
+    ("Obers", "das", "-", "noun", "whipped cream (A)", "হুইপড ক্রিম", "", "",
+     "In Österreich isst man Kuchen mit Obers.", "", ""),
+    ("Obst", "das", "-", "noun", "fruit", "ফল", "", "",
+     "Ich esse gern frisches Obst.", "", ""),
+    ("obwohl", "", "", "conjunction", "although", "যদিও", "", "",
+     "Obwohl es regnet, gehen wir spazieren.", "", ""),
+    ("oder", "", "", "conjunction", "or", "অথবা", "", "",
+     "Möchtest du Tee oder Kaffee?", "", ""),
+    ("Ofen", "der", "Öfen", "noun", "oven/baking oven", "চুলা/ওভেন", "", "",
+     "Der Kuchen ist noch im Ofen.", "", ""),
+    ("offen", "", "", "adj", "open", "খোলা", "", "",
+     "Die Tür ist offen.", "", ""),
+    ("öffentlich", "", "", "adj", "public", "সরকারি/পাবলিক", "", "",
+     "Das ist ein öffentliches Gebäude.", "", ""),
+    ("Öffentlichkeit", "die", "-", "noun", "public/publicity", "জনসাধারণ", "", "",
+     "Die Öffentlichkeit wurde informiert.", "", ""),
+    ("veröffentlichen", "", "", "verb", "to publish", "প্রকাশ করা", "veröffentlicht", "hat",
+     "Der Autor möchte ein Buch veröffentlichen.", "", ""),
+    ("offenbar", "", "", "adv", "apparently/evidently", "স্পষ্টতই", "", "",
+     "Er ist offenbar krank.", "", ""),
+    ("offiziell", "", "", "adj", "official", "দাপ্তরিক/সরকারি", "", "",
+     "Das ist die offizielle Mitteilung.", "", ""),
+    ("öffnen", "", "", "verb", "to open", "খোলা", "geöffnet", "hat",
+     "Kannst du bitte die Tür öffnen?", "", ""),
+    ("oft/öfter", "", "", "adv", "often/more often", "প্রায়ই/বেশিবার", "", "",
+     "Ich gehe oft ins Kino.", "", ""),
+    ("ohne", "", "", "preposition", "without", "ছাড়া", "", "",
+     "Ich trinke Kaffee ohne Zucker.", "", ""),
+    ("Ohr", "das", "-en", "noun", "ear", "কান", "", "",
+     "Das Kind hat kleine Ohren.", "", ""),
+    ("Öko-", "", "", "prefix", "eco-/ecological", "ইকো-/পরিবেশগত", "", "",
+     "Öko-Produkte werden immer beliebter.", "", ""),
+    ("Öl", "das", "-e", "noun", "oil", "তেল", "", "",
+     "Wir brauchen Olivenöl für den Salat.", "", ""),
+    ("Oma", "die", "-s", "noun", "grandma", "দাদি/নানি", "", "",
+     "Meine Oma wohnt auf dem Land.", "", ""),
+    ("Onkel", "der", "-", "noun", "uncle", "চাচা/মামা", "", "",
+     "Mein Onkel besucht uns morgen.", "", ""),
+    ("Opa", "der", "-s", "noun", "grandpa", "দাদা/নানা", "", "",
+     "Mein Opa erzählt gern Geschichten.", "", ""),
+    ("Oper", "die", "-n", "noun", "opera", "অপেরা", "", "",
+     "Die Oper beginnt um 19 Uhr.", "", ""),
+    ("operieren", "", "", "verb", "to operate", "অস্ত্রোপচার করা", "operiert", "hat",
+     "Der Arzt muss den Patienten operieren.", "", ""),
+    ("Operation", "die", "-en", "noun", "operation/surgery", "অস্ত্রোপচার/অপারেশন", "", "",
+     "Die Operation war erfolgreich.", "", ""),
+    ("Opfer", "das", "-", "noun", "victim/sacrifice", "শিকার/ত্যাগ", "", "",
+     "Er wurde Opfer eines Betrugs.", "", ""),
+    ("optimistisch", "", "", "adj", "optimistic", "আশাবাদী", "", "",
+     "Sie blickt optimistisch in die Zukunft.", "", ""),
+    ("Orange", "die", "-n", "noun", "orange", "কমলা", "", "",
+     "Die Orange schmeckt sehr süss.", "", ""),
+    ("Orchester", "das", "-", "noun", "orchestra", "অর্কেস্ট্রা", "", "",
+     "Das Orchester spielt eine Sinfonie.", "", ""),
+    ("ordentlich", "", "", "adj", "tidy/orderly/decent", "পরিপাটি/শৃঙ্খলিত", "", "",
+     "Dein Schreibtisch ist immer ordentlich.", "", ""),
+    ("Ordination", "die", "-en", "noun", "doctor's office (A)", "ডাক্তারের চেম্বার", "", "",
+     "Die Ordination hat um acht Uhr geöffnet.", "", ""),
+    ("ordnen", "", "", "verb", "to organize/sort", "সাজানো/বিন্যস্ত করা", "geordnet", "hat",
+     "Ich muss meine Unterlagen ordnen.", "", ""),
+    ("Ordner", "der", "-", "noun", "folder/binder", "ফোল্ডার/বাইন্ডার", "", "",
+     "Die Dokumente sind im blauen Ordner.", "", ""),
+    ("Ordnung", "die", "-", "noun", "order/tidiness", "শৃঙ্খলা/পরিপাটি", "", "",
+     "Die Kinder müssen Ordnung halten.", "", ""),
+    ("organisieren", "", "", "verb", "to organize", "আয়োজন করা/সংগঠিত করা", "organisiert", "hat",
+     "Wir organisieren eine Überraschungsparty.", "", ""),
+    ("Organisation", "die", "-en", "noun", "organization", "সংগঠন/প্রতিষ্ঠান", "", "",
+     "Die Organisation hilft bedürftigen Menschen.", "", ""),
+    ("Original", "das", "-e", "noun", "original", "মূল/মৌলিক", "", "",
+     "Das Original hängt im Museum.", "", ""),
+    ("original", "", "", "adj", "original", "মূল/আসল", "", "",
+     "Das ist eine originale Unterschrift.", "", ""),
+    ("Ort", "der", "-e", "noun", "place/location", "স্থান/জায়গা", "", "",
+     "Das ist ein ruhiger Ort.", "", ""),
+    ("Vorort", "der", "-e", "noun", "suburb", "উপনগরী/উপশহর", "", "",
+     "Sie wohnt in einem Vorort von Wien.", "", ""),
+    ("Wohnort", "der", "-e", "noun", "place of residence", "বাসস্থান", "", "",
+     "Mein Wohnort ist Hamburg.", "", ""),
+    ("Ozean", "der", "-e", "noun", "ocean", "মহাসাগর", "", "",
+     "Der Pazifik ist der grösste Ozean.", "", ""),
+]
+
+def write_entries(filename, entries):
+    filepath = os.path.join(CSV_DIR, filename)
+    existing = []
+    existing_words = set()
+    if os.path.exists(filepath):
+        with open(filepath, 'r', encoding='utf-8') as f:
+            reader = csv.reader(f)
+            header = next(reader)
+            for row in reader:
+                existing.append(row)
+                existing_words.add(row[0])
+    new_count = 0
+    with open(filepath, 'w', encoding='utf-8', newline='') as f:
+        writer = csv.writer(f)
+        writer.writerow(["Word", "Article", "Plural", "WordType", "English", "Bangla",
+                          "Partizip_II", "Auxiliary", "Example_Sentence", "Synonyms", "Antonyms"])
+        for row in existing:
+            writer.writerow(row)
+        for e in entries:
+            if e[0] not in existing_words:
+                writer.writerow(e)
+                new_count += 1
+    print(f"{filename}: {len(existing)} existing + {new_count} new = {len(existing) + new_count} total")
+
+if __name__ == "__main__":
+    write_entries("O.csv", ENTRIES)
