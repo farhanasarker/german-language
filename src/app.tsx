@@ -2,10 +2,12 @@ import { useState, useEffect, useCallback } from "preact/hooks";
 import { DeckList } from "./components/DeckList";
 import { StudySession } from "./components/StudySession";
 import { SettingsPanel } from "./components/SettingsPanel";
+import { CustomDeck } from "./components/CustomDeck";
 import { loadDeckIndex, loadDeck, type DeckIndex, type CardEntry } from "./data";
 import { exportAllProgress, importProgress } from "./storage";
+import { getCustomDeckId } from "./custom-words";
 
-type Page = "decks" | "study" | "settings";
+type Page = "decks" | "study" | "settings" | "custom";
 
 export function App() {
   const [page, setPage] = useState<Page>("decks");
@@ -31,6 +33,12 @@ export function App() {
     } catch (e: any) {
       setError(`Failed to load deck: ${e.message}`);
     }
+  }, []);
+
+  const startCustomStudy = useCallback((customEntries: CardEntry[]) => {
+    setEntries(customEntries);
+    setCurrentDeckId(getCustomDeckId());
+    setPage("study");
   }, []);
 
   const backToDecks = useCallback(() => {
@@ -102,6 +110,13 @@ export function App() {
           <button
             class="secondary"
             style={{ fontSize: "0.8rem", padding: "6px 12px" }}
+            onClick={() => setPage(page === "custom" ? "decks" : "custom")}
+          >
+            {page === "custom" ? "Decks" : "Custom Words"}
+          </button>
+          <button
+            class="secondary"
+            style={{ fontSize: "0.8rem", padding: "6px 12px" }}
             onClick={() => setPage(page === "settings" ? "decks" : "settings")}
           >
             {page === "settings" ? "Decks" : "Settings"}
@@ -116,7 +131,11 @@ export function App() {
       </header>
 
       {page === "decks" && deckIndex && (
-        <DeckList index={deckIndex} onSelectDeck={startStudy} />
+        <DeckList
+          index={deckIndex}
+          onSelectDeck={startStudy}
+          onCustomDeck={() => setPage("custom")}
+        />
       )}
 
       {page === "study" && currentDeckId && (
@@ -129,6 +148,10 @@ export function App() {
 
       {page === "settings" && (
         <SettingsPanel onClose={() => setPage("decks")} />
+      )}
+
+      {page === "custom" && (
+        <CustomDeck onStartStudy={startCustomStudy} />
       )}
     </div>
   );
