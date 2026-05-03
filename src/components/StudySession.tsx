@@ -12,6 +12,7 @@ interface Props {
   deckId: string;
   entries: CardEntry[];
   onDone: () => void;
+  forceAll?: boolean;
 }
 
 interface StudyCard {
@@ -20,7 +21,7 @@ interface StudyCard {
   sides: CardFaceData[];
 }
 
-export function StudySession({ entries, onDone }: Props) {
+export function StudySession({ entries, onDone, forceAll }: Props) {
   const [settings, setSettings] = useState<CardSettings | null>(null);
   const [cards, setCards] = useState<StudyCard[]>([]);
   const [currentIdx, setCurrentIdx] = useState(0);
@@ -54,7 +55,9 @@ export function StudySession({ entries, onDone }: Props) {
         studyCards.push({ srs: srsState, entry, sides });
       }
 
-      const due = getDueCards(studyCards.map((c) => c.srs));
+      const due = forceAll
+        ? studyCards.map((c) => c.srs)
+        : getDueCards(studyCards.map((c) => c.srs));
       const dueIds = new Set(due.map((d) => d.cardId));
       const dueCards = studyCards.filter((c) => dueIds.has(c.srs.cardId));
 

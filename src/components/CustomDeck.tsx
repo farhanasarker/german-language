@@ -1,5 +1,5 @@
 import { useState, useEffect } from "preact/hooks";
-import { loadAllEntries, getLookupMap, matchWords, extractWords } from "../custom-words";
+import { loadAllEntries, getLookupMap, matchWords, extractWords, getCustomText, setCustomText } from "../custom-words";
 import type { CardEntry } from "../data";
 import type { MatchResult, NoMatch } from "../custom-words";
 
@@ -10,7 +10,7 @@ interface Props {
 export function CustomDeck({ onStartStudy }: Props) {
   const [loading, setLoading] = useState(true);
   const [loadError, setLoadError] = useState<string | null>(null);
-  const [text, setText] = useState("");
+  const [text, setText] = useState(getCustomText);
   const [results, setResults] = useState<{
     matches: MatchResult[];
     unmatched: NoMatch[];
@@ -78,7 +78,9 @@ export function CustomDeck({ onStartStudy }: Props) {
       <textarea
         value={text}
         onInput={(e) => {
-          setText((e.target as HTMLTextAreaElement).value);
+          const v = (e.target as HTMLTextAreaElement).value;
+          setText(v);
+          setCustomText(v);
           setResults(null);
           setSearchError(null);
         }}

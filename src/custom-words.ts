@@ -92,6 +92,17 @@ export function extractWords(text: string): string[] {
     .filter((s) => s.length > 0);
 }
 
+// Persist text across page navigation within the session
+let savedText = "";
+
+export function getCustomText(): string {
+  return savedText;
+}
+
+export function setCustomText(text: string): void {
+  savedText = text;
+}
+
 export function getCustomDeckId(): string {
   return DECK_ID;
 }

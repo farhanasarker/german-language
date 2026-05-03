@@ -143,6 +143,7 @@ export function App() {
           deckId={currentDeckId}
           entries={entries}
           onDone={backToDecks}
+          forceAll={currentDeckId === getCustomDeckId()}
         />
       )}
 
