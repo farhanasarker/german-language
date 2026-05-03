@@ -448,5 +448,20 @@
     "synonyms": "",
     "antonyms": "4.",
     "tags": "Funktion"
+  },
+  {
+    "id": "E-0023",
+    "word": "ein-",
+    "article": "",
+    "plural": "",
+    "wordType": "numeral",
+    "english": "one / a / an",
+    "bangla": "এক / একটি",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Ich nehme ein Bier. Willst du auch eins?",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
   }
 ]
