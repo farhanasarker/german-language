@@ -18,7 +18,8 @@
       "Bash(curl -s http://localhost:5173/german-language/)",
       "Bash(curl -s http://localhost:5173/german-language/data/letter-a.json)",
       "Bash(python3 extract_pdf.py 31 104)",
-      "Read(//tmp/**)"
+      "Read(//tmp/**)",
+      "Bash(npx tsc *)"
     ]
   }
 }

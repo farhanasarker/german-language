@@ -1,21 +1,6 @@
 [
   {
     "id": "J-0000",
-    "word": "ja",
-    "article": "",
-    "plural": "",
-    "wordType": "particle",
-    "english": "yes / indeed / after all",
-    "bangla": "হ্যাঁ / নিশ্চয়ই",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Sind Sie verheiratet? – Ja.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "J-0001",
     "word": "Jacke",
     "article": "die",
     "plural": "-n",
@@ -30,7 +15,7 @@
     "tags": ""
   },
   {
-    "id": "J-0002",
+    "id": "J-0001",
     "word": "Jause",
     "article": "die",
     "plural": "-n",
@@ -45,22 +30,7 @@
     "tags": ""
   },
   {
-    "id": "J-0003",
-    "word": "je",
-    "article": "",
-    "plural": "",
-    "wordType": "adv",
-    "english": "per / each / ever",
-    "bangla": "প্রতি / প্রতি / কখনও",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Die Pullover kosten je nach Qualität zwischen 40 und 60 Euro.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "J-0004",
+    "id": "J-0002",
     "word": "je...desto...",
     "article": "",
     "plural": "",
@@ -75,7 +45,7 @@
     "tags": ""
   },
   {
-    "id": "J-0005",
+    "id": "J-0003",
     "word": "Jeans",
     "article": "die",
     "plural": "(Pl.)",
@@ -90,7 +60,7 @@
     "tags": ""
   },
   {
-    "id": "J-0006",
+    "id": "J-0004",
     "word": "jeder/jedes/jede",
     "article": "",
     "plural": "",
@@ -105,7 +75,7 @@
     "tags": ""
   },
   {
-    "id": "J-0007",
+    "id": "J-0005",
     "word": "jederzeit",
     "article": "",
     "plural": "",
@@ -120,7 +90,7 @@
     "tags": ""
   },
   {
-    "id": "J-0008",
+    "id": "J-0006",
     "word": "jedes Mal",
     "article": "",
     "plural": "",
@@ -135,7 +105,7 @@
     "tags": ""
   },
   {
-    "id": "J-0009",
+    "id": "J-0007",
     "word": "jedoch",
     "article": "",
     "plural": "",
@@ -150,7 +120,7 @@
     "tags": ""
   },
   {
-    "id": "J-0010",
+    "id": "J-0008",
     "word": "jemals",
     "article": "",
     "plural": "",
@@ -165,7 +135,7 @@
     "tags": ""
   },
   {
-    "id": "J-0011",
+    "id": "J-0009",
     "word": "jemand",
     "article": "",
     "plural": "",
@@ -180,7 +150,7 @@
     "tags": ""
   },
   {
-    "id": "J-0012",
+    "id": "J-0010",
     "word": "jetzt",
     "article": "",
     "plural": "",
@@ -195,7 +165,7 @@
     "tags": ""
   },
   {
-    "id": "J-0013",
+    "id": "J-0011",
     "word": "jeweils",
     "article": "",
     "plural": "",
@@ -210,7 +180,7 @@
     "tags": ""
   },
   {
-    "id": "J-0014",
+    "id": "J-0012",
     "word": "Journalist",
     "article": "der",
     "plural": "-en",
@@ -225,7 +195,7 @@
     "tags": ""
   },
   {
-    "id": "J-0015",
+    "id": "J-0013",
     "word": "Journalistin",
     "article": "die",
     "plural": "-nen",
@@ -240,7 +210,7 @@
     "tags": ""
   },
   {
-    "id": "J-0016",
+    "id": "J-0014",
     "word": "Jugend",
     "article": "die",
     "plural": "",
@@ -255,22 +225,7 @@
     "tags": ""
   },
   {
-    "id": "J-0017",
-    "word": "Jugendliche",
-    "article": "der/die",
-    "plural": "-n",
-    "wordType": "noun",
-    "english": "adolescent / teenager / youth",
-    "bangla": "কিশোর / তরুণ",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Die Jugendlichen gehen gerne in die Disko.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "J-0018",
+    "id": "J-0015",
     "word": "Jugendherberge",
     "article": "die",
     "plural": "-n",
@@ -285,7 +240,22 @@
     "tags": ""
   },
   {
-    "id": "J-0019",
+    "id": "J-0016",
+    "word": "Jugendliche",
+    "article": "der/die",
+    "plural": "-n",
+    "wordType": "noun",
+    "english": "adolescent / teenager / youth",
+    "bangla": "কিশোর / তরুণ",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Die Jugendlichen gehen gerne in die Disko.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "J-0017",
     "word": "jung",
     "article": "",
     "plural": "",
@@ -300,7 +270,7 @@
     "tags": ""
   },
   {
-    "id": "J-0020",
+    "id": "J-0018",
     "word": "Junge",
     "article": "der",
     "plural": "-n",

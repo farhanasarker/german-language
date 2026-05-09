@@ -76,36 +76,6 @@
   },
   {
     "id": "H-0005",
-    "word": "Hähnchen",
-    "article": "das",
-    "plural": "-",
-    "wordType": "noun",
-    "english": "chicken (roasted, Germany)",
-    "bangla": "মুরগির মাংস (জার্মানি)",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Zum Mittagessen gibt es Hühnchen mit Reis.",
-    "synonyms": "D: Hähnchen/Hühnchen, A: Hend(e)l, CH: Poulet",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0006",
-    "word": "Hühnchen",
-    "article": "das",
-    "plural": "-",
-    "wordType": "noun",
-    "english": "chicken (roasted, Germany)",
-    "bangla": "মুরগির মাংস (জার্মানি)",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Zum Mittagessen gibt es Hühnchen mit Reis.",
-    "synonyms": "D: Hähnchen/Hühnchen, A: Hend(e)l, CH: Poulet",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0007",
     "word": "halb",
     "article": "",
     "plural": "",
@@ -120,7 +90,7 @@
     "tags": ""
   },
   {
-    "id": "H-0008",
+    "id": "H-0006",
     "word": "Halbpension",
     "article": "die",
     "plural": "",
@@ -135,7 +105,7 @@
     "tags": ""
   },
   {
-    "id": "H-0009",
+    "id": "H-0007",
     "word": "halbtags",
     "article": "",
     "plural": "",
@@ -150,22 +120,7 @@
     "tags": ""
   },
   {
-    "id": "H-0010",
-    "word": "Hälfte",
-    "article": "die",
-    "plural": "-n",
-    "wordType": "noun",
-    "english": "half",
-    "bangla": "অর্ধেক",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Bitte teilt euch die Schokolade. Jeder bekommt die Hälfte.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0011",
+    "id": "H-0008",
     "word": "Halle",
     "article": "die",
     "plural": "-n",
@@ -180,7 +135,7 @@
     "tags": ""
   },
   {
-    "id": "H-0012",
+    "id": "H-0009",
     "word": "Hallenbad",
     "article": "das",
     "plural": "¨-er",
@@ -195,7 +150,7 @@
     "tags": ""
   },
   {
-    "id": "H-0013",
+    "id": "H-0010",
     "word": "hallo",
     "article": "",
     "plural": "",
@@ -210,7 +165,7 @@
     "tags": ""
   },
   {
-    "id": "H-0014",
+    "id": "H-0011",
     "word": "Hals",
     "article": "der",
     "plural": "¨-e",
@@ -225,52 +180,7 @@
     "tags": ""
   },
   {
-    "id": "H-0015",
-    "word": "halt",
-    "article": "",
-    "plural": "",
-    "wordType": "particle",
-    "english": "just / simply (modal particle)",
-    "bangla": "ঠিক / সহজভাবেই",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Es gibt leider keine Karten mehr. – Schade. Da kann man nichts machen. Das ist halt so.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0016",
-    "word": "haltbar",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "durable / long-lasting / storable",
-    "bangla": "টেকসই / দীর্ঘস্থায়ী",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Diese Tomaten sind mindestens 2 Wochen haltbar.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0017",
-    "word": "halten",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to hold / stop / keep",
-    "bangla": "ধরা / থামানো / রাখা",
-    "partizipII": "gehalten",
-    "auxiliary": "hat",
-    "exampleSentence": "Kannst du mal kurz meine Handtasche halten?",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0018",
+    "id": "H-0012",
     "word": "Halt",
     "article": "der",
     "plural": "",
@@ -285,7 +195,37 @@
     "tags": ""
   },
   {
-    "id": "H-0019",
+    "id": "H-0013",
+    "word": "haltbar",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "durable / long-lasting / storable",
+    "bangla": "টেকসই / দীর্ঘস্থায়ী",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Diese Tomaten sind mindestens 2 Wochen haltbar.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0014",
+    "word": "halten",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to hold / stop / keep",
+    "bangla": "ধরা / থামানো / রাখা",
+    "partizipII": "gehalten",
+    "auxiliary": "hat",
+    "exampleSentence": "Kannst du mal kurz meine Handtasche halten?",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0015",
     "word": "Haltestelle",
     "article": "die",
     "plural": "-n",
@@ -300,7 +240,7 @@
     "tags": ""
   },
   {
-    "id": "H-0020",
+    "id": "H-0016",
     "word": "Hammer",
     "article": "der",
     "plural": "¨-",
@@ -315,7 +255,7 @@
     "tags": ""
   },
   {
-    "id": "H-0021",
+    "id": "H-0017",
     "word": "Hand",
     "article": "die",
     "plural": "¨-e",
@@ -330,52 +270,7 @@
     "tags": ""
   },
   {
-    "id": "H-0022",
-    "word": "Handwerker",
-    "article": "der",
-    "plural": "-",
-    "wordType": "noun",
-    "english": "craftsman / tradesman",
-    "bangla": "কারিগর / মিস্ত্রী (পুরুষ)",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Morgen sind bei uns die Handwerker. Wir bekommen eine neue Badewanne.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0023",
-    "word": "Handwerkerin",
-    "article": "die",
-    "plural": "-nen",
-    "wordType": "noun",
-    "english": "craftswoman / tradeswoman",
-    "bangla": "কারিগর / মিস্ত্রী (মহিলা)",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Morgen sind bei uns die Handwerker.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0024",
-    "word": "handeln",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to act / trade / deal with",
-    "bangla": "ব্যবসা করা / কাজ করা",
-    "partizipII": "gehandelt",
-    "auxiliary": "hat",
-    "exampleSentence": "Herr Huber hat ein kleines Geschäft. Er handelt mit Obst und Gemüse.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0025",
+    "id": "H-0018",
     "word": "Handel",
     "article": "der",
     "plural": "",
@@ -390,37 +285,52 @@
     "tags": ""
   },
   {
-    "id": "H-0026",
-    "word": "Händler",
+    "id": "H-0019",
+    "word": "handeln",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to act / trade / deal with",
+    "bangla": "ব্যবসা করা / কাজ করা",
+    "partizipII": "gehandelt",
+    "auxiliary": "hat",
+    "exampleSentence": "Herr Huber hat ein kleines Geschäft. Er handelt mit Obst und Gemüse.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0020",
+    "word": "Handwerker",
     "article": "der",
     "plural": "-",
     "wordType": "noun",
-    "english": "dealer / trader / merchant (male)",
-    "bangla": "ব্যবসায়ী (পুরুষ)",
+    "english": "craftsman / tradesman",
+    "bangla": "কারিগর / মিস্ত্রী (পুরুষ)",
     "partizipII": "",
     "auxiliary": "",
-    "exampleSentence": "Ich gehe zum Gemüsehändler, soll ich dir etwas mitbringen?",
+    "exampleSentence": "Morgen sind bei uns die Handwerker. Wir bekommen eine neue Badewanne.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "H-0027",
-    "word": "Händlerin",
+    "id": "H-0021",
+    "word": "Handwerkerin",
     "article": "die",
     "plural": "-nen",
     "wordType": "noun",
-    "english": "dealer / trader / merchant (female)",
-    "bangla": "ব্যবসায়ী (মহিলা)",
+    "english": "craftswoman / tradeswoman",
+    "bangla": "কারিগর / মিস্ত্রী (মহিলা)",
     "partizipII": "",
     "auxiliary": "",
-    "exampleSentence": "Ich gehe zur Gemüsehändlerin.",
+    "exampleSentence": "Morgen sind bei uns die Handwerker.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "H-0028",
+    "id": "H-0022",
     "word": "Handy",
     "article": "das",
     "plural": "-s",
@@ -435,22 +345,7 @@
     "tags": ""
   },
   {
-    "id": "H-0029",
-    "word": "hängen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to hang",
-    "bangla": "ঝোলানো / লটকানো",
-    "partizipII": "gehangen/gehängt",
-    "auxiliary": "hat",
-    "exampleSentence": "Das Bild hängt schief.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0030",
+    "id": "H-0023",
     "word": "hart",
     "article": "",
     "plural": "",
@@ -465,7 +360,7 @@
     "tags": ""
   },
   {
-    "id": "H-0031",
+    "id": "H-0024",
     "word": "hassen",
     "article": "",
     "plural": "",
@@ -480,37 +375,7 @@
     "tags": ""
   },
   {
-    "id": "H-0032",
-    "word": "hässlich",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "ugly",
-    "bangla": "কুৎসিত / অসুন্দর",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Das ist aber eine hässliche Lampe!",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0033",
-    "word": "häufig",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "frequent / often",
-    "bangla": "ঘন ঘন / প্রায়ই",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Haben Sie häufig Kopfschmerzen?",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0034",
+    "id": "H-0025",
     "word": "Haupt-",
     "article": "",
     "plural": "",
@@ -525,22 +390,7 @@
     "tags": ""
   },
   {
-    "id": "H-0035",
-    "word": "Hauptstadt",
-    "article": "die",
-    "plural": "¨-e",
-    "wordType": "noun",
-    "english": "capital city",
-    "bangla": "রাজধানী",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Berlin ist die Hauptstadt von Deutschland.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0036",
+    "id": "H-0026",
     "word": "Hauptbahnhof",
     "article": "der",
     "plural": "¨-e",
@@ -555,7 +405,22 @@
     "tags": ""
   },
   {
-    "id": "H-0037",
+    "id": "H-0027",
+    "word": "Hauptstadt",
+    "article": "die",
+    "plural": "¨-e",
+    "wordType": "noun",
+    "english": "capital city",
+    "bangla": "রাজধানী",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Berlin ist die Hauptstadt von Deutschland.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0028",
     "word": "Haus",
     "article": "das",
     "plural": "¨-er",
@@ -570,7 +435,7 @@
     "tags": ""
   },
   {
-    "id": "H-0038",
+    "id": "H-0029",
     "word": "Hausaufgabe",
     "article": "die",
     "plural": "-n",
@@ -585,7 +450,7 @@
     "tags": ""
   },
   {
-    "id": "H-0039",
+    "id": "H-0030",
     "word": "Hausfrau",
     "article": "die",
     "plural": "-en",
@@ -600,22 +465,7 @@
     "tags": ""
   },
   {
-    "id": "H-0040",
-    "word": "Hausmann",
-    "article": "der",
-    "plural": "¨-er",
-    "wordType": "noun",
-    "english": "househusband",
-    "bangla": "গৃহস্বামী",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Mein Mann ist Hausmann und kümmert sich um die Kinder.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0041",
+    "id": "H-0031",
     "word": "Haushalt",
     "article": "der",
     "plural": "-e",
@@ -630,7 +480,22 @@
     "tags": ""
   },
   {
-    "id": "H-0042",
+    "id": "H-0032",
+    "word": "Hausmann",
+    "article": "der",
+    "plural": "¨-er",
+    "wordType": "noun",
+    "english": "househusband",
+    "bangla": "গৃহস্বামী",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Mein Mann ist Hausmann und kümmert sich um die Kinder.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0033",
     "word": "Hausmeister",
     "article": "der",
     "plural": "-",
@@ -645,7 +510,7 @@
     "tags": ""
   },
   {
-    "id": "H-0043",
+    "id": "H-0034",
     "word": "Hausmeisterin",
     "article": "die",
     "plural": "-nen",
@@ -660,7 +525,22 @@
     "tags": ""
   },
   {
-    "id": "H-0044",
+    "id": "H-0035",
+    "word": "Haustier",
+    "article": "das",
+    "plural": "-e",
+    "wordType": "noun",
+    "english": "pet",
+    "bangla": "পালিত প্রাণী / পোষা প্রাণী",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Hat deine Familie ein Haustier? − Ja, wir haben einen Hund.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0036",
     "word": "Haut",
     "article": "die",
     "plural": "",
@@ -675,7 +555,7 @@
     "tags": ""
   },
   {
-    "id": "H-0045",
+    "id": "H-0037",
     "word": "heben",
     "article": "",
     "plural": "",
@@ -690,7 +570,7 @@
     "tags": ""
   },
   {
-    "id": "H-0046",
+    "id": "H-0038",
     "word": "Heft",
     "article": "das",
     "plural": "-e",
@@ -705,22 +585,7 @@
     "tags": ""
   },
   {
-    "id": "H-0047",
-    "word": "heim",
-    "article": "",
-    "plural": "",
-    "wordType": "adv",
-    "english": "home (direction)",
-    "bangla": "বাড়ির দিকে",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ich will jetzt heim.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0048",
+    "id": "H-0039",
     "word": "Heim",
     "article": "das",
     "plural": "-e",
@@ -735,7 +600,7 @@
     "tags": ""
   },
   {
-    "id": "H-0049",
+    "id": "H-0040",
     "word": "Heimat",
     "article": "die",
     "plural": "",
@@ -750,7 +615,7 @@
     "tags": ""
   },
   {
-    "id": "H-0050",
+    "id": "H-0041",
     "word": "heimlich",
     "article": "",
     "plural": "",
@@ -765,7 +630,7 @@
     "tags": ""
   },
   {
-    "id": "H-0051",
+    "id": "H-0042",
     "word": "Heimweh",
     "article": "das",
     "plural": "",
@@ -780,7 +645,7 @@
     "tags": ""
   },
   {
-    "id": "H-0052",
+    "id": "H-0043",
     "word": "heiraten",
     "article": "",
     "plural": "",
@@ -795,37 +660,7 @@
     "tags": ""
   },
   {
-    "id": "H-0053",
-    "word": "heiß",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "hot",
-    "bangla": "গরম",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Für die Jahreszeit ist es zu heiß.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0054",
-    "word": "heißen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to be called / mean",
-    "bangla": "নাম হওয়া / অর্থ হওয়া",
-    "partizipII": "geheißen",
-    "auxiliary": "hat",
-    "exampleSentence": "Wie heißen Sie?",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0055",
+    "id": "H-0044",
     "word": "heizen",
     "article": "",
     "plural": "",
@@ -840,7 +675,7 @@
     "tags": ""
   },
   {
-    "id": "H-0056",
+    "id": "H-0045",
     "word": "Heizung",
     "article": "die",
     "plural": "-en",
@@ -855,7 +690,37 @@
     "tags": ""
   },
   {
-    "id": "H-0057",
+    "id": "H-0046",
+    "word": "heiß",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "hot",
+    "bangla": "গরম",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Für die Jahreszeit ist es zu heiß.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0047",
+    "word": "heißen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to be called / mean",
+    "bangla": "নাম হওয়া / অর্থ হওয়া",
+    "partizipII": "geheißen",
+    "auxiliary": "hat",
+    "exampleSentence": "Wie heißen Sie?",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0048",
     "word": "Held",
     "article": "der",
     "plural": "-en",
@@ -870,7 +735,7 @@
     "tags": ""
   },
   {
-    "id": "H-0058",
+    "id": "H-0049",
     "word": "Heldin",
     "article": "die",
     "plural": "-nen",
@@ -885,7 +750,7 @@
     "tags": ""
   },
   {
-    "id": "H-0059",
+    "id": "H-0050",
     "word": "helfen",
     "article": "",
     "plural": "",
@@ -900,22 +765,7 @@
     "tags": ""
   },
   {
-    "id": "H-0060",
-    "word": "Hilfe",
-    "article": "die",
-    "plural": "",
-    "wordType": "noun",
-    "english": "help / aid",
-    "bangla": "সাহায্য",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Vielen Dank für Ihre Hilfe.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0061",
+    "id": "H-0051",
     "word": "hell",
     "article": "",
     "plural": "",
@@ -930,7 +780,7 @@
     "tags": ""
   },
   {
-    "id": "H-0062",
+    "id": "H-0052",
     "word": "Hemd",
     "article": "das",
     "plural": "-en",
@@ -945,7 +795,7 @@
     "tags": ""
   },
   {
-    "id": "H-0063",
+    "id": "H-0053",
     "word": "Hend(e)l",
     "article": "das",
     "plural": "-",
@@ -960,7 +810,7 @@
     "tags": ""
   },
   {
-    "id": "H-0064",
+    "id": "H-0054",
     "word": "her/her-",
     "article": "",
     "plural": "",
@@ -975,7 +825,22 @@
     "tags": ""
   },
   {
-    "id": "H-0065",
+    "id": "H-0055",
+    "word": "heraus",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0056",
     "word": "heraus-",
     "article": "",
     "plural": "",
@@ -990,7 +855,7 @@
     "tags": ""
   },
   {
-    "id": "H-0066",
+    "id": "H-0057",
     "word": "herausfinden",
     "article": "",
     "plural": "",
@@ -1005,7 +870,7 @@
     "tags": ""
   },
   {
-    "id": "H-0067",
+    "id": "H-0058",
     "word": "Herausforderung",
     "article": "die",
     "plural": "-en",
@@ -1020,7 +885,7 @@
     "tags": ""
   },
   {
-    "id": "H-0068",
+    "id": "H-0059",
     "word": "Herd",
     "article": "der",
     "plural": "-e",
@@ -1035,7 +900,7 @@
     "tags": ""
   },
   {
-    "id": "H-0069",
+    "id": "H-0060",
     "word": "herein-",
     "article": "",
     "plural": "",
@@ -1050,7 +915,7 @@
     "tags": ""
   },
   {
-    "id": "H-0070",
+    "id": "H-0061",
     "word": "Herkunft",
     "article": "die",
     "plural": "",
@@ -1065,7 +930,7 @@
     "tags": ""
   },
   {
-    "id": "H-0071",
+    "id": "H-0062",
     "word": "Herr",
     "article": "der",
     "plural": "-en",
@@ -1080,7 +945,7 @@
     "tags": ""
   },
   {
-    "id": "H-0072",
+    "id": "H-0063",
     "word": "herstellen",
     "article": "",
     "plural": "",
@@ -1095,7 +960,7 @@
     "tags": ""
   },
   {
-    "id": "H-0073",
+    "id": "H-0064",
     "word": "Hersteller",
     "article": "der",
     "plural": "-",
@@ -1110,7 +975,22 @@
     "tags": ""
   },
   {
-    "id": "H-0074",
+    "id": "H-0065",
+    "word": "herunter",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Es ist kalt. Ist die Heizung kaputt?",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0066",
     "word": "herunter-",
     "article": "",
     "plural": "",
@@ -1125,22 +1005,7 @@
     "tags": ""
   },
   {
-    "id": "H-0075",
-    "word": "herunterladen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to download",
-    "bangla": "ডাউনলোড করা",
-    "partizipII": "heruntergeladen",
-    "auxiliary": "hat",
-    "exampleSentence": "Ich habe mir Musik aus dem Internet heruntergeladen.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0076",
+    "id": "H-0067",
     "word": "herunterfahren",
     "article": "",
     "plural": "",
@@ -1155,7 +1020,22 @@
     "tags": ""
   },
   {
-    "id": "H-0077",
+    "id": "H-0068",
+    "word": "herunterladen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to download",
+    "bangla": "ডাউনলোড করা",
+    "partizipII": "heruntergeladen",
+    "auxiliary": "hat",
+    "exampleSentence": "Ich habe mir Musik aus dem Internet heruntergeladen.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0069",
     "word": "Herz",
     "article": "das",
     "plural": "-en",
@@ -1170,7 +1050,7 @@
     "tags": ""
   },
   {
-    "id": "H-0078",
+    "id": "H-0070",
     "word": "herzlich",
     "article": "",
     "plural": "",
@@ -1185,7 +1065,7 @@
     "tags": ""
   },
   {
-    "id": "H-0079",
+    "id": "H-0071",
     "word": "heute",
     "article": "",
     "plural": "",
@@ -1200,7 +1080,7 @@
     "tags": ""
   },
   {
-    "id": "H-0080",
+    "id": "H-0072",
     "word": "heutig-",
     "article": "",
     "plural": "",
@@ -1215,7 +1095,7 @@
     "tags": ""
   },
   {
-    "id": "H-0081",
+    "id": "H-0073",
     "word": "hier/hier-",
     "article": "",
     "plural": "",
@@ -1230,7 +1110,7 @@
     "tags": ""
   },
   {
-    "id": "H-0082",
+    "id": "H-0074",
     "word": "hierher",
     "article": "",
     "plural": "",
@@ -1245,7 +1125,22 @@
     "tags": ""
   },
   {
-    "id": "H-0083",
+    "id": "H-0075",
+    "word": "Hilfe",
+    "article": "die",
+    "plural": "",
+    "wordType": "noun",
+    "english": "help / aid",
+    "bangla": "সাহায্য",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Vielen Dank für Ihre Hilfe.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0076",
     "word": "Himmel",
     "article": "der",
     "plural": "",
@@ -1260,22 +1155,7 @@
     "tags": ""
   },
   {
-    "id": "H-0084",
-    "word": "hinunterwerfen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to throw down",
-    "bangla": "নিচে ফেলে দেওয়া",
-    "partizipII": "hinuntergeworfen/runtergeworfen",
-    "auxiliary": "hat",
-    "exampleSentence": "Kannst du mir bitte den Schlüssel runterwerfen? Ich habe meinen vergessen.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0085",
+    "id": "H-0077",
     "word": "hinten",
     "article": "",
     "plural": "",
@@ -1290,7 +1170,7 @@
     "tags": ""
   },
   {
-    "id": "H-0086",
+    "id": "H-0078",
     "word": "hinter/hinter-",
     "article": "",
     "plural": "",
@@ -1305,22 +1185,7 @@
     "tags": ""
   },
   {
-    "id": "H-0087",
-    "word": "hinterlassen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to leave (a message) / bequeath",
-    "bangla": "রেখে যাওয়া / ছেড়ে যাওয়া",
-    "partizipII": "hinterlassen",
-    "auxiliary": "hat",
-    "exampleSentence": "Möchten Sie eine Nachricht hinterlassen?",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0088",
+    "id": "H-0079",
     "word": "hinterher",
     "article": "",
     "plural": "",
@@ -1335,22 +1200,37 @@
     "tags": ""
   },
   {
-    "id": "H-0089",
-    "word": "hinweisen",
+    "id": "H-0080",
+    "word": "hinterlassen",
     "article": "",
     "plural": "",
     "wordType": "verb",
-    "english": "to point out / indicate",
-    "bangla": "ইঙ্গিত করা / নির্দেশ করা",
-    "partizipII": "hingewiesen",
+    "english": "to leave (a message) / bequeath",
+    "bangla": "রেখে যাওয়া / ছেড়ে যাওয়া",
+    "partizipII": "hinterlassen",
     "auxiliary": "hat",
-    "exampleSentence": "Wir möchten Sie darauf hinweisen, dass das Rauchen am Bahnsteig nicht gestattet ist.",
+    "exampleSentence": "Möchten Sie eine Nachricht hinterlassen?",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "H-0090",
+    "id": "H-0081",
+    "word": "hinunterwerfen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to throw down",
+    "bangla": "নিচে ফেলে দেওয়া",
+    "partizipII": "hinuntergeworfen/runtergeworfen",
+    "auxiliary": "hat",
+    "exampleSentence": "Kannst du mir bitte den Schlüssel runterwerfen? Ich habe meinen vergessen.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0082",
     "word": "Hinweis",
     "article": "der",
     "plural": "-e",
@@ -1365,7 +1245,37 @@
     "tags": ""
   },
   {
-    "id": "H-0091",
+    "id": "H-0083",
+    "word": "Hinweise",
+    "article": "der",
+    "plural": "-e",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0084",
+    "word": "hinweisen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to point out / indicate",
+    "bangla": "ইঙ্গিত করা / নির্দেশ করা",
+    "partizipII": "hingewiesen",
+    "auxiliary": "hat",
+    "exampleSentence": "Wir möchten Sie darauf hinweisen, dass das Rauchen am Bahnsteig nicht gestattet ist.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0085",
     "word": "historisch",
     "article": "",
     "plural": "",
@@ -1380,7 +1290,7 @@
     "tags": ""
   },
   {
-    "id": "H-0092",
+    "id": "H-0086",
     "word": "Hitze",
     "article": "die",
     "plural": "",
@@ -1395,7 +1305,7 @@
     "tags": ""
   },
   {
-    "id": "H-0093",
+    "id": "H-0087",
     "word": "Hobby",
     "article": "das",
     "plural": "-s",
@@ -1410,7 +1320,7 @@
     "tags": ""
   },
   {
-    "id": "H-0094",
+    "id": "H-0088",
     "word": "hoch",
     "article": "",
     "plural": "",
@@ -1425,22 +1335,7 @@
     "tags": ""
   },
   {
-    "id": "H-0095",
-    "word": "Höhe",
-    "article": "die",
-    "plural": "",
-    "wordType": "noun",
-    "english": "height / altitude",
-    "bangla": "উচ্চতা",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Mein Tisch hat folgende Maße: Länge: 1,20 m, Breite: 0,60 m, Höhe: 0,80 m.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0096",
+    "id": "H-0089",
     "word": "hochladen",
     "article": "",
     "plural": "",
@@ -1455,22 +1350,7 @@
     "tags": ""
   },
   {
-    "id": "H-0097",
-    "word": "höchstens",
-    "article": "",
-    "plural": "",
-    "wordType": "adv",
-    "english": "at most / at the most",
-    "bangla": "সর্বাধিক / বড়জোর",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ich habe wenig Zeit. Ich kann höchstens eine Viertelstunde bleiben.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0098",
+    "id": "H-0090",
     "word": "Hochzeit",
     "article": "die",
     "plural": "-en",
@@ -1485,7 +1365,7 @@
     "tags": ""
   },
   {
-    "id": "H-0099",
+    "id": "H-0091",
     "word": "Hof",
     "article": "der",
     "plural": "¨-e",
@@ -1500,22 +1380,7 @@
     "tags": ""
   },
   {
-    "id": "H-0100",
-    "word": "Bauernhof",
-    "article": "der",
-    "plural": "¨-e",
-    "wordType": "noun",
-    "english": "farm",
-    "bangla": "খামার / কৃষি খামার",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Meine Großeltern hatten einen Bauernhof.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0101",
+    "id": "H-0092",
     "word": "hoffen",
     "article": "",
     "plural": "",
@@ -1530,7 +1395,7 @@
     "tags": ""
   },
   {
-    "id": "H-0102",
+    "id": "H-0093",
     "word": "hoffentlich",
     "article": "",
     "plural": "",
@@ -1545,7 +1410,7 @@
     "tags": ""
   },
   {
-    "id": "H-0103",
+    "id": "H-0094",
     "word": "Hoffnung",
     "article": "die",
     "plural": "-en",
@@ -1560,22 +1425,7 @@
     "tags": ""
   },
   {
-    "id": "H-0104",
-    "word": "höflich",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "polite / courteous",
-    "bangla": "ভদ্র / নম্র",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Unser Nachbar ist sehr höflich. Er sagt immer als Erster Guten Tag.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0105",
+    "id": "H-0095",
     "word": "holen",
     "article": "",
     "plural": "",
@@ -1590,7 +1440,7 @@
     "tags": ""
   },
   {
-    "id": "H-0106",
+    "id": "H-0096",
     "word": "Holz",
     "article": "das",
     "plural": "",
@@ -1605,7 +1455,7 @@
     "tags": ""
   },
   {
-    "id": "H-0107",
+    "id": "H-0097",
     "word": "Honig",
     "article": "der",
     "plural": "",
@@ -1620,52 +1470,7 @@
     "tags": ""
   },
   {
-    "id": "H-0108",
-    "word": "hören",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to hear / listen",
-    "bangla": "শোনা",
-    "partizipII": "gehört",
-    "auxiliary": "hat",
-    "exampleSentence": "Ich kann nicht mehr so gut hören.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0109",
-    "word": "Hörer",
-    "article": "der",
-    "plural": "-",
-    "wordType": "noun",
-    "english": "listener (male) / receiver (phone)",
-    "bangla": "শ্রোতা (পুরুষ) / রিসিভার",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Die Sendung hat viele Hörer und Hörerinnen.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0110",
-    "word": "Hörerin",
-    "article": "die",
-    "plural": "-nen",
-    "wordType": "noun",
-    "english": "listener (female)",
-    "bangla": "শ্রোতা (মহিলা)",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Die Sendung hat viele Hörer und Hörerinnen.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0111",
+    "id": "H-0098",
     "word": "Hose",
     "article": "die",
     "plural": "-n",
@@ -1680,7 +1485,7 @@
     "tags": ""
   },
   {
-    "id": "H-0112",
+    "id": "H-0099",
     "word": "Hotel",
     "article": "das",
     "plural": "-s",
@@ -1695,37 +1500,7 @@
     "tags": ""
   },
   {
-    "id": "H-0113",
-    "word": "hübsch",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "pretty / nice / lovely",
-    "bangla": "সুন্দর / চমৎকার",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Wir haben eine hübsche Wohnung gefunden.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0114",
-    "word": "Hügel",
-    "article": "der",
-    "plural": "-",
-    "wordType": "noun",
-    "english": "hill",
-    "bangla": "টিলা / পাহাড়",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Auf diesem Hügel machen wir eine Pause.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0115",
+    "id": "H-0100",
     "word": "Humor",
     "article": "der",
     "plural": "",
@@ -1740,7 +1515,7 @@
     "tags": ""
   },
   {
-    "id": "H-0116",
+    "id": "H-0101",
     "word": "Hunger",
     "article": "der",
     "plural": "",
@@ -1755,7 +1530,7 @@
     "tags": ""
   },
   {
-    "id": "H-0117",
+    "id": "H-0102",
     "word": "hungrig",
     "article": "",
     "plural": "",
@@ -1770,7 +1545,7 @@
     "tags": ""
   },
   {
-    "id": "H-0118",
+    "id": "H-0103",
     "word": "hupen",
     "article": "",
     "plural": "",
@@ -1785,22 +1560,7 @@
     "tags": ""
   },
   {
-    "id": "H-0119",
-    "word": "husten",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to cough",
-    "bangla": "কাশা",
-    "partizipII": "gehustet",
-    "auxiliary": "hat",
-    "exampleSentence": "Der Junge hat die ganze Nacht gehustet.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "H-0120",
+    "id": "H-0104",
     "word": "Husten",
     "article": "der",
     "plural": "",
@@ -1815,7 +1575,7 @@
     "tags": ""
   },
   {
-    "id": "H-0121",
+    "id": "H-0105",
     "word": "Hut",
     "article": "der",
     "plural": "¨-e",
@@ -1830,7 +1590,262 @@
     "tags": ""
   },
   {
+    "id": "H-0106",
+    "word": "Hähnchen",
+    "article": "das",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "chicken (roasted, Germany)",
+    "bangla": "মুরগির মাংস (জার্মানি)",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Zum Mittagessen gibt es Hühnchen mit Reis.",
+    "synonyms": "D: Hähnchen/Hühnchen, A: Hend(e)l, CH: Poulet",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0107",
+    "word": "Hälfte",
+    "article": "die",
+    "plural": "-n",
+    "wordType": "noun",
+    "english": "half",
+    "bangla": "অর্ধেক",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Bitte teilt euch die Schokolade. Jeder bekommt die Hälfte.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0108",
+    "word": "hält",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0109",
+    "word": "Händler",
+    "article": "der",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "dealer / trader / merchant (male)",
+    "bangla": "ব্যবসায়ী (পুরুষ)",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Ich gehe zum Gemüsehändler, soll ich dir etwas mitbringen?",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0110",
+    "word": "Händlerin",
+    "article": "die",
+    "plural": "-nen",
+    "wordType": "noun",
+    "english": "dealer / trader / merchant (female)",
+    "bangla": "ব্যবসায়ী (মহিলা)",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Ich gehe zur Gemüsehändlerin.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0111",
+    "word": "hängen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to hang",
+    "bangla": "ঝোলানো / লটকানো",
+    "partizipII": "gehangen/gehängt",
+    "auxiliary": "hat",
+    "exampleSentence": "Das Bild hängt schief.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0112",
+    "word": "hässlich",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "ugly",
+    "bangla": "কুৎসিত / অসুন্দর",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Das ist aber eine hässliche Lampe!",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0113",
+    "word": "häufig",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "frequent / often",
+    "bangla": "ঘন ঘন / প্রায়ই",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Haben Sie häufig Kopfschmerzen?",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0114",
+    "word": "höchstens",
+    "article": "",
+    "plural": "",
+    "wordType": "adv",
+    "english": "at most / at the most",
+    "bangla": "সর্বাধিক / বড়জোর",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Ich habe wenig Zeit. Ich kann höchstens eine Viertelstunde bleiben.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0115",
+    "word": "höflich",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "polite / courteous",
+    "bangla": "ভদ্র / নম্র",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Unser Nachbar ist sehr höflich. Er sagt immer als Erster Guten Tag.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0116",
+    "word": "Höhe",
+    "article": "die",
+    "plural": "",
+    "wordType": "noun",
+    "english": "height / altitude",
+    "bangla": "উচ্চতা",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Mein Tisch hat folgende Maße: Länge: 1,20 m, Breite: 0,60 m, Höhe: 0,80 m.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0117",
+    "word": "hören",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to hear / listen",
+    "bangla": "শোনা",
+    "partizipII": "gehört",
+    "auxiliary": "hat",
+    "exampleSentence": "Ich kann nicht mehr so gut hören.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0118",
+    "word": "Hörer",
+    "article": "der",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "listener (male) / receiver (phone)",
+    "bangla": "শ্রোতা (পুরুষ) / রিসিভার",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Die Sendung hat viele Hörer und Hörerinnen.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0119",
+    "word": "Hörerin",
+    "article": "die",
+    "plural": "-nen",
+    "wordType": "noun",
+    "english": "listener (female)",
+    "bangla": "শ্রোতা (মহিলা)",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Die Sendung hat viele Hörer und Hörerinnen.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0120",
+    "word": "hübsch",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "pretty / nice / lovely",
+    "bangla": "সুন্দর / চমৎকার",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Wir haben eine hübsche Wohnung gefunden.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0121",
+    "word": "Hügel",
+    "article": "der",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "hill",
+    "bangla": "টিলা / পাহাড়",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Auf diesem Hügel machen wir eine Pause.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
     "id": "H-0122",
+    "word": "Hühnchen",
+    "article": "das",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "chicken (roasted, Germany)",
+    "bangla": "মুরগির মাংস (জার্মানি)",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Zum Mittagessen gibt es Hühnchen mit Reis.",
+    "synonyms": "D: Hähnchen/Hühnchen, A: Hend(e)l, CH: Poulet",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "H-0123",
     "word": "Hütte",
     "article": "die",
     "plural": "-n",

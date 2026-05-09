@@ -1,51 +1,6 @@
 [
   {
     "id": "E-0000",
-    "word": "eben",
-    "article": "",
-    "plural": "",
-    "wordType": "adv",
-    "english": "just / exactly / flat",
-    "bangla": "এইমাত্র / ঠিক",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ich bin eben erst angekommen.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0001",
-    "word": "ebenfalls",
-    "article": "",
-    "plural": "",
-    "wordType": "adv",
-    "english": "likewise / also",
-    "bangla": "একইভাবে / আরও",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ich wünsche Ihnen ein schönes Wochenende. – Danke, ebenfalls.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0002",
-    "word": "ebenso",
-    "article": "",
-    "plural": "",
-    "wordType": "adv",
-    "english": "just as / likewise",
-    "bangla": "ঠিক তেমনই / একইরকম",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Schöne Feiertage. – Danke, ebenso.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0003",
     "word": "e-card",
     "article": "die",
     "plural": "",
@@ -60,22 +15,52 @@
     "tags": ""
   },
   {
-    "id": "E-0004",
-    "word": "echt",
+    "id": "E-0001",
+    "word": "eben",
     "article": "",
     "plural": "",
-    "wordType": "adj",
-    "english": "real / genuine / really",
-    "bangla": "আসল / খাঁটি / সত্যিই",
+    "wordType": "adv",
+    "english": "just / exactly / flat",
+    "bangla": "এইমাত্র / ঠিক",
     "partizipII": "",
     "auxiliary": "",
-    "exampleSentence": "Der Film war echt gut.",
+    "exampleSentence": "Ich bin eben erst angekommen.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "E-0005",
+    "id": "E-0002",
+    "word": "ebenfalls",
+    "article": "",
+    "plural": "",
+    "wordType": "adv",
+    "english": "likewise / also",
+    "bangla": "একইভাবে / আরও",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Ich wünsche Ihnen ein schönes Wochenende. – Danke, ebenfalls.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0003",
+    "word": "ebenso",
+    "article": "",
+    "plural": "",
+    "wordType": "adv",
+    "english": "just as / likewise",
+    "bangla": "ঠিক তেমনই / একইরকম",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Schöne Feiertage. – Danke, ebenso.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0004",
     "word": "ec-Karte",
     "article": "die",
     "plural": "",
@@ -90,22 +75,22 @@
     "tags": ""
   },
   {
-    "id": "E-0006",
-    "word": "Ecke",
-    "article": "die",
-    "plural": "-n",
-    "wordType": "noun",
-    "english": "corner (Germany/Switzerland)",
-    "bangla": "কোণ (জার্মানি/সুইজারল্যান্ড)",
+    "id": "E-0005",
+    "word": "echt",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "real / genuine / really",
+    "bangla": "আসল / খাঁটি / সত্যিই",
     "partizipII": "",
     "auxiliary": "",
-    "exampleSentence": "Das Regal stellen wir hier in die Ecke.",
-    "synonyms": "D/CH: Ecke, A: Eck",
+    "exampleSentence": "Der Film war echt gut.",
+    "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "E-0007",
+    "id": "E-0006",
     "word": "Eck",
     "article": "das",
     "plural": "-en",
@@ -116,6 +101,21 @@
     "auxiliary": "",
     "exampleSentence": "Das Regal stellen wir hier ins Eck.",
     "synonyms": "A: Eck, D/CH: Ecke",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0007",
+    "word": "Ecke",
+    "article": "die",
+    "plural": "-n",
+    "wordType": "noun",
+    "english": "corner (Germany/Switzerland)",
+    "bangla": "কোণ (জার্মানি/সুইজারল্যান্ড)",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Das Regal stellen wir hier in die Ecke.",
+    "synonyms": "D/CH: Ecke, A: Eck",
     "antonyms": "",
     "tags": ""
   },
@@ -241,21 +241,6 @@
   },
   {
     "id": "E-0016",
-    "word": "Ei",
-    "article": "das",
-    "plural": "-er",
-    "wordType": "noun",
-    "english": "egg",
-    "bangla": "ডিম",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Möchtest du zum Frühstück ein Ei?",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0017",
     "word": "eigen-",
     "article": "",
     "plural": "",
@@ -270,7 +255,7 @@
     "tags": ""
   },
   {
-    "id": "E-0018",
+    "id": "E-0017",
     "word": "eigentlich",
     "article": "",
     "plural": "",
@@ -285,37 +270,7 @@
     "tags": ""
   },
   {
-    "id": "E-0019",
-    "word": "sich eignen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to be suitable / suited",
-    "bangla": "উপযুক্ত হওয়া",
-    "partizipII": "geeignet",
-    "auxiliary": "hat",
-    "exampleSentence": "Dieses Hotel eignet sich besonders für Familien mit Kindern.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0020",
-    "word": "eilen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to hurry / rush",
-    "bangla": "তাড়াতাড়ি করা",
-    "partizipII": "geeilt",
-    "auxiliary": "hat/ist",
-    "exampleSentence": "Es eilt sehr. Bitte machen Sie schnell.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0021",
+    "id": "E-0018",
     "word": "Eile",
     "article": "die",
     "plural": "",
@@ -330,7 +285,22 @@
     "tags": ""
   },
   {
-    "id": "E-0022",
+    "id": "E-0019",
+    "word": "eilen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to hurry / rush",
+    "bangla": "তাড়াতাড়ি করা",
+    "partizipII": "geeilt",
+    "auxiliary": "hat/ist",
+    "exampleSentence": "Es eilt sehr. Bitte machen Sie schnell.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0020",
     "word": "eilig",
     "article": "",
     "plural": "",
@@ -345,7 +315,22 @@
     "tags": ""
   },
   {
-    "id": "E-0023",
+    "id": "E-0021",
+    "word": "ein bisschen",
+    "article": "",
+    "plural": "",
+    "wordType": "quantifier",
+    "english": "a little / a bit",
+    "bangla": "একটু / সামান্য",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Möchten Sie noch ein bisschen Reis?",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0022",
     "word": "ein-",
     "article": "",
     "plural": "",
@@ -360,7 +345,7 @@
     "tags": ""
   },
   {
-    "id": "E-0024",
+    "id": "E-0023",
     "word": "Einbahnstraße",
     "article": "die",
     "plural": "-n",
@@ -375,7 +360,7 @@
     "tags": ""
   },
   {
-    "id": "E-0025",
+    "id": "E-0024",
     "word": "einbrechen",
     "article": "",
     "plural": "",
@@ -390,7 +375,7 @@
     "tags": ""
   },
   {
-    "id": "E-0026",
+    "id": "E-0025",
     "word": "Einbrecher",
     "article": "der",
     "plural": "-",
@@ -405,7 +390,7 @@
     "tags": ""
   },
   {
-    "id": "E-0027",
+    "id": "E-0026",
     "word": "Einbrecherin",
     "article": "die",
     "plural": "-nen",
@@ -420,7 +405,7 @@
     "tags": ""
   },
   {
-    "id": "E-0028",
+    "id": "E-0027",
     "word": "Einbruch",
     "article": "der",
     "plural": "¨-e",
@@ -435,7 +420,7 @@
     "tags": ""
   },
   {
-    "id": "E-0029",
+    "id": "E-0028",
     "word": "eindeutig",
     "article": "",
     "plural": "",
@@ -450,7 +435,7 @@
     "tags": ""
   },
   {
-    "id": "E-0030",
+    "id": "E-0029",
     "word": "Eindruck",
     "article": "der",
     "plural": "¨-e",
@@ -465,7 +450,7 @@
     "tags": ""
   },
   {
-    "id": "E-0031",
+    "id": "E-0030",
     "word": "einerseits",
     "article": "",
     "plural": "",
@@ -480,7 +465,7 @@
     "tags": ""
   },
   {
-    "id": "E-0032",
+    "id": "E-0031",
     "word": "einfach",
     "article": "",
     "plural": "",
@@ -495,7 +480,7 @@
     "tags": ""
   },
   {
-    "id": "E-0033",
+    "id": "E-0032",
     "word": "Einfahrt",
     "article": "die",
     "plural": "-en",
@@ -505,6 +490,21 @@
     "partizipII": "",
     "auxiliary": "",
     "exampleSentence": "Da parkt wieder jemand vor unserer Einfahrt.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0033",
+    "word": "Einfall",
+    "article": "der",
+    "plural": "¨-e",
+    "wordType": "noun",
+    "english": "idea / sudden thought",
+    "bangla": "আইডিয়া / হঠাৎ চিন্তা",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Frag einfach meine Freundin. Sie hat immer gute Einfälle.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
@@ -526,21 +526,6 @@
   },
   {
     "id": "E-0035",
-    "word": "Einfall",
-    "article": "der",
-    "plural": "¨-e",
-    "wordType": "noun",
-    "english": "idea / sudden thought",
-    "bangla": "আইডিয়া / হঠাৎ চিন্তা",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Frag einfach meine Freundin. Sie hat immer gute Einfälle.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0036",
     "word": "Einfluss",
     "article": "der",
     "plural": "¨-e",
@@ -555,22 +540,7 @@
     "tags": ""
   },
   {
-    "id": "E-0037",
-    "word": "beeinflussen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to influence",
-    "bangla": "প্রভাবিত করা",
-    "partizipII": "beeinflusst",
-    "auxiliary": "hat",
-    "exampleSentence": "Dieses Ereignis hat die Wahlen beeinflusst.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0038",
+    "id": "E-0036",
     "word": "einfügen",
     "article": "",
     "plural": "",
@@ -585,7 +555,7 @@
     "tags": ""
   },
   {
-    "id": "E-0039",
+    "id": "E-0037",
     "word": "einführen",
     "article": "",
     "plural": "",
@@ -600,7 +570,7 @@
     "tags": ""
   },
   {
-    "id": "E-0040",
+    "id": "E-0038",
     "word": "Einführung",
     "article": "die",
     "plural": "-en",
@@ -615,7 +585,7 @@
     "tags": ""
   },
   {
-    "id": "E-0041",
+    "id": "E-0039",
     "word": "Eingang",
     "article": "der",
     "plural": "¨-e",
@@ -630,7 +600,7 @@
     "tags": ""
   },
   {
-    "id": "E-0042",
+    "id": "E-0040",
     "word": "einheitlich",
     "article": "",
     "plural": "",
@@ -645,7 +615,7 @@
     "tags": ""
   },
   {
-    "id": "E-0043",
+    "id": "E-0041",
     "word": "einig-",
     "article": "",
     "plural": "",
@@ -660,37 +630,7 @@
     "tags": ""
   },
   {
-    "id": "E-0044",
-    "word": "sich einigen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to agree / reach agreement",
-    "bangla": "একমত হওয়া / সমঝোতায় আসা",
-    "partizipII": "geeinigt",
-    "auxiliary": "hat",
-    "exampleSentence": "Wir können uns leider nicht einigen.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0045",
-    "word": "einkaufen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to shop / go shopping",
-    "bangla": "কেনাকাটা করা",
-    "partizipII": "eingekauft",
-    "auxiliary": "hat",
-    "exampleSentence": "Wir gehen einmal pro Woche einkaufen.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0046",
+    "id": "E-0042",
     "word": "Einkauf",
     "article": "der",
     "plural": "¨-e",
@@ -705,7 +645,22 @@
     "tags": ""
   },
   {
-    "id": "E-0047",
+    "id": "E-0043",
+    "word": "einkaufen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to shop / go shopping",
+    "bangla": "কেনাকাটা করা",
+    "partizipII": "eingekauft",
+    "auxiliary": "hat",
+    "exampleSentence": "Wir gehen einmal pro Woche einkaufen.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0044",
     "word": "Einkommen",
     "article": "das",
     "plural": "-",
@@ -720,7 +675,7 @@
     "tags": ""
   },
   {
-    "id": "E-0048",
+    "id": "E-0045",
     "word": "einladen",
     "article": "",
     "plural": "",
@@ -735,7 +690,7 @@
     "tags": ""
   },
   {
-    "id": "E-0049",
+    "id": "E-0046",
     "word": "Einladung",
     "article": "die",
     "plural": "-en",
@@ -750,7 +705,7 @@
     "tags": ""
   },
   {
-    "id": "E-0050",
+    "id": "E-0047",
     "word": "einmal",
     "article": "",
     "plural": "",
@@ -765,22 +720,7 @@
     "tags": ""
   },
   {
-    "id": "E-0051",
-    "word": "einnehmen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to take (medicine) / earn",
-    "bangla": "গ্রহণ করা (ঔষধ) / আয় করা",
-    "partizipII": "eingenommen",
-    "auxiliary": "hat",
-    "exampleSentence": "Wie muss ich die Tropfen einnehmen?",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0052",
+    "id": "E-0048",
     "word": "Einnahme",
     "article": "die",
     "plural": "-n",
@@ -795,7 +735,22 @@
     "tags": ""
   },
   {
-    "id": "E-0053",
+    "id": "E-0049",
+    "word": "einnehmen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to take (medicine) / earn",
+    "bangla": "গ্রহণ করা (ঔষধ) / আয় করা",
+    "partizipII": "eingenommen",
+    "auxiliary": "hat",
+    "exampleSentence": "Wie muss ich die Tropfen einnehmen?",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0050",
     "word": "einpacken",
     "article": "",
     "plural": "",
@@ -810,7 +765,7 @@
     "tags": ""
   },
   {
-    "id": "E-0054",
+    "id": "E-0051",
     "word": "einrichten",
     "article": "",
     "plural": "",
@@ -825,7 +780,7 @@
     "tags": ""
   },
   {
-    "id": "E-0055",
+    "id": "E-0052",
     "word": "Einrichtung",
     "article": "die",
     "plural": "-en",
@@ -840,7 +795,7 @@
     "tags": ""
   },
   {
-    "id": "E-0056",
+    "id": "E-0053",
     "word": "einsam",
     "article": "",
     "plural": "",
@@ -855,7 +810,7 @@
     "tags": ""
   },
   {
-    "id": "E-0057",
+    "id": "E-0054",
     "word": "einschalten",
     "article": "",
     "plural": "",
@@ -870,7 +825,7 @@
     "tags": ""
   },
   {
-    "id": "E-0058",
+    "id": "E-0055",
     "word": "einschließlich",
     "article": "",
     "plural": "",
@@ -885,7 +840,7 @@
     "tags": ""
   },
   {
-    "id": "E-0059",
+    "id": "E-0056",
     "word": "Einschreiben",
     "article": "das",
     "plural": "-",
@@ -900,7 +855,7 @@
     "tags": ""
   },
   {
-    "id": "E-0060",
+    "id": "E-0057",
     "word": "einsetzen",
     "article": "",
     "plural": "",
@@ -915,7 +870,7 @@
     "tags": ""
   },
   {
-    "id": "E-0061",
+    "id": "E-0058",
     "word": "einsteigen",
     "article": "",
     "plural": "",
@@ -930,7 +885,7 @@
     "tags": ""
   },
   {
-    "id": "E-0062",
+    "id": "E-0059",
     "word": "einstellen",
     "article": "",
     "plural": "",
@@ -945,7 +900,7 @@
     "tags": ""
   },
   {
-    "id": "E-0063",
+    "id": "E-0060",
     "word": "eintragen",
     "article": "",
     "plural": "",
@@ -960,7 +915,7 @@
     "tags": ""
   },
   {
-    "id": "E-0064",
+    "id": "E-0061",
     "word": "eintreten",
     "article": "",
     "plural": "",
@@ -975,7 +930,7 @@
     "tags": ""
   },
   {
-    "id": "E-0065",
+    "id": "E-0062",
     "word": "Eintritt",
     "article": "der",
     "plural": "",
@@ -990,7 +945,7 @@
     "tags": ""
   },
   {
-    "id": "E-0066",
+    "id": "E-0063",
     "word": "einverstanden",
     "article": "",
     "plural": "",
@@ -1005,7 +960,7 @@
     "tags": ""
   },
   {
-    "id": "E-0067",
+    "id": "E-0064",
     "word": "Einwohner",
     "article": "der",
     "plural": "-",
@@ -1020,7 +975,7 @@
     "tags": ""
   },
   {
-    "id": "E-0068",
+    "id": "E-0065",
     "word": "Einwohnerin",
     "article": "die",
     "plural": "-nen",
@@ -1035,7 +990,7 @@
     "tags": ""
   },
   {
-    "id": "E-0069",
+    "id": "E-0066",
     "word": "einzahlen",
     "article": "",
     "plural": "",
@@ -1050,7 +1005,7 @@
     "tags": ""
   },
   {
-    "id": "E-0070",
+    "id": "E-0067",
     "word": "Einzahlung",
     "article": "die",
     "plural": "-en",
@@ -1065,22 +1020,7 @@
     "tags": ""
   },
   {
-    "id": "E-0071",
-    "word": "einzeln",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "single / individual / one by one",
-    "bangla": "একক / আলাদা / একে একে",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Dieses Mineralwasser gibt es nur als Sechserpack, nicht einzeln.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0072",
+    "id": "E-0068",
     "word": "Einzel-",
     "article": "",
     "plural": "",
@@ -1095,7 +1035,7 @@
     "tags": ""
   },
   {
-    "id": "E-0073",
+    "id": "E-0069",
     "word": "Einzelheit",
     "article": "die",
     "plural": "-en",
@@ -1110,22 +1050,22 @@
     "tags": ""
   },
   {
-    "id": "E-0074",
-    "word": "einzig-",
+    "id": "E-0070",
+    "word": "einzeln",
     "article": "",
     "plural": "",
     "wordType": "adj",
-    "english": "only / sole / unique",
-    "bangla": "একমাত্র / অনন্য",
+    "english": "single / individual / one by one",
+    "bangla": "একক / আলাদা / একে একে",
     "partizipII": "",
     "auxiliary": "",
-    "exampleSentence": "Wir waren die einzigen Gäste.",
+    "exampleSentence": "Dieses Mineralwasser gibt es nur als Sechserpack, nicht einzeln.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "E-0075",
+    "id": "E-0071",
     "word": "einziehen",
     "article": "",
     "plural": "",
@@ -1140,7 +1080,22 @@
     "tags": ""
   },
   {
-    "id": "E-0076",
+    "id": "E-0072",
+    "word": "einzig-",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "only / sole / unique",
+    "bangla": "একমাত্র / অনন্য",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Wir waren die einzigen Gäste.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0073",
     "word": "Eis",
     "article": "das",
     "plural": "",
@@ -1155,7 +1110,7 @@
     "tags": ""
   },
   {
-    "id": "E-0077",
+    "id": "E-0074",
     "word": "Eisenbahn",
     "article": "die",
     "plural": "-en",
@@ -1170,7 +1125,7 @@
     "tags": ""
   },
   {
-    "id": "E-0078",
+    "id": "E-0075",
     "word": "elegant",
     "article": "",
     "plural": "",
@@ -1185,7 +1140,7 @@
     "tags": ""
   },
   {
-    "id": "E-0079",
+    "id": "E-0076",
     "word": "elektrisch",
     "article": "",
     "plural": "",
@@ -1200,7 +1155,7 @@
     "tags": ""
   },
   {
-    "id": "E-0080",
+    "id": "E-0077",
     "word": "Elektro-",
     "article": "",
     "plural": "",
@@ -1215,7 +1170,7 @@
     "tags": ""
   },
   {
-    "id": "E-0081",
+    "id": "E-0078",
     "word": "elektronisch",
     "article": "",
     "plural": "",
@@ -1230,7 +1185,7 @@
     "tags": ""
   },
   {
-    "id": "E-0082",
+    "id": "E-0079",
     "word": "Eltern",
     "article": "",
     "plural": "",
@@ -1245,22 +1200,7 @@
     "tags": ""
   },
   {
-    "id": "E-0083",
-    "word": "empfangen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to receive",
-    "bangla": "গ্রহণ করা / পাওয়া",
-    "partizipII": "empfangen",
-    "auxiliary": "hat",
-    "exampleSentence": "Wir können mit unserem Fernseher über 30 Programme empfangen.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0084",
+    "id": "E-0080",
     "word": "Empfang",
     "article": "der",
     "plural": "¨-e",
@@ -1275,22 +1215,22 @@
     "tags": ""
   },
   {
-    "id": "E-0085",
-    "word": "Empfänger",
-    "article": "der",
-    "plural": "-",
-    "wordType": "noun",
-    "english": "recipient / receiver",
-    "bangla": "প্রাপক / গ্রাহক",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Es fehlt die genaue Adresse des Empfängers.",
+    "id": "E-0081",
+    "word": "empfangen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to receive",
+    "bangla": "গ্রহণ করা / পাওয়া",
+    "partizipII": "empfangen",
+    "auxiliary": "hat",
+    "exampleSentence": "Wir können mit unserem Fernseher über 30 Programme empfangen.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "E-0086",
+    "id": "E-0082",
     "word": "empfehlen",
     "article": "",
     "plural": "",
@@ -1305,7 +1245,7 @@
     "tags": ""
   },
   {
-    "id": "E-0087",
+    "id": "E-0083",
     "word": "Empfehlung",
     "article": "die",
     "plural": "-en",
@@ -1320,22 +1260,22 @@
     "tags": ""
   },
   {
-    "id": "E-0088",
-    "word": "enden",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to end / finish",
-    "bangla": "শেষ হওয়া / সমাপ্ত হওয়া",
-    "partizipII": "geendet",
-    "auxiliary": "hat",
-    "exampleSentence": "Die Straße endet hier.",
+    "id": "E-0084",
+    "word": "Empfänger",
+    "article": "der",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "recipient / receiver",
+    "bangla": "প্রাপক / গ্রাহক",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Es fehlt die genaue Adresse des Empfängers.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "E-0089",
+    "id": "E-0085",
     "word": "Ende",
     "article": "das",
     "plural": "",
@@ -1350,7 +1290,22 @@
     "tags": ""
   },
   {
-    "id": "E-0090",
+    "id": "E-0086",
+    "word": "enden",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to end / finish",
+    "bangla": "শেষ হওয়া / সমাপ্ত হওয়া",
+    "partizipII": "geendet",
+    "auxiliary": "hat",
+    "exampleSentence": "Die Straße endet hier.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0087",
     "word": "endgültig",
     "article": "",
     "plural": "",
@@ -1365,7 +1320,7 @@
     "tags": ""
   },
   {
-    "id": "E-0091",
+    "id": "E-0088",
     "word": "endlich",
     "article": "",
     "plural": "",
@@ -1380,7 +1335,7 @@
     "tags": ""
   },
   {
-    "id": "E-0092",
+    "id": "E-0089",
     "word": "Energie",
     "article": "die",
     "plural": "-n",
@@ -1395,7 +1350,7 @@
     "tags": ""
   },
   {
-    "id": "E-0093",
+    "id": "E-0090",
     "word": "eng",
     "article": "",
     "plural": "",
@@ -1410,7 +1365,7 @@
     "tags": ""
   },
   {
-    "id": "E-0094",
+    "id": "E-0091",
     "word": "Enkel",
     "article": "der",
     "plural": "-",
@@ -1425,7 +1380,7 @@
     "tags": ""
   },
   {
-    "id": "E-0095",
+    "id": "E-0092",
     "word": "Enkelin",
     "article": "die",
     "plural": "-nen",
@@ -1440,7 +1395,7 @@
     "tags": ""
   },
   {
-    "id": "E-0096",
+    "id": "E-0093",
     "word": "entdecken",
     "article": "",
     "plural": "",
@@ -1455,7 +1410,7 @@
     "tags": ""
   },
   {
-    "id": "E-0097",
+    "id": "E-0094",
     "word": "entfernen",
     "article": "",
     "plural": "",
@@ -1470,7 +1425,7 @@
     "tags": ""
   },
   {
-    "id": "E-0098",
+    "id": "E-0095",
     "word": "Entfernung",
     "article": "die",
     "plural": "-en",
@@ -1485,7 +1440,7 @@
     "tags": ""
   },
   {
-    "id": "E-0099",
+    "id": "E-0096",
     "word": "entgegenkommen",
     "article": "",
     "plural": "",
@@ -1500,7 +1455,7 @@
     "tags": ""
   },
   {
-    "id": "E-0100",
+    "id": "E-0097",
     "word": "enthalten",
     "article": "",
     "plural": "",
@@ -1515,7 +1470,7 @@
     "tags": ""
   },
   {
-    "id": "E-0101",
+    "id": "E-0098",
     "word": "entlang",
     "article": "",
     "plural": "",
@@ -1530,7 +1485,7 @@
     "tags": ""
   },
   {
-    "id": "E-0102",
+    "id": "E-0099",
     "word": "entlassen",
     "article": "",
     "plural": "",
@@ -1545,7 +1500,7 @@
     "tags": ""
   },
   {
-    "id": "E-0103",
+    "id": "E-0100",
     "word": "Entlassung",
     "article": "die",
     "plural": "-en",
@@ -1560,7 +1515,7 @@
     "tags": ""
   },
   {
-    "id": "E-0104",
+    "id": "E-0101",
     "word": "entscheiden",
     "article": "",
     "plural": "",
@@ -1575,7 +1530,7 @@
     "tags": ""
   },
   {
-    "id": "E-0105",
+    "id": "E-0102",
     "word": "Entscheidung",
     "article": "die",
     "plural": "-en",
@@ -1590,37 +1545,7 @@
     "tags": ""
   },
   {
-    "id": "E-0106",
-    "word": "unentschieden",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "undecided / tied (sports)",
-    "bangla": "অনিশ্চিত / অমীমাংসিত",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Es steht unentschieden zwischen den beiden Mannschaften.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0107",
-    "word": "sich entschließen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to decide / resolve",
-    "bangla": "সিদ্ধান্ত নেওয়া / সংকল্প করা",
-    "partizipII": "entschlossen",
-    "auxiliary": "hat",
-    "exampleSentence": "Mein Nachbar hat sich nun doch entschlossen, sein Auto zu verkaufen.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0108",
+    "id": "E-0103",
     "word": "entschlossen",
     "article": "",
     "plural": "",
@@ -1635,7 +1560,7 @@
     "tags": ""
   },
   {
-    "id": "E-0109",
+    "id": "E-0104",
     "word": "entschuldigen",
     "article": "",
     "plural": "",
@@ -1650,7 +1575,7 @@
     "tags": ""
   },
   {
-    "id": "E-0110",
+    "id": "E-0105",
     "word": "Entschuldigung",
     "article": "die",
     "plural": "-en",
@@ -1665,7 +1590,7 @@
     "tags": ""
   },
   {
-    "id": "E-0111",
+    "id": "E-0106",
     "word": "entsorgen",
     "article": "",
     "plural": "",
@@ -1680,7 +1605,7 @@
     "tags": ""
   },
   {
-    "id": "E-0112",
+    "id": "E-0107",
     "word": "entspannend",
     "article": "",
     "plural": "",
@@ -1695,7 +1620,7 @@
     "tags": ""
   },
   {
-    "id": "E-0113",
+    "id": "E-0108",
     "word": "entstehen",
     "article": "",
     "plural": "",
@@ -1710,7 +1635,7 @@
     "tags": ""
   },
   {
-    "id": "E-0114",
+    "id": "E-0109",
     "word": "enttäuschen",
     "article": "",
     "plural": "",
@@ -1725,7 +1650,7 @@
     "tags": ""
   },
   {
-    "id": "E-0115",
+    "id": "E-0110",
     "word": "Enttäuschung",
     "article": "die",
     "plural": "-en",
@@ -1740,7 +1665,7 @@
     "tags": ""
   },
   {
-    "id": "E-0116",
+    "id": "E-0111",
     "word": "entweder ... oder",
     "article": "",
     "plural": "",
@@ -1755,7 +1680,7 @@
     "tags": ""
   },
   {
-    "id": "E-0117",
+    "id": "E-0112",
     "word": "entwickeln",
     "article": "",
     "plural": "",
@@ -1770,7 +1695,7 @@
     "tags": ""
   },
   {
-    "id": "E-0118",
+    "id": "E-0113",
     "word": "Entwicklung",
     "article": "die",
     "plural": "-en",
@@ -1785,22 +1710,7 @@
     "tags": ""
   },
   {
-    "id": "E-0119",
-    "word": "Erde",
-    "article": "die",
-    "plural": "",
-    "wordType": "noun",
-    "english": "earth / ground / soil",
-    "bangla": "পৃথিবী / মাটি",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Die Pflanzen brauchen neue Erde.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0120",
+    "id": "E-0114",
     "word": "Erdapfel",
     "article": "der",
     "plural": "¨-",
@@ -1815,7 +1725,22 @@
     "tags": ""
   },
   {
-    "id": "E-0121",
+    "id": "E-0115",
+    "word": "Erde",
+    "article": "die",
+    "plural": "",
+    "wordType": "noun",
+    "english": "earth / ground / soil",
+    "bangla": "পৃথিবী / মাটি",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Die Pflanzen brauchen neue Erde.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0116",
     "word": "Erdgeschoss",
     "article": "das",
     "plural": "-e",
@@ -1830,22 +1755,7 @@
     "tags": ""
   },
   {
-    "id": "E-0122",
-    "word": "Ergeschoß",
-    "article": "das",
-    "plural": "-e",
-    "wordType": "noun",
-    "english": "ground floor (Austria)",
-    "bangla": "নিচতলা (অস্ট্রিয়া)",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0123",
+    "id": "E-0117",
     "word": "Ereignis",
     "article": "das",
     "plural": "-se",
@@ -1860,22 +1770,7 @@
     "tags": ""
   },
   {
-    "id": "E-0124",
-    "word": "sich ereignen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to happen / occur",
-    "bangla": "ঘটা / ঘটে যাওয়া",
-    "partizipII": "ereignet",
-    "auxiliary": "hat",
-    "exampleSentence": "Der Unfall ereignete sich am frühen Morgen.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0125",
+    "id": "E-0118",
     "word": "erfahren",
     "article": "",
     "plural": "",
@@ -1890,7 +1785,7 @@
     "tags": ""
   },
   {
-    "id": "E-0126",
+    "id": "E-0119",
     "word": "Erfahrung",
     "article": "die",
     "plural": "-en",
@@ -1905,7 +1800,7 @@
     "tags": ""
   },
   {
-    "id": "E-0127",
+    "id": "E-0120",
     "word": "erfinden",
     "article": "",
     "plural": "",
@@ -1920,7 +1815,7 @@
     "tags": ""
   },
   {
-    "id": "E-0128",
+    "id": "E-0121",
     "word": "Erfindung",
     "article": "die",
     "plural": "-en",
@@ -1935,7 +1830,7 @@
     "tags": ""
   },
   {
-    "id": "E-0129",
+    "id": "E-0122",
     "word": "Erfolg",
     "article": "der",
     "plural": "-e",
@@ -1950,7 +1845,7 @@
     "tags": ""
   },
   {
-    "id": "E-0130",
+    "id": "E-0123",
     "word": "erfolgreich",
     "article": "",
     "plural": "",
@@ -1965,7 +1860,7 @@
     "tags": ""
   },
   {
-    "id": "E-0131",
+    "id": "E-0124",
     "word": "erforderlich",
     "article": "",
     "plural": "",
@@ -1980,7 +1875,7 @@
     "tags": ""
   },
   {
-    "id": "E-0132",
+    "id": "E-0125",
     "word": "erfordern",
     "article": "",
     "plural": "",
@@ -1995,7 +1890,7 @@
     "tags": ""
   },
   {
-    "id": "E-0133",
+    "id": "E-0126",
     "word": "erfüllen",
     "article": "",
     "plural": "",
@@ -2010,22 +1905,7 @@
     "tags": ""
   },
   {
-    "id": "E-0134",
-    "word": "ergänzen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to complete / supplement",
-    "bangla": "সম্পূর্ণ করা / সংযোজন করা",
-    "partizipII": "ergänzt",
-    "auxiliary": "hat",
-    "exampleSentence": "Ergänzen Sie bitte die fehlenden Angaben.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0135",
+    "id": "E-0127",
     "word": "Ergebnis",
     "article": "das",
     "plural": "-se",
@@ -2040,7 +1920,37 @@
     "tags": ""
   },
   {
-    "id": "E-0136",
+    "id": "E-0128",
+    "word": "Ergeschoß",
+    "article": "das",
+    "plural": "-e",
+    "wordType": "noun",
+    "english": "ground floor (Austria)",
+    "bangla": "নিচতলা (অস্ট্রিয়া)",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0129",
+    "word": "ergänzen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to complete / supplement",
+    "bangla": "সম্পূর্ণ করা / সংযোজন করা",
+    "partizipII": "ergänzt",
+    "auxiliary": "hat",
+    "exampleSentence": "Ergänzen Sie bitte die fehlenden Angaben.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0130",
     "word": "erhalten",
     "article": "",
     "plural": "",
@@ -2055,7 +1965,22 @@
     "tags": ""
   },
   {
-    "id": "E-0137",
+    "id": "E-0131",
+    "word": "Erholung",
+    "article": "die",
+    "plural": "-en",
+    "wordType": "noun",
+    "english": "recovery / relaxation",
+    "bangla": "আরোগ্য / বিশ্রাম",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Ich habe zu viel gearbeitet. Jetzt brauche ich etwas Erholung.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0132",
     "word": "erhöhen",
     "article": "",
     "plural": "",
@@ -2070,7 +1995,7 @@
     "tags": ""
   },
   {
-    "id": "E-0138",
+    "id": "E-0133",
     "word": "Erhöhung",
     "article": "die",
     "plural": "-en",
@@ -2085,37 +2010,7 @@
     "tags": ""
   },
   {
-    "id": "E-0139",
-    "word": "sich erholen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to recover / relax",
-    "bangla": "আরোগ্য হওয়া / বিশ্রাম নেওয়া",
-    "partizipII": "erholt",
-    "auxiliary": "hat",
-    "exampleSentence": "Im Urlaub habe ich mich sehr gut erholt.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0140",
-    "word": "Erholung",
-    "article": "die",
-    "plural": "",
-    "wordType": "noun",
-    "english": "recovery / relaxation",
-    "bangla": "আরোগ্য / বিশ্রাম",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ich habe zu viel gearbeitet. Jetzt brauche ich etwas Erholung.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0141",
+    "id": "E-0134",
     "word": "erinnern",
     "article": "",
     "plural": "",
@@ -2130,7 +2025,7 @@
     "tags": ""
   },
   {
-    "id": "E-0142",
+    "id": "E-0135",
     "word": "Erinnerung",
     "article": "die",
     "plural": "-en",
@@ -2145,52 +2040,7 @@
     "tags": ""
   },
   {
-    "id": "E-0143",
-    "word": "sich erkälten",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to catch a cold",
-    "bangla": "ঠান্ডা লাগা / সর্দি হওয়া",
-    "partizipII": "erkältet",
-    "auxiliary": "hat",
-    "exampleSentence": "Der Junge hat sich beim Baden erkältet.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0144",
-    "word": "erkältet",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "having a cold",
-    "bangla": "ঠান্ডা লেগেছে / সর্দিযুক্ত",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ich bin stark erkältet.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0145",
-    "word": "Erkältung",
-    "article": "die",
-    "plural": "-en",
-    "wordType": "noun",
-    "english": "cold (illness)",
-    "bangla": "ঠান্ডা / সর্দি",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Du hast eine schlimme Erkältung!",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0146",
+    "id": "E-0136",
     "word": "erkennen",
     "article": "",
     "plural": "",
@@ -2205,7 +2055,7 @@
     "tags": ""
   },
   {
-    "id": "E-0147",
+    "id": "E-0137",
     "word": "erklären",
     "article": "",
     "plural": "",
@@ -2220,7 +2070,7 @@
     "tags": ""
   },
   {
-    "id": "E-0148",
+    "id": "E-0138",
     "word": "Erklärung",
     "article": "die",
     "plural": "-en",
@@ -2235,22 +2085,37 @@
     "tags": ""
   },
   {
-    "id": "E-0149",
-    "word": "sich erkundigen",
+    "id": "E-0139",
+    "word": "erkältet",
     "article": "",
     "plural": "",
-    "wordType": "verb",
-    "english": "to inquire / ask",
-    "bangla": "খোঁজ নেওয়া / জিজ্ঞাসা করা",
-    "partizipII": "erkundigt",
-    "auxiliary": "hat",
-    "exampleSentence": "Hast du dich schon nach einem Zug erkundigt?",
+    "wordType": "adj",
+    "english": "having a cold",
+    "bangla": "ঠান্ডা লেগেছে / সর্দিযুক্ত",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Ich bin stark erkältet.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "E-0150",
+    "id": "E-0140",
+    "word": "Erkältung",
+    "article": "die",
+    "plural": "-en",
+    "wordType": "noun",
+    "english": "cold (illness)",
+    "bangla": "ঠান্ডা / সর্দি",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Du hast eine schlimme Erkältung!",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0141",
     "word": "erlauben",
     "article": "",
     "plural": "",
@@ -2265,7 +2130,7 @@
     "tags": ""
   },
   {
-    "id": "E-0151",
+    "id": "E-0142",
     "word": "Erlaubnis",
     "article": "die",
     "plural": "",
@@ -2280,7 +2145,7 @@
     "tags": ""
   },
   {
-    "id": "E-0152",
+    "id": "E-0143",
     "word": "erleben",
     "article": "",
     "plural": "",
@@ -2295,7 +2160,7 @@
     "tags": ""
   },
   {
-    "id": "E-0153",
+    "id": "E-0144",
     "word": "Erlebnis",
     "article": "das",
     "plural": "-se",
@@ -2310,7 +2175,7 @@
     "tags": ""
   },
   {
-    "id": "E-0154",
+    "id": "E-0145",
     "word": "erledigen",
     "article": "",
     "plural": "",
@@ -2325,7 +2190,7 @@
     "tags": ""
   },
   {
-    "id": "E-0155",
+    "id": "E-0146",
     "word": "erleichtern",
     "article": "",
     "plural": "",
@@ -2340,7 +2205,7 @@
     "tags": ""
   },
   {
-    "id": "E-0156",
+    "id": "E-0147",
     "word": "Ermäßigung",
     "article": "die",
     "plural": "-en",
@@ -2355,37 +2220,7 @@
     "tags": ""
   },
   {
-    "id": "E-0157",
-    "word": "ernähren",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to nourish / feed",
-    "bangla": "পুষ্টি জোগানো / খাওয়ানো",
-    "partizipII": "ernährt",
-    "auxiliary": "hat",
-    "exampleSentence": "Meine Eltern müssen beide arbeiten, um die Familie zu ernähren.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0158",
-    "word": "Ernährung",
-    "article": "die",
-    "plural": "",
-    "wordType": "noun",
-    "english": "nutrition / diet",
-    "bangla": "পুষ্টি / খাদ্যাভ্যাস",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ich finde eine gesunde Ernährung wichtig.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0159",
+    "id": "E-0148",
     "word": "ernst",
     "article": "",
     "plural": "",
@@ -2400,7 +2235,7 @@
     "tags": ""
   },
   {
-    "id": "E-0160",
+    "id": "E-0149",
     "word": "ernsthaft",
     "article": "",
     "plural": "",
@@ -2415,7 +2250,7 @@
     "tags": ""
   },
   {
-    "id": "E-0161",
+    "id": "E-0150",
     "word": "Ernte",
     "article": "die",
     "plural": "-n",
@@ -2430,37 +2265,37 @@
     "tags": ""
   },
   {
-    "id": "E-0162",
-    "word": "eröffnen",
+    "id": "E-0151",
+    "word": "ernähren",
     "article": "",
     "plural": "",
     "wordType": "verb",
-    "english": "to open / inaugurate",
-    "bangla": "খোলা / উদ্বোধন করা",
-    "partizipII": "eröffnet",
+    "english": "to nourish / feed",
+    "bangla": "পুষ্টি জোগানো / খাওয়ানো",
+    "partizipII": "ernährt",
     "auxiliary": "hat",
-    "exampleSentence": "Mein Nachbar hat letzten Monat ein Geschäft eröffnet.",
+    "exampleSentence": "Meine Eltern müssen beide arbeiten, um die Familie zu ernähren.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "E-0163",
-    "word": "Eröffnung",
+    "id": "E-0152",
+    "word": "Ernährung",
     "article": "die",
-    "plural": "-en",
+    "plural": "",
     "wordType": "noun",
-    "english": "opening / inauguration",
-    "bangla": "উদ্বোধন / খোলা",
+    "english": "nutrition / diet",
+    "bangla": "পুষ্টি / খাদ্যাভ্যাস",
     "partizipII": "",
     "auxiliary": "",
-    "exampleSentence": "Die Eröffnung der neuen Oper ist am 1. Juni.",
+    "exampleSentence": "Ich finde eine gesunde Ernährung wichtig.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "E-0164",
+    "id": "E-0153",
     "word": "erreichen",
     "article": "",
     "plural": "",
@@ -2475,52 +2310,7 @@
     "tags": ""
   },
   {
-    "id": "E-0165",
-    "word": "erschöpft",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "exhausted",
-    "bangla": "ক্লান্ত / অবসন্ন",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Nach dem Sport bin ich immer sehr erschöpft.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0166",
-    "word": "erschrecken",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to frighten / be startled",
-    "bangla": "ভয় পাওয়া / ভয় দেখানো",
-    "partizipII": "erschrocken",
-    "auxiliary": "ist/hat",
-    "exampleSentence": "Du hast richtig krank ausgesehen. Ich war ganz erschrocken.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0167",
-    "word": "ersetzen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to replace",
-    "bangla": "প্রতিস্থাপন করা / বদলানো",
-    "partizipII": "ersetzt",
-    "auxiliary": "hat",
-    "exampleSentence": "Wir ersetzen Ihnen die Kosten.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0168",
+    "id": "E-0154",
     "word": "Ersatz",
     "article": "der",
     "plural": "",
@@ -2535,7 +2325,67 @@
     "tags": ""
   },
   {
-    "id": "E-0169",
+    "id": "E-0155",
+    "word": "erschrecken",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to frighten / be startled",
+    "bangla": "ভয় পাওয়া / ভয় দেখানো",
+    "partizipII": "erschrocken",
+    "auxiliary": "ist/hat",
+    "exampleSentence": "Du hast richtig krank ausgesehen. Ich war ganz erschrocken.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0156",
+    "word": "erschreckt",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0157",
+    "word": "erschöpft",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "exhausted",
+    "bangla": "ক্লান্ত / অবসন্ন",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Nach dem Sport bin ich immer sehr erschöpft.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0158",
+    "word": "ersetzen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to replace",
+    "bangla": "প্রতিস্থাপন করা / বদলানো",
+    "partizipII": "ersetzt",
+    "auxiliary": "hat",
+    "exampleSentence": "Wir ersetzen Ihnen die Kosten.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0159",
     "word": "erst",
     "article": "",
     "plural": "",
@@ -2550,7 +2400,7 @@
     "tags": ""
   },
   {
-    "id": "E-0170",
+    "id": "E-0160",
     "word": "erst-",
     "article": "",
     "plural": "",
@@ -2565,7 +2415,7 @@
     "tags": ""
   },
   {
-    "id": "E-0171",
+    "id": "E-0161",
     "word": "erstellen",
     "article": "",
     "plural": "",
@@ -2580,7 +2430,7 @@
     "tags": ""
   },
   {
-    "id": "E-0172",
+    "id": "E-0162",
     "word": "erwachsen",
     "article": "",
     "plural": "",
@@ -2595,7 +2445,7 @@
     "tags": ""
   },
   {
-    "id": "E-0173",
+    "id": "E-0163",
     "word": "Erwachsene",
     "article": "der",
     "plural": "-n",
@@ -2610,7 +2460,7 @@
     "tags": ""
   },
   {
-    "id": "E-0174",
+    "id": "E-0164",
     "word": "erwarten",
     "article": "",
     "plural": "",
@@ -2625,37 +2475,7 @@
     "tags": ""
   },
   {
-    "id": "E-0175",
-    "word": "erzählen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to tell / narrate",
-    "bangla": "বলা / গল্প বলা",
-    "partizipII": "erzählt",
-    "auxiliary": "hat",
-    "exampleSentence": "Mein Mann hat mir schon viel von Ihnen erzählt.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0176",
-    "word": "Erzählung",
-    "article": "die",
-    "plural": "-en",
-    "wordType": "noun",
-    "english": "story / tale / narrative",
-    "bangla": "গল্প / কাহিনী",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Diese Erzählung ist sehr berühmt. Du musst sie lesen.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0177",
+    "id": "E-0165",
     "word": "erziehen",
     "article": "",
     "plural": "",
@@ -2670,7 +2490,7 @@
     "tags": ""
   },
   {
-    "id": "E-0178",
+    "id": "E-0166",
     "word": "Erziehung",
     "article": "die",
     "plural": "",
@@ -2685,37 +2505,67 @@
     "tags": ""
   },
   {
-    "id": "E-0179",
-    "word": "es",
-    "article": "",
-    "plural": "",
-    "wordType": "pronoun",
-    "english": "it",
-    "bangla": "এটা / এটি",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Mein Auto muss in die Werkstatt. Es ist kaputt.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "E-0180",
-    "word": "essen",
+    "id": "E-0167",
+    "word": "erzählen",
     "article": "",
     "plural": "",
     "wordType": "verb",
-    "english": "to eat",
-    "bangla": "খাওয়া",
-    "partizipII": "gegessen",
+    "english": "to tell / narrate",
+    "bangla": "বলা / গল্প বলা",
+    "partizipII": "erzählt",
     "auxiliary": "hat",
-    "exampleSentence": "Haben Sie schon zu Mittag gegessen?",
+    "exampleSentence": "Mein Mann hat mir schon viel von Ihnen erzählt.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "E-0181",
+    "id": "E-0168",
+    "word": "Erzählung",
+    "article": "die",
+    "plural": "-en",
+    "wordType": "noun",
+    "english": "story / tale / narrative",
+    "bangla": "গল্প / কাহিনী",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Diese Erzählung ist sehr berühmt. Du musst sie lesen.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0169",
+    "word": "eröffnen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to open / inaugurate",
+    "bangla": "খোলা / উদ্বোধন করা",
+    "partizipII": "eröffnet",
+    "auxiliary": "hat",
+    "exampleSentence": "Mein Nachbar hat letzten Monat ein Geschäft eröffnet.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0170",
+    "word": "Eröffnung",
+    "article": "die",
+    "plural": "-en",
+    "wordType": "noun",
+    "english": "opening / inauguration",
+    "bangla": "উদ্বোধন / খোলা",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Die Eröffnung der neuen Oper ist am 1. Juni.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "E-0171",
     "word": "Essen",
     "article": "das",
     "plural": "-",
@@ -2730,7 +2580,7 @@
     "tags": ""
   },
   {
-    "id": "E-0182",
+    "id": "E-0172",
     "word": "Essig",
     "article": "der",
     "plural": "",
@@ -2745,7 +2595,7 @@
     "tags": ""
   },
   {
-    "id": "E-0183",
+    "id": "E-0173",
     "word": "Etage",
     "article": "die",
     "plural": "-n",
@@ -2760,7 +2610,7 @@
     "tags": ""
   },
   {
-    "id": "E-0184",
+    "id": "E-0174",
     "word": "etwa",
     "article": "",
     "plural": "",
@@ -2775,7 +2625,7 @@
     "tags": ""
   },
   {
-    "id": "E-0185",
+    "id": "E-0175",
     "word": "etwas",
     "article": "",
     "plural": "",
@@ -2790,7 +2640,7 @@
     "tags": ""
   },
   {
-    "id": "E-0186",
+    "id": "E-0176",
     "word": "eventuell",
     "article": "",
     "plural": "",
@@ -2805,7 +2655,7 @@
     "tags": ""
   },
   {
-    "id": "E-0187",
+    "id": "E-0177",
     "word": "ewig",
     "article": "",
     "plural": "",
@@ -2820,7 +2670,7 @@
     "tags": ""
   },
   {
-    "id": "E-0188",
+    "id": "E-0178",
     "word": "Experte",
     "article": "der",
     "plural": "-n",
@@ -2835,7 +2685,7 @@
     "tags": ""
   },
   {
-    "id": "E-0189",
+    "id": "E-0179",
     "word": "Expertin",
     "article": "die",
     "plural": "-nen",
@@ -2850,7 +2700,7 @@
     "tags": ""
   },
   {
-    "id": "E-0190",
+    "id": "E-0180",
     "word": "Export",
     "article": "der",
     "plural": "-e",
@@ -2865,7 +2715,7 @@
     "tags": ""
   },
   {
-    "id": "E-0191",
+    "id": "E-0181",
     "word": "extra",
     "article": "",
     "plural": "",
@@ -2880,7 +2730,7 @@
     "tags": ""
   },
   {
-    "id": "E-0192",
+    "id": "E-0182",
     "word": "extrem",
     "article": "",
     "plural": "",

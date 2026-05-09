@@ -1,21 +1,6 @@
 [
   {
     "id": "P-0000",
-    "word": "paar",
-    "article": "",
-    "plural": "",
-    "wordType": "pronoun",
-    "english": "a few/couple of",
-    "bangla": "কয়েকটি",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ich habe ein paar Freunde eingeladen.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "P-0001",
     "word": "Paar",
     "article": "das",
     "plural": "-e",
@@ -30,7 +15,7 @@
     "tags": ""
   },
   {
-    "id": "P-0002",
+    "id": "P-0001",
     "word": "packen",
     "article": "",
     "plural": "",
@@ -45,7 +30,7 @@
     "tags": ""
   },
   {
-    "id": "P-0003",
+    "id": "P-0002",
     "word": "Paket",
     "article": "das",
     "plural": "-e",
@@ -60,7 +45,7 @@
     "tags": ""
   },
   {
-    "id": "P-0004",
+    "id": "P-0003",
     "word": "Panne",
     "article": "die",
     "plural": "-n",
@@ -75,7 +60,7 @@
     "tags": ""
   },
   {
-    "id": "P-0005",
+    "id": "P-0004",
     "word": "Papier",
     "article": "das",
     "plural": "-e",
@@ -90,7 +75,7 @@
     "tags": ""
   },
   {
-    "id": "P-0006",
+    "id": "P-0005",
     "word": "Paradeiser",
     "article": "der",
     "plural": "-",
@@ -105,7 +90,7 @@
     "tags": ""
   },
   {
-    "id": "P-0007",
+    "id": "P-0006",
     "word": "parallel",
     "article": "",
     "plural": "",
@@ -120,7 +105,7 @@
     "tags": ""
   },
   {
-    "id": "P-0008",
+    "id": "P-0007",
     "word": "Parfüm",
     "article": "das",
     "plural": "-s",
@@ -135,7 +120,7 @@
     "tags": ""
   },
   {
-    "id": "P-0009",
+    "id": "P-0008",
     "word": "Park",
     "article": "der",
     "plural": "-s",
@@ -150,7 +135,7 @@
     "tags": ""
   },
   {
-    "id": "P-0010",
+    "id": "P-0009",
     "word": "parken",
     "article": "",
     "plural": "",
@@ -165,7 +150,7 @@
     "tags": ""
   },
   {
-    "id": "P-0011",
+    "id": "P-0010",
     "word": "parkieren",
     "article": "",
     "plural": "",
@@ -175,6 +160,21 @@
     "partizipII": "parkiert",
     "auxiliary": "hat",
     "exampleSentence": "In der Schweiz sagt man parkieren.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0011",
+    "word": "Partner",
+    "article": "der",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
@@ -196,6 +196,21 @@
   },
   {
     "id": "P-0013",
+    "word": "Partnerin",
+    "article": "die",
+    "plural": "-nen",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0014",
     "word": "Party",
     "article": "die",
     "plural": "-s",
@@ -210,7 +225,7 @@
     "tags": ""
   },
   {
-    "id": "P-0014",
+    "id": "P-0015",
     "word": "Pass",
     "article": "der",
     "plural": "¨-e",
@@ -225,7 +240,22 @@
     "tags": ""
   },
   {
-    "id": "P-0015",
+    "id": "P-0016",
+    "word": "Passagier",
+    "article": "der",
+    "plural": "-e",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0017",
     "word": "Passagier/Passagierin",
     "article": "der/die",
     "plural": "-",
@@ -240,7 +270,22 @@
     "tags": ""
   },
   {
-    "id": "P-0016",
+    "id": "P-0018",
+    "word": "Passagierin",
+    "article": "die",
+    "plural": "-nen",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0019",
     "word": "passen",
     "article": "",
     "plural": "",
@@ -255,7 +300,7 @@
     "tags": ""
   },
   {
-    "id": "P-0017",
+    "id": "P-0020",
     "word": "passieren",
     "article": "",
     "plural": "",
@@ -270,7 +315,7 @@
     "tags": ""
   },
   {
-    "id": "P-0018",
+    "id": "P-0021",
     "word": "passiv",
     "article": "",
     "plural": "",
@@ -285,7 +330,22 @@
     "tags": ""
   },
   {
-    "id": "P-0019",
+    "id": "P-0022",
+    "word": "Patient",
+    "article": "der",
+    "plural": "-en",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0023",
     "word": "Patient/Patientin",
     "article": "der/die",
     "plural": "-",
@@ -300,7 +360,22 @@
     "tags": ""
   },
   {
-    "id": "P-0020",
+    "id": "P-0024",
+    "word": "Patientin",
+    "article": "die",
+    "plural": "-nen",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0025",
     "word": "pauschal",
     "article": "",
     "plural": "",
@@ -315,7 +390,7 @@
     "tags": ""
   },
   {
-    "id": "P-0021",
+    "id": "P-0026",
     "word": "Pause",
     "article": "die",
     "plural": "-n",
@@ -330,7 +405,7 @@
     "tags": ""
   },
   {
-    "id": "P-0022",
+    "id": "P-0027",
     "word": "Pech",
     "article": "das",
     "plural": "-",
@@ -345,7 +420,7 @@
     "tags": ""
   },
   {
-    "id": "P-0023",
+    "id": "P-0028",
     "word": "peinlich",
     "article": "",
     "plural": "",
@@ -360,7 +435,7 @@
     "tags": ""
   },
   {
-    "id": "P-0024",
+    "id": "P-0029",
     "word": "Pension",
     "article": "die",
     "plural": "-en",
@@ -375,7 +450,7 @@
     "tags": ""
   },
   {
-    "id": "P-0025",
+    "id": "P-0030",
     "word": "per",
     "article": "",
     "plural": "",
@@ -390,7 +465,7 @@
     "tags": ""
   },
   {
-    "id": "P-0026",
+    "id": "P-0031",
     "word": "perfekt",
     "article": "",
     "plural": "",
@@ -405,7 +480,7 @@
     "tags": ""
   },
   {
-    "id": "P-0027",
+    "id": "P-0032",
     "word": "Perron",
     "article": "der/das",
     "plural": "-s",
@@ -420,7 +495,7 @@
     "tags": ""
   },
   {
-    "id": "P-0028",
+    "id": "P-0033",
     "word": "Person",
     "article": "die",
     "plural": "-en",
@@ -435,52 +510,7 @@
     "tags": ""
   },
   {
-    "id": "P-0029",
-    "word": "persönlich",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "personal/personally",
-    "bangla": "ব্যক্তিগতভাবে",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ich möchte ihn persönlich kennenlernen.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "P-0030",
-    "word": "Personalien",
-    "article": "die",
-    "plural": "-",
-    "wordType": "noun",
-    "english": "personal details",
-    "bangla": "ব্যক্তিগত তথ্য",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Bitte geben Sie Ihre Personalien an.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "P-0031",
-    "word": "Personenstand",
-    "article": "der",
-    "plural": "-",
-    "wordType": "noun",
-    "english": "marital status (CH)",
-    "bangla": "বৈবাহিক অবস্থা",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Der Personenstand ist im Ausweis vermerkt.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "P-0032",
+    "id": "P-0034",
     "word": "Personal",
     "article": "das",
     "plural": "-",
@@ -495,7 +525,52 @@
     "tags": ""
   },
   {
-    "id": "P-0033",
+    "id": "P-0035",
+    "word": "Personalien",
+    "article": "die",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "personal details",
+    "bangla": "ব্যক্তিগত তথ্য",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Bitte geben Sie Ihre Personalien an.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0036",
+    "word": "Personenstand",
+    "article": "der",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "marital status (CH)",
+    "bangla": "বৈবাহিক অবস্থা",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Der Personenstand ist im Ausweis vermerkt.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0037",
+    "word": "persönlich",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "personal/personally",
+    "bangla": "ব্যক্তিগতভাবে",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Ich möchte ihn persönlich kennenlernen.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0038",
     "word": "Pfanne",
     "article": "die",
     "plural": "-n",
@@ -510,7 +585,7 @@
     "tags": ""
   },
   {
-    "id": "P-0034",
+    "id": "P-0039",
     "word": "Pfeffer",
     "article": "der",
     "plural": "-",
@@ -525,22 +600,7 @@
     "tags": ""
   },
   {
-    "id": "P-0035",
-    "word": "pflanzen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to plant",
-    "bangla": "রোপণ করা/পুঁতে ফেলা",
-    "partizipII": "gepflanzt",
-    "auxiliary": "hat",
-    "exampleSentence": "Wir pflanzen einen Baum im Garten.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "P-0036",
+    "id": "P-0040",
     "word": "Pflanze",
     "article": "die",
     "plural": "-n",
@@ -555,7 +615,22 @@
     "tags": ""
   },
   {
-    "id": "P-0037",
+    "id": "P-0041",
+    "word": "pflanzen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to plant",
+    "bangla": "রোপণ করা/পুঁতে ফেলা",
+    "partizipII": "gepflanzt",
+    "auxiliary": "hat",
+    "exampleSentence": "Wir pflanzen einen Baum im Garten.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0042",
     "word": "Pflaster",
     "article": "das",
     "plural": "-",
@@ -570,7 +645,7 @@
     "tags": ""
   },
   {
-    "id": "P-0038",
+    "id": "P-0043",
     "word": "Pflaume",
     "article": "die",
     "plural": "-n",
@@ -585,7 +660,7 @@
     "tags": ""
   },
   {
-    "id": "P-0039",
+    "id": "P-0044",
     "word": "pflegen",
     "article": "",
     "plural": "",
@@ -600,7 +675,22 @@
     "tags": ""
   },
   {
-    "id": "P-0040",
+    "id": "P-0045",
+    "word": "Pfleger",
+    "article": "der",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0046",
     "word": "Pfleger/Pflegerin",
     "article": "der/die",
     "plural": "-",
@@ -615,7 +705,22 @@
     "tags": ""
   },
   {
-    "id": "P-0041",
+    "id": "P-0047",
+    "word": "Pflegerin",
+    "article": "die",
+    "plural": "-nen",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0048",
     "word": "Pflicht",
     "article": "die",
     "plural": "-en",
@@ -630,22 +735,7 @@
     "tags": ""
   },
   {
-    "id": "P-0042",
-    "word": "Fantasie",
-    "article": "die",
-    "plural": "-n",
-    "wordType": "noun",
-    "english": "imagination/fantasy",
-    "bangla": "কল্পনা",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Kinder haben viel Fantasie.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "P-0043",
+    "id": "P-0049",
     "word": "Picknick",
     "article": "das",
     "plural": "-s",
@@ -660,7 +750,7 @@
     "tags": ""
   },
   {
-    "id": "P-0044",
+    "id": "P-0050",
     "word": "Pille",
     "article": "die",
     "plural": "-n",
@@ -675,7 +765,7 @@
     "tags": ""
   },
   {
-    "id": "P-0045",
+    "id": "P-0051",
     "word": "Pilz",
     "article": "der",
     "plural": "-e",
@@ -690,7 +780,7 @@
     "tags": ""
   },
   {
-    "id": "P-0046",
+    "id": "P-0052",
     "word": "Pizza",
     "article": "die",
     "plural": "-n",
@@ -705,7 +795,7 @@
     "tags": ""
   },
   {
-    "id": "P-0047",
+    "id": "P-0053",
     "word": "Plakat",
     "article": "das",
     "plural": "-e",
@@ -720,22 +810,7 @@
     "tags": ""
   },
   {
-    "id": "P-0048",
-    "word": "planen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to plan",
-    "bangla": "পরিকল্পনা করা",
-    "partizipII": "geplant",
-    "auxiliary": "hat",
-    "exampleSentence": "Wir planen einen Urlaub in Italien.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "P-0049",
+    "id": "P-0054",
     "word": "Plan",
     "article": "der",
     "plural": "¨-e",
@@ -750,7 +825,22 @@
     "tags": ""
   },
   {
-    "id": "P-0050",
+    "id": "P-0055",
+    "word": "planen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to plan",
+    "bangla": "পরিকল্পনা করা",
+    "partizipII": "geplant",
+    "auxiliary": "hat",
+    "exampleSentence": "Wir planen einen Urlaub in Italien.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0056",
     "word": "Planung",
     "article": "die",
     "plural": "-en",
@@ -765,7 +855,7 @@
     "tags": ""
   },
   {
-    "id": "P-0051",
+    "id": "P-0057",
     "word": "Plastik",
     "article": "das",
     "plural": "-",
@@ -780,7 +870,7 @@
     "tags": ""
   },
   {
-    "id": "P-0052",
+    "id": "P-0058",
     "word": "Platz",
     "article": "der",
     "plural": "¨-e",
@@ -795,7 +885,7 @@
     "tags": ""
   },
   {
-    "id": "P-0053",
+    "id": "P-0059",
     "word": "plötzlich",
     "article": "",
     "plural": "",
@@ -810,7 +900,7 @@
     "tags": ""
   },
   {
-    "id": "P-0054",
+    "id": "P-0060",
     "word": "Politik",
     "article": "die",
     "plural": "-",
@@ -825,7 +915,22 @@
     "tags": ""
   },
   {
-    "id": "P-0055",
+    "id": "P-0061",
+    "word": "Politiker",
+    "article": "der",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0062",
     "word": "Politiker/Politikerin",
     "article": "der/die",
     "plural": "-",
@@ -840,7 +945,22 @@
     "tags": ""
   },
   {
-    "id": "P-0056",
+    "id": "P-0063",
+    "word": "Politikerin",
+    "article": "die",
+    "plural": "-nen",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0064",
     "word": "politisch",
     "article": "",
     "plural": "",
@@ -855,7 +975,7 @@
     "tags": ""
   },
   {
-    "id": "P-0057",
+    "id": "P-0065",
     "word": "Polizei",
     "article": "die",
     "plural": "-",
@@ -870,7 +990,22 @@
     "tags": ""
   },
   {
-    "id": "P-0058",
+    "id": "P-0066",
+    "word": "Polizist",
+    "article": "der",
+    "plural": "-en",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0067",
     "word": "Polizist/Polizistin",
     "article": "der/die",
     "plural": "-",
@@ -885,7 +1020,22 @@
     "tags": ""
   },
   {
-    "id": "P-0059",
+    "id": "P-0068",
+    "word": "Polizistin",
+    "article": "die",
+    "plural": "-nen",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0069",
     "word": "Pommes frites",
     "article": "die",
     "plural": "-",
@@ -900,7 +1050,7 @@
     "tags": ""
   },
   {
-    "id": "P-0060",
+    "id": "P-0070",
     "word": "populär",
     "article": "",
     "plural": "",
@@ -915,7 +1065,7 @@
     "tags": ""
   },
   {
-    "id": "P-0061",
+    "id": "P-0071",
     "word": "Portemonnaie",
     "article": "das",
     "plural": "-s",
@@ -930,7 +1080,22 @@
     "tags": ""
   },
   {
-    "id": "P-0062",
+    "id": "P-0072",
+    "word": "portiert",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0073",
     "word": "Portion",
     "article": "die",
     "plural": "-en",
@@ -945,7 +1110,7 @@
     "tags": ""
   },
   {
-    "id": "P-0063",
+    "id": "P-0074",
     "word": "positiv",
     "article": "",
     "plural": "",
@@ -960,7 +1125,7 @@
     "tags": ""
   },
   {
-    "id": "P-0064",
+    "id": "P-0075",
     "word": "Post",
     "article": "die",
     "plural": "-",
@@ -975,7 +1140,7 @@
     "tags": ""
   },
   {
-    "id": "P-0065",
+    "id": "P-0076",
     "word": "Postleitzahl",
     "article": "die",
     "plural": "-en",
@@ -990,22 +1155,7 @@
     "tags": ""
   },
   {
-    "id": "P-0066",
-    "word": "Pöstler/Pöstlerin",
-    "article": "der/die",
-    "plural": "-",
-    "wordType": "noun",
-    "english": "mail carrier (CH)",
-    "bangla": "ডাকপিয়ন (সুইস)",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Der Pöstler bringt jeden Tag die Post.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "P-0067",
+    "id": "P-0077",
     "word": "Poulet",
     "article": "das",
     "plural": "-s",
@@ -1020,22 +1170,22 @@
     "tags": ""
   },
   {
-    "id": "P-0068",
-    "word": "Praktikum",
-    "article": "das",
-    "plural": "Praktika",
+    "id": "P-0078",
+    "word": "Praktikant",
+    "article": "der",
+    "plural": "-en",
     "wordType": "noun",
-    "english": "internship",
-    "bangla": "ইন্টার্নশিপ",
+    "english": "",
+    "bangla": "",
     "partizipII": "",
     "auxiliary": "",
-    "exampleSentence": "Ich mache ein Praktikum bei einer Firma.",
+    "exampleSentence": "",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "P-0069",
+    "id": "P-0079",
     "word": "Praktikant/Praktikantin",
     "article": "der/die",
     "plural": "-",
@@ -1050,7 +1200,37 @@
     "tags": ""
   },
   {
-    "id": "P-0070",
+    "id": "P-0080",
+    "word": "Praktikantin",
+    "article": "die",
+    "plural": "-nen",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0081",
+    "word": "Praktikum",
+    "article": "das",
+    "plural": "Praktika",
+    "wordType": "noun",
+    "english": "internship",
+    "bangla": "ইন্টার্নশিপ",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Ich mache ein Praktikum bei einer Firma.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0082",
     "word": "praktisch",
     "article": "",
     "plural": "",
@@ -1065,37 +1245,7 @@
     "tags": ""
   },
   {
-    "id": "P-0071",
-    "word": "präsentieren",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to present",
-    "bangla": "উপস্থাপন করা",
-    "partizipII": "präsentiert",
-    "auxiliary": "hat",
-    "exampleSentence": "Er präsentiert sein Projekt vor der Klasse.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "P-0072",
-    "word": "Präsentation",
-    "article": "die",
-    "plural": "-en",
-    "wordType": "noun",
-    "english": "presentation",
-    "bangla": "উপস্থাপনা",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Die Präsentation war sehr interessant.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "P-0073",
+    "id": "P-0083",
     "word": "Praxis",
     "article": "die",
     "plural": "Praxen",
@@ -1110,7 +1260,7 @@
     "tags": ""
   },
   {
-    "id": "P-0074",
+    "id": "P-0084",
     "word": "Preis",
     "article": "der",
     "plural": "-e",
@@ -1125,7 +1275,7 @@
     "tags": ""
   },
   {
-    "id": "P-0075",
+    "id": "P-0085",
     "word": "preiswert",
     "article": "",
     "plural": "",
@@ -1140,7 +1290,7 @@
     "tags": ""
   },
   {
-    "id": "P-0076",
+    "id": "P-0086",
     "word": "Presse",
     "article": "die",
     "plural": "-",
@@ -1155,7 +1305,7 @@
     "tags": ""
   },
   {
-    "id": "P-0077",
+    "id": "P-0087",
     "word": "prima",
     "article": "",
     "plural": "",
@@ -1170,7 +1320,7 @@
     "tags": ""
   },
   {
-    "id": "P-0078",
+    "id": "P-0088",
     "word": "privat",
     "article": "",
     "plural": "",
@@ -1185,7 +1335,7 @@
     "tags": ""
   },
   {
-    "id": "P-0079",
+    "id": "P-0089",
     "word": "pro",
     "article": "",
     "plural": "",
@@ -1200,7 +1350,7 @@
     "tags": ""
   },
   {
-    "id": "P-0080",
+    "id": "P-0090",
     "word": "probieren",
     "article": "",
     "plural": "",
@@ -1215,7 +1365,7 @@
     "tags": ""
   },
   {
-    "id": "P-0081",
+    "id": "P-0091",
     "word": "Problem",
     "article": "das",
     "plural": "-e",
@@ -1230,22 +1380,7 @@
     "tags": ""
   },
   {
-    "id": "P-0082",
-    "word": "produzieren",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to produce",
-    "bangla": "উত্পাদন করা",
-    "partizipII": "produziert",
-    "auxiliary": "hat",
-    "exampleSentence": "Die Firma produziert hochwertige Möbel.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "P-0083",
+    "id": "P-0092",
     "word": "Produkt",
     "article": "das",
     "plural": "-e",
@@ -1260,7 +1395,7 @@
     "tags": ""
   },
   {
-    "id": "P-0084",
+    "id": "P-0093",
     "word": "Produktion",
     "article": "die",
     "plural": "-en",
@@ -1275,7 +1410,37 @@
     "tags": ""
   },
   {
-    "id": "P-0085",
+    "id": "P-0094",
+    "word": "produzieren",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to produce",
+    "bangla": "উত্পাদন করা",
+    "partizipII": "produziert",
+    "auxiliary": "hat",
+    "exampleSentence": "Die Firma produziert hochwertige Möbel.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0095",
+    "word": "Professor",
+    "article": "der",
+    "plural": "-en",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0096",
     "word": "Professor/Professorin",
     "article": "der/die",
     "plural": "-",
@@ -1290,7 +1455,22 @@
     "tags": ""
   },
   {
-    "id": "P-0086",
+    "id": "P-0097",
+    "word": "Professorin",
+    "article": "die",
+    "plural": "-nen",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0098",
     "word": "Profi",
     "article": "der",
     "plural": "-s",
@@ -1305,7 +1485,22 @@
     "tags": ""
   },
   {
-    "id": "P-0087",
+    "id": "P-0099",
+    "word": "Profisportler",
+    "article": "der",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0100",
     "word": "Profisportler/Profisportlerin",
     "article": "der/die",
     "plural": "-",
@@ -1320,7 +1515,22 @@
     "tags": ""
   },
   {
-    "id": "P-0088",
+    "id": "P-0101",
+    "word": "Profisportlerin",
+    "article": "die",
+    "plural": "-nen",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0102",
     "word": "Programm",
     "article": "das",
     "plural": "-e",
@@ -1335,7 +1545,7 @@
     "tags": ""
   },
   {
-    "id": "P-0089",
+    "id": "P-0103",
     "word": "Projekt",
     "article": "das",
     "plural": "-e",
@@ -1350,7 +1560,7 @@
     "tags": ""
   },
   {
-    "id": "P-0090",
+    "id": "P-0104",
     "word": "Prospekt",
     "article": "der/das",
     "plural": "-e",
@@ -1365,7 +1575,7 @@
     "tags": ""
   },
   {
-    "id": "P-0091",
+    "id": "P-0105",
     "word": "Prost",
     "article": "",
     "plural": "",
@@ -1380,22 +1590,7 @@
     "tags": ""
   },
   {
-    "id": "P-0092",
-    "word": "protestieren",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to protest",
-    "bangla": "প্রতিবাদ করা",
-    "partizipII": "protestiert",
-    "auxiliary": "hat",
-    "exampleSentence": "Viele Menschen protestieren gegen die Entscheidung.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "P-0093",
+    "id": "P-0106",
     "word": "Protest",
     "article": "der",
     "plural": "-e",
@@ -1410,7 +1605,22 @@
     "tags": ""
   },
   {
-    "id": "P-0094",
+    "id": "P-0107",
+    "word": "protestieren",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to protest",
+    "bangla": "প্রতিবাদ করা",
+    "partizipII": "protestiert",
+    "auxiliary": "hat",
+    "exampleSentence": "Viele Menschen protestieren gegen die Entscheidung.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0108",
     "word": "Prozess",
     "article": "der",
     "plural": "-e",
@@ -1425,7 +1635,37 @@
     "tags": ""
   },
   {
-    "id": "P-0095",
+    "id": "P-0109",
+    "word": "Präsentation",
+    "article": "die",
+    "plural": "-en",
+    "wordType": "noun",
+    "english": "presentation",
+    "bangla": "উপস্থাপনা",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Die Präsentation war sehr interessant.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0110",
+    "word": "präsentieren",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to present",
+    "bangla": "উপস্থাপন করা",
+    "partizipII": "präsentiert",
+    "auxiliary": "hat",
+    "exampleSentence": "Er präsentiert sein Projekt vor der Klasse.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0111",
     "word": "prüfen",
     "article": "",
     "plural": "",
@@ -1440,7 +1680,7 @@
     "tags": ""
   },
   {
-    "id": "P-0096",
+    "id": "P-0112",
     "word": "Prüfung",
     "article": "die",
     "plural": "-en",
@@ -1455,7 +1695,7 @@
     "tags": ""
   },
   {
-    "id": "P-0097",
+    "id": "P-0113",
     "word": "Publikum",
     "article": "das",
     "plural": "-",
@@ -1470,7 +1710,7 @@
     "tags": ""
   },
   {
-    "id": "P-0098",
+    "id": "P-0114",
     "word": "Pullover",
     "article": "der",
     "plural": "-",
@@ -1485,7 +1725,7 @@
     "tags": ""
   },
   {
-    "id": "P-0099",
+    "id": "P-0115",
     "word": "Punkt",
     "article": "der",
     "plural": "-e",
@@ -1500,22 +1740,7 @@
     "tags": ""
   },
   {
-    "id": "P-0100",
-    "word": "pünktlich",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "punctual",
-    "bangla": "সময়নিষ্ঠ/ঠিক সময়ে",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Der Zug kommt pünktlich um 10 Uhr an.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "P-0101",
+    "id": "P-0116",
     "word": "Puppe",
     "article": "die",
     "plural": "-n",
@@ -1530,7 +1755,7 @@
     "tags": ""
   },
   {
-    "id": "P-0102",
+    "id": "P-0117",
     "word": "putzen",
     "article": "",
     "plural": "",
@@ -1540,6 +1765,36 @@
     "partizipII": "geputzt",
     "auxiliary": "hat",
     "exampleSentence": "Ich muss noch die Fenster putzen.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0118",
+    "word": "Pöstler/Pöstlerin",
+    "article": "der/die",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "mail carrier (CH)",
+    "bangla": "ডাকপিয়ন (সুইস)",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Der Pöstler bringt jeden Tag die Post.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "P-0119",
+    "word": "pünktlich",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "punctual",
+    "bangla": "সময়নিষ্ঠ/ঠিক সময়ে",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Der Zug kommt pünktlich um 10 Uhr an.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""

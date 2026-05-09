@@ -31,21 +31,6 @@
   },
   {
     "id": "O-0002",
-    "word": "ober-",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "upper",
-    "bangla": "উপরের",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Das obere Fenster ist geöffnet.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "O-0003",
     "word": "Ober",
     "article": "der",
     "plural": "-",
@@ -55,6 +40,21 @@
     "partizipII": "",
     "auxiliary": "",
     "exampleSentence": "Der Ober bringt die Speisekarte.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "O-0003",
+    "word": "ober-",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "upper",
+    "bangla": "উপরের",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Das obere Fenster ist geöffnet.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
@@ -151,51 +151,6 @@
   },
   {
     "id": "O-0010",
-    "word": "öffentlich",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "public",
-    "bangla": "সরকারি/পাবলিক",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Das ist ein öffentliches Gebäude.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "O-0011",
-    "word": "Öffentlichkeit",
-    "article": "die",
-    "plural": "-",
-    "wordType": "noun",
-    "english": "public/publicity",
-    "bangla": "জনসাধারণ",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Die Öffentlichkeit wurde informiert.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "O-0012",
-    "word": "veröffentlichen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to publish",
-    "bangla": "প্রকাশ করা",
-    "partizipII": "veröffentlicht",
-    "auxiliary": "hat",
-    "exampleSentence": "Der Autor möchte ein Buch veröffentlichen.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "O-0013",
     "word": "offenbar",
     "article": "",
     "plural": "",
@@ -210,7 +165,7 @@
     "tags": ""
   },
   {
-    "id": "O-0014",
+    "id": "O-0011",
     "word": "offiziell",
     "article": "",
     "plural": "",
@@ -225,22 +180,7 @@
     "tags": ""
   },
   {
-    "id": "O-0015",
-    "word": "öffnen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to open",
-    "bangla": "খোলা",
-    "partizipII": "geöffnet",
-    "auxiliary": "hat",
-    "exampleSentence": "Kannst du bitte die Tür öffnen?",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "O-0016",
+    "id": "O-0012",
     "word": "oft/öfter",
     "article": "",
     "plural": "",
@@ -255,7 +195,7 @@
     "tags": ""
   },
   {
-    "id": "O-0017",
+    "id": "O-0013",
     "word": "ohne",
     "article": "",
     "plural": "",
@@ -270,7 +210,7 @@
     "tags": ""
   },
   {
-    "id": "O-0018",
+    "id": "O-0014",
     "word": "Ohr",
     "article": "das",
     "plural": "-en",
@@ -285,37 +225,7 @@
     "tags": ""
   },
   {
-    "id": "O-0019",
-    "word": "Öko-",
-    "article": "",
-    "plural": "",
-    "wordType": "prefix",
-    "english": "eco-/ecological",
-    "bangla": "ইকো-/পরিবেশগত",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Öko-Produkte werden immer beliebter.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "O-0020",
-    "word": "Öl",
-    "article": "das",
-    "plural": "-e",
-    "wordType": "noun",
-    "english": "oil",
-    "bangla": "তেল",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Wir brauchen Olivenöl für den Salat.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "O-0021",
+    "id": "O-0015",
     "word": "Oma",
     "article": "die",
     "plural": "-s",
@@ -330,7 +240,7 @@
     "tags": ""
   },
   {
-    "id": "O-0022",
+    "id": "O-0016",
     "word": "Onkel",
     "article": "der",
     "plural": "-",
@@ -345,7 +255,7 @@
     "tags": ""
   },
   {
-    "id": "O-0023",
+    "id": "O-0017",
     "word": "Opa",
     "article": "der",
     "plural": "-s",
@@ -360,7 +270,7 @@
     "tags": ""
   },
   {
-    "id": "O-0024",
+    "id": "O-0018",
     "word": "Oper",
     "article": "die",
     "plural": "-n",
@@ -375,22 +285,7 @@
     "tags": ""
   },
   {
-    "id": "O-0025",
-    "word": "operieren",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to operate",
-    "bangla": "অস্ত্রোপচার করা",
-    "partizipII": "operiert",
-    "auxiliary": "hat",
-    "exampleSentence": "Der Arzt muss den Patienten operieren.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "O-0026",
+    "id": "O-0019",
     "word": "Operation",
     "article": "die",
     "plural": "-en",
@@ -405,7 +300,22 @@
     "tags": ""
   },
   {
-    "id": "O-0027",
+    "id": "O-0020",
+    "word": "operieren",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to operate",
+    "bangla": "অস্ত্রোপচার করা",
+    "partizipII": "operiert",
+    "auxiliary": "hat",
+    "exampleSentence": "Der Arzt muss den Patienten operieren.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "O-0021",
     "word": "Opfer",
     "article": "das",
     "plural": "-",
@@ -420,7 +330,7 @@
     "tags": ""
   },
   {
-    "id": "O-0028",
+    "id": "O-0022",
     "word": "optimistisch",
     "article": "",
     "plural": "",
@@ -435,7 +345,7 @@
     "tags": ""
   },
   {
-    "id": "O-0029",
+    "id": "O-0023",
     "word": "Orange",
     "article": "die",
     "plural": "-n",
@@ -450,7 +360,7 @@
     "tags": ""
   },
   {
-    "id": "O-0030",
+    "id": "O-0024",
     "word": "Orchester",
     "article": "das",
     "plural": "-",
@@ -465,7 +375,7 @@
     "tags": ""
   },
   {
-    "id": "O-0031",
+    "id": "O-0025",
     "word": "ordentlich",
     "article": "",
     "plural": "",
@@ -480,7 +390,7 @@
     "tags": ""
   },
   {
-    "id": "O-0032",
+    "id": "O-0026",
     "word": "Ordination",
     "article": "die",
     "plural": "-en",
@@ -495,7 +405,7 @@
     "tags": ""
   },
   {
-    "id": "O-0033",
+    "id": "O-0027",
     "word": "ordnen",
     "article": "",
     "plural": "",
@@ -510,7 +420,7 @@
     "tags": ""
   },
   {
-    "id": "O-0034",
+    "id": "O-0028",
     "word": "Ordner",
     "article": "der",
     "plural": "-",
@@ -525,7 +435,7 @@
     "tags": ""
   },
   {
-    "id": "O-0035",
+    "id": "O-0029",
     "word": "Ordnung",
     "article": "die",
     "plural": "-",
@@ -540,22 +450,7 @@
     "tags": ""
   },
   {
-    "id": "O-0036",
-    "word": "organisieren",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to organize",
-    "bangla": "আয়োজন করা/সংগঠিত করা",
-    "partizipII": "organisiert",
-    "auxiliary": "hat",
-    "exampleSentence": "Wir organisieren eine Überraschungsparty.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "O-0037",
+    "id": "O-0030",
     "word": "Organisation",
     "article": "die",
     "plural": "-en",
@@ -570,25 +465,25 @@
     "tags": ""
   },
   {
-    "id": "O-0038",
-    "word": "Original",
-    "article": "das",
-    "plural": "-e",
-    "wordType": "noun",
-    "english": "original",
-    "bangla": "মূল/মৌলিক",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Das Original hängt im Museum.",
+    "id": "O-0031",
+    "word": "organisieren",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to organize",
+    "bangla": "আয়োজন করা/সংগঠিত করা",
+    "partizipII": "organisiert",
+    "auxiliary": "hat",
+    "exampleSentence": "Wir organisieren eine Überraschungsparty.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "O-0039",
+    "id": "O-0032",
     "word": "original",
-    "article": "",
-    "plural": "",
+    "article": "das",
+    "plural": "-e",
     "wordType": "adj",
     "english": "original",
     "bangla": "মূল/আসল",
@@ -600,7 +495,7 @@
     "tags": ""
   },
   {
-    "id": "O-0040",
+    "id": "O-0033",
     "word": "Ort",
     "article": "der",
     "plural": "-e",
@@ -615,37 +510,7 @@
     "tags": ""
   },
   {
-    "id": "O-0041",
-    "word": "Vorort",
-    "article": "der",
-    "plural": "-e",
-    "wordType": "noun",
-    "english": "suburb",
-    "bangla": "উপনগরী/উপশহর",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Sie wohnt in einem Vorort von Wien.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "O-0042",
-    "word": "Wohnort",
-    "article": "der",
-    "plural": "-e",
-    "wordType": "noun",
-    "english": "place of residence",
-    "bangla": "বাসস্থান",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Mein Wohnort ist Hamburg.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "O-0043",
+    "id": "O-0034",
     "word": "Ozean",
     "article": "der",
     "plural": "-e",
@@ -655,6 +520,66 @@
     "partizipII": "",
     "auxiliary": "",
     "exampleSentence": "Der Pazifik ist der grösste Ozean.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "O-0035",
+    "word": "öffentlich",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "public",
+    "bangla": "সরকারি/পাবলিক",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Das ist ein öffentliches Gebäude.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "O-0036",
+    "word": "Öffentlichkeit",
+    "article": "die",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "public/publicity",
+    "bangla": "জনসাধারণ",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Die Öffentlichkeit wurde informiert.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "O-0037",
+    "word": "öffnen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to open",
+    "bangla": "খোলা",
+    "partizipII": "geöffnet",
+    "auxiliary": "hat",
+    "exampleSentence": "Kannst du bitte die Tür öffnen?",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "O-0038",
+    "word": "Öko-",
+    "article": "",
+    "plural": "",
+    "wordType": "prefix",
+    "english": "eco-/ecological",
+    "bangla": "ইকো-/পরিবেশগত",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Öko-Produkte werden immer beliebter.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""

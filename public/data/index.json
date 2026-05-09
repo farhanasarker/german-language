@@ -4,119 +4,119 @@
       "id": "all",
       "name": "All Words",
       "description": "",
-      "cardCount": 3273,
+      "cardCount": 3519,
       "category": "all"
     },
     {
       "id": "letter-a",
       "name": "Letter: A",
       "description": "",
-      "cardCount": 237,
+      "cardCount": 234,
       "category": "letter"
     },
     {
       "id": "letter-b",
       "name": "Letter: B",
       "description": "",
-      "cardCount": 236,
+      "cardCount": 227,
       "category": "letter"
     },
     {
       "id": "letter-c",
       "name": "Letter: C",
       "description": "",
-      "cardCount": 12,
+      "cardCount": 14,
       "category": "letter"
     },
     {
       "id": "letter-d",
       "name": "Letter: D",
       "description": "",
-      "cardCount": 98,
+      "cardCount": 126,
       "category": "letter"
     },
     {
       "id": "letter-e",
       "name": "Letter: E",
       "description": "",
-      "cardCount": 193,
+      "cardCount": 183,
       "category": "letter"
     },
     {
       "id": "letter-f",
       "name": "Letter: F",
       "description": "",
-      "cardCount": 112,
+      "cardCount": 151,
       "category": "letter"
     },
     {
       "id": "letter-g",
       "name": "Letter: G",
       "description": "",
-      "cardCount": 152,
+      "cardCount": 145,
       "category": "letter"
     },
     {
       "id": "letter-h",
       "name": "Letter: H",
       "description": "",
-      "cardCount": 123,
+      "cardCount": 124,
       "category": "letter"
     },
     {
       "id": "letter-i",
       "name": "Letter: I",
       "description": "",
-      "cardCount": 43,
+      "cardCount": 46,
       "category": "letter"
     },
     {
       "id": "letter-j",
       "name": "Letter: J",
       "description": "",
-      "cardCount": 21,
+      "cardCount": 19,
       "category": "letter"
     },
     {
       "id": "letter-k",
       "name": "Letter: K",
       "description": "",
-      "cardCount": 182,
+      "cardCount": 174,
       "category": "letter"
     },
     {
       "id": "letter-l",
       "name": "Letter: L",
       "description": "",
-      "cardCount": 97,
+      "cardCount": 94,
       "category": "letter"
     },
     {
       "id": "letter-m",
       "name": "Letter: M",
       "description": "",
-      "cardCount": 130,
+      "cardCount": 132,
       "category": "letter"
     },
     {
       "id": "letter-n",
       "name": "Letter: N",
       "description": "",
-      "cardCount": 82,
+      "cardCount": 80,
       "category": "letter"
     },
     {
       "id": "letter-o",
       "name": "Letter: O",
       "description": "",
-      "cardCount": 44,
+      "cardCount": 39,
       "category": "letter"
     },
     {
       "id": "letter-p",
       "name": "Letter: P",
       "description": "",
-      "cardCount": 103,
+      "cardCount": 120,
       "category": "letter"
     },
     {
@@ -130,35 +130,35 @@
       "id": "letter-r",
       "name": "Letter: R",
       "description": "",
-      "cardCount": 114,
+      "cardCount": 113,
       "category": "letter"
     },
     {
       "id": "letter-s",
       "name": "Letter: S",
       "description": "",
-      "cardCount": 347,
+      "cardCount": 413,
       "category": "letter"
     },
     {
       "id": "letter-t",
       "name": "Letter: T",
       "description": "",
-      "cardCount": 102,
+      "cardCount": 121,
       "category": "letter"
     },
     {
       "id": "letter-u",
       "name": "Letter: U",
       "description": "",
-      "cardCount": 97,
+      "cardCount": 136,
       "category": "letter"
     },
     {
       "id": "letter-v",
       "name": "Letter: V",
       "description": "",
-      "cardCount": 160,
+      "cardCount": 183,
       "category": "letter"
     },
     {
@@ -172,7 +172,28 @@
       "id": "letter-z",
       "name": "Letter: Z",
       "description": "",
-      "cardCount": 97,
+      "cardCount": 108,
+      "category": "letter"
+    },
+    {
+      "id": "letter-ä",
+      "name": "Letter: Ä",
+      "description": "",
+      "cardCount": 9,
+      "category": "letter"
+    },
+    {
+      "id": "letter-ö",
+      "name": "Letter: Ö",
+      "description": "",
+      "cardCount": 5,
+      "category": "letter"
+    },
+    {
+      "id": "letter-ü",
+      "name": "Letter: Ü",
+      "description": "",
+      "cardCount": 32,
       "category": "letter"
     },
     {
@@ -235,7 +256,7 @@
       "id": "type-adj",
       "name": "Type: Adj",
       "description": "",
-      "cardCount": 442,
+      "cardCount": 463,
       "category": "type"
     },
     {
@@ -249,7 +270,7 @@
       "id": "type-noun",
       "name": "Type: Noun",
       "description": "",
-      "cardCount": 1816,
+      "cardCount": 1919,
       "category": "type"
     },
     {
@@ -263,14 +284,14 @@
       "id": "type-preposition",
       "name": "Type: Preposition",
       "description": "",
-      "cardCount": 34,
+      "cardCount": 31,
       "category": "type"
     },
     {
       "id": "type-verb",
       "name": "Type: Verb",
       "description": "",
-      "cardCount": 659,
+      "cardCount": 744,
       "category": "type"
     },
     {

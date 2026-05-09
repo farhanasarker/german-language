@@ -1,21 +1,6 @@
 [
   {
     "id": "G-0000",
-    "word": "Gedanke",
-    "article": "der",
-    "plural": "-n",
-    "wordType": "noun",
-    "english": "thought / idea",
-    "bangla": "চিন্তা / ধারণা",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ich muss zuerst meine Gedanken sammeln.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0001",
     "word": "Gabel",
     "article": "die",
     "plural": "-n",
@@ -30,7 +15,7 @@
     "tags": ""
   },
   {
-    "id": "G-0002",
+    "id": "G-0001",
     "word": "Galerie",
     "article": "die",
     "plural": "-n",
@@ -45,7 +30,7 @@
     "tags": ""
   },
   {
-    "id": "G-0003",
+    "id": "G-0002",
     "word": "Gang",
     "article": "der",
     "plural": "¨-e",
@@ -60,7 +45,7 @@
     "tags": ""
   },
   {
-    "id": "G-0004",
+    "id": "G-0003",
     "word": "ganz",
     "article": "",
     "plural": "",
@@ -75,7 +60,7 @@
     "tags": ""
   },
   {
-    "id": "G-0005",
+    "id": "G-0004",
     "word": "gar",
     "article": "",
     "plural": "",
@@ -90,7 +75,7 @@
     "tags": ""
   },
   {
-    "id": "G-0006",
+    "id": "G-0005",
     "word": "Garage",
     "article": "die",
     "plural": "-n",
@@ -100,6 +85,21 @@
     "partizipII": "",
     "auxiliary": "",
     "exampleSentence": "Hier ist eine Garage zu vermieten.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0006",
+    "word": "Garantie",
+    "article": "die",
+    "plural": "-n",
+    "wordType": "noun",
+    "english": "guarantee / warranty",
+    "bangla": "গ্যারান্টি / জামিন",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Auf die Waschmaschine haben Sie ein Jahr Garantie.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
@@ -121,21 +121,6 @@
   },
   {
     "id": "G-0008",
-    "word": "Garantie",
-    "article": "die",
-    "plural": "-n",
-    "wordType": "noun",
-    "english": "guarantee / warranty",
-    "bangla": "গ্যারান্টি / জামিন",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Auf die Waschmaschine haben Sie ein Jahr Garantie.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0009",
     "word": "Garderobe",
     "article": "die",
     "plural": "-n",
@@ -150,7 +135,7 @@
     "tags": ""
   },
   {
-    "id": "G-0010",
+    "id": "G-0009",
     "word": "Garten",
     "article": "der",
     "plural": "¨-",
@@ -165,7 +150,7 @@
     "tags": ""
   },
   {
-    "id": "G-0011",
+    "id": "G-0010",
     "word": "Gas",
     "article": "das",
     "plural": "",
@@ -180,7 +165,7 @@
     "tags": ""
   },
   {
-    "id": "G-0012",
+    "id": "G-0011",
     "word": "Gast",
     "article": "der",
     "plural": "¨-e",
@@ -195,7 +180,7 @@
     "tags": ""
   },
   {
-    "id": "G-0013",
+    "id": "G-0012",
     "word": "Gasthaus",
     "article": "das",
     "plural": "¨-er",
@@ -210,7 +195,7 @@
     "tags": ""
   },
   {
-    "id": "G-0014",
+    "id": "G-0013",
     "word": "Gaststätte",
     "article": "die",
     "plural": "-n",
@@ -225,22 +210,7 @@
     "tags": ""
   },
   {
-    "id": "G-0015",
-    "word": "Gebäude",
-    "article": "das",
-    "plural": "-",
-    "wordType": "noun",
-    "english": "building",
-    "bangla": "ভবন / ইমারত",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "In diesem Gebäude sind nur Büros.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0016",
+    "id": "G-0014",
     "word": "geben",
     "article": "",
     "plural": "",
@@ -255,22 +225,7 @@
     "tags": ""
   },
   {
-    "id": "G-0017",
-    "word": "Gebäck",
-    "article": "das",
-    "plural": "",
-    "wordType": "noun",
-    "english": "pastries / baked goods",
-    "bangla": "বিস্কুট / পেস্ট্রি",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Das Gebäck ist ganz frisch.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0018",
+    "id": "G-0015",
     "word": "Gebiet",
     "article": "das",
     "plural": "-e",
@@ -285,7 +240,7 @@
     "tags": ""
   },
   {
-    "id": "G-0019",
+    "id": "G-0016",
     "word": "Gebirge",
     "article": "das",
     "plural": "-",
@@ -300,7 +255,7 @@
     "tags": ""
   },
   {
-    "id": "G-0020",
+    "id": "G-0017",
     "word": "geboren werden",
     "article": "",
     "plural": "",
@@ -315,7 +270,7 @@
     "tags": ""
   },
   {
-    "id": "G-0021",
+    "id": "G-0018",
     "word": "gebrauchen",
     "article": "",
     "plural": "",
@@ -330,7 +285,7 @@
     "tags": ""
   },
   {
-    "id": "G-0022",
+    "id": "G-0019",
     "word": "Gebrauchsanweisung",
     "article": "die",
     "plural": "-en",
@@ -345,22 +300,7 @@
     "tags": ""
   },
   {
-    "id": "G-0023",
-    "word": "Gebühr",
-    "article": "die",
-    "plural": "-en",
-    "wordType": "noun",
-    "english": "fee / charge",
-    "bangla": "ফি / মূল্য",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Die Gebühr liegt bei 60 Euro.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0024",
+    "id": "G-0020",
     "word": "Geburt",
     "article": "die",
     "plural": "-en",
@@ -375,7 +315,7 @@
     "tags": ""
   },
   {
-    "id": "G-0025",
+    "id": "G-0021",
     "word": "Geburtstag",
     "article": "der",
     "plural": "-e",
@@ -385,6 +325,66 @@
     "partizipII": "",
     "auxiliary": "",
     "exampleSentence": "Herzlichen Glückwunsch zum Geburtstag!",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0022",
+    "word": "Gebäck",
+    "article": "das",
+    "plural": "",
+    "wordType": "noun",
+    "english": "pastries / baked goods",
+    "bangla": "বিস্কুট / পেস্ট্রি",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Das Gebäck ist ganz frisch.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0023",
+    "word": "Gebäude",
+    "article": "das",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "building",
+    "bangla": "ভবন / ইমারত",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "In diesem Gebäude sind nur Büros.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0024",
+    "word": "Gebühr",
+    "article": "die",
+    "plural": "-en",
+    "wordType": "noun",
+    "english": "fee / charge",
+    "bangla": "ফি / মূল্য",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Die Gebühr liegt bei 60 Euro.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0025",
+    "word": "Gedanke",
+    "article": "der",
+    "plural": "-n",
+    "wordType": "noun",
+    "english": "thought / idea",
+    "bangla": "চিন্তা / ধারণা",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Ich muss zuerst meine Gedanken sammeln.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
@@ -421,36 +421,6 @@
   },
   {
     "id": "G-0028",
-    "word": "geehrt",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "honored / esteemed",
-    "bangla": "সম্মানিত",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Sehr geehrte Damen und Herren, ...",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0029",
-    "word": "geeignet",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "suitable / appropriate",
-    "bangla": "উপযুক্ত / যোগ্য",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Dieses Spiel ist nicht für Kinder unter drei Jahren geeignet.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0030",
     "word": "Gefahr",
     "article": "die",
     "plural": "-en",
@@ -465,22 +435,7 @@
     "tags": ""
   },
   {
-    "id": "G-0031",
-    "word": "gefährlich",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "dangerous",
-    "bangla": "বিপজ্জনক",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Achtung, hier ist eine gefährliche Kurve!",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0032",
+    "id": "G-0029",
     "word": "gefallen",
     "article": "",
     "plural": "",
@@ -495,22 +450,22 @@
     "tags": ""
   },
   {
-    "id": "G-0033",
-    "word": "sich etwas gefallen lassen",
+    "id": "G-0030",
+    "word": "gefährlich",
     "article": "",
     "plural": "",
-    "wordType": "verb",
-    "english": "to put up with / tolerate",
-    "bangla": "সহ্য করা / মেনে নেওয়া",
-    "partizipII": "sich gefallen lassen",
-    "auxiliary": "hat",
-    "exampleSentence": "Das würde ich mir nicht gefallen lassen.",
+    "wordType": "adj",
+    "english": "dangerous",
+    "bangla": "বিপজ্জনক",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Achtung, hier ist eine gefährliche Kurve!",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "G-0034",
+    "id": "G-0031",
     "word": "Gefängnis",
     "article": "das",
     "plural": "-se",
@@ -525,7 +480,7 @@
     "tags": ""
   },
   {
-    "id": "G-0035",
+    "id": "G-0032",
     "word": "Gefühl",
     "article": "das",
     "plural": "-e",
@@ -540,37 +495,7 @@
     "tags": ""
   },
   {
-    "id": "G-0036",
-    "word": "gegen",
-    "article": "",
-    "plural": "",
-    "wordType": "preposition",
-    "english": "against / towards / around",
-    "bangla": "বিরুদ্ধে / দিকে / প্রায়",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ich bin gegen einen Baum gefahren.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0037",
-    "word": "Gegner",
-    "article": "der",
-    "plural": "-",
-    "wordType": "noun",
-    "english": "opponent / adversary (male)",
-    "bangla": "প্রতিপক্ষ (পুরুষ)",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Die Mannschaft aus Frankreich war ein sehr starker Gegner.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0038",
+    "id": "G-0033",
     "word": "Gegend",
     "article": "die",
     "plural": "-en",
@@ -585,7 +510,7 @@
     "tags": ""
   },
   {
-    "id": "G-0039",
+    "id": "G-0034",
     "word": "Gegensatz",
     "article": "der",
     "plural": "¨-e",
@@ -600,7 +525,7 @@
     "tags": ""
   },
   {
-    "id": "G-0040",
+    "id": "G-0035",
     "word": "Gegenstand",
     "article": "der",
     "plural": "¨-e",
@@ -615,7 +540,7 @@
     "tags": ""
   },
   {
-    "id": "G-0041",
+    "id": "G-0036",
     "word": "Gegenteil",
     "article": "das",
     "plural": "-e",
@@ -630,7 +555,7 @@
     "tags": ""
   },
   {
-    "id": "G-0042",
+    "id": "G-0037",
     "word": "gegenüber",
     "article": "",
     "plural": "",
@@ -645,7 +570,22 @@
     "tags": ""
   },
   {
-    "id": "G-0043",
+    "id": "G-0038",
+    "word": "Gegner",
+    "article": "der",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "opponent / adversary (male)",
+    "bangla": "প্রতিপক্ষ (পুরুষ)",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Die Mannschaft aus Frankreich war ein sehr starker Gegner.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0039",
     "word": "Gehalt",
     "article": "das",
     "plural": "¨-er",
@@ -660,22 +600,7 @@
     "tags": ""
   },
   {
-    "id": "G-0044",
-    "word": "Geheimnis",
-    "article": "das",
-    "plural": "-se",
-    "wordType": "noun",
-    "english": "secret",
-    "bangla": "গোপনীয়তা / রহস্য",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Das kann ich dir nicht sagen. Das ist ein Geheimnis.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0045",
+    "id": "G-0040",
     "word": "geheim",
     "article": "",
     "plural": "",
@@ -690,7 +615,22 @@
     "tags": ""
   },
   {
-    "id": "G-0046",
+    "id": "G-0041",
+    "word": "Geheimnis",
+    "article": "das",
+    "plural": "-se",
+    "wordType": "noun",
+    "english": "secret",
+    "bangla": "গোপনীয়তা / রহস্য",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Das kann ich dir nicht sagen. Das ist ein Geheimnis.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0042",
     "word": "gehen",
     "article": "",
     "plural": "",
@@ -705,22 +645,7 @@
     "tags": ""
   },
   {
-    "id": "G-0047",
-    "word": "gehören",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to belong to",
-    "bangla": "অধিকারী হওয়া / মালিকানাধীন",
-    "partizipII": "gehört",
-    "auxiliary": "hat",
-    "exampleSentence": "Gehört Ihnen das Haus?",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0048",
+    "id": "G-0043",
     "word": "Gehsteig",
     "article": "der",
     "plural": "-e",
@@ -735,7 +660,22 @@
     "tags": ""
   },
   {
-    "id": "G-0049",
+    "id": "G-0044",
+    "word": "gehören",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to belong to",
+    "bangla": "অধিকারী হওয়া / মালিকানাধীন",
+    "partizipII": "gehört",
+    "auxiliary": "hat",
+    "exampleSentence": "Gehört Ihnen das Haus?",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0045",
     "word": "Geld",
     "article": "das",
     "plural": "",
@@ -750,7 +690,7 @@
     "tags": ""
   },
   {
-    "id": "G-0050",
+    "id": "G-0046",
     "word": "Geldautomat",
     "article": "der",
     "plural": "-en",
@@ -765,7 +705,7 @@
     "tags": ""
   },
   {
-    "id": "G-0051",
+    "id": "G-0047",
     "word": "Geldbörse",
     "article": "die",
     "plural": "-n",
@@ -780,7 +720,7 @@
     "tags": ""
   },
   {
-    "id": "G-0052",
+    "id": "G-0048",
     "word": "Gelegenheit",
     "article": "die",
     "plural": "-en",
@@ -795,7 +735,7 @@
     "tags": ""
   },
   {
-    "id": "G-0053",
+    "id": "G-0049",
     "word": "gelingen",
     "article": "",
     "plural": "",
@@ -810,7 +750,7 @@
     "tags": ""
   },
   {
-    "id": "G-0054",
+    "id": "G-0050",
     "word": "gelten",
     "article": "",
     "plural": "",
@@ -825,7 +765,7 @@
     "tags": ""
   },
   {
-    "id": "G-0055",
+    "id": "G-0051",
     "word": "gemeinsam",
     "article": "",
     "plural": "",
@@ -840,7 +780,7 @@
     "tags": ""
   },
   {
-    "id": "G-0056",
+    "id": "G-0052",
     "word": "Gemeinschaft",
     "article": "die",
     "plural": "-en",
@@ -855,7 +795,7 @@
     "tags": ""
   },
   {
-    "id": "G-0057",
+    "id": "G-0053",
     "word": "Gemüse",
     "article": "das",
     "plural": "",
@@ -870,7 +810,7 @@
     "tags": ""
   },
   {
-    "id": "G-0058",
+    "id": "G-0054",
     "word": "gemütlich",
     "article": "",
     "plural": "",
@@ -885,7 +825,7 @@
     "tags": ""
   },
   {
-    "id": "G-0059",
+    "id": "G-0055",
     "word": "genau",
     "article": "",
     "plural": "",
@@ -900,7 +840,7 @@
     "tags": ""
   },
   {
-    "id": "G-0060",
+    "id": "G-0056",
     "word": "genauso",
     "article": "",
     "plural": "",
@@ -915,22 +855,7 @@
     "tags": ""
   },
   {
-    "id": "G-0061",
-    "word": "genehmigen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to approve / authorize",
-    "bangla": "অনুমোদন করা / মঞ্জুর করা",
-    "partizipII": "genehmigt",
-    "auxiliary": "hat",
-    "exampleSentence": "Mein Chef hat mir sechs Wochen Urlaub genehmigt.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0062",
+    "id": "G-0057",
     "word": "Generation",
     "article": "die",
     "plural": "-en",
@@ -945,7 +870,7 @@
     "tags": ""
   },
   {
-    "id": "G-0063",
+    "id": "G-0058",
     "word": "genießen",
     "article": "",
     "plural": "",
@@ -960,7 +885,7 @@
     "tags": ""
   },
   {
-    "id": "G-0064",
+    "id": "G-0059",
     "word": "genug",
     "article": "",
     "plural": "",
@@ -975,7 +900,7 @@
     "tags": ""
   },
   {
-    "id": "G-0065",
+    "id": "G-0060",
     "word": "genügen",
     "article": "",
     "plural": "",
@@ -990,7 +915,7 @@
     "tags": ""
   },
   {
-    "id": "G-0066",
+    "id": "G-0061",
     "word": "Gepäck",
     "article": "das",
     "plural": "",
@@ -1005,7 +930,7 @@
     "tags": ""
   },
   {
-    "id": "G-0067",
+    "id": "G-0062",
     "word": "gerade",
     "article": "",
     "plural": "",
@@ -1020,7 +945,7 @@
     "tags": ""
   },
   {
-    "id": "G-0068",
+    "id": "G-0063",
     "word": "geradeaus",
     "article": "",
     "plural": "",
@@ -1035,37 +960,7 @@
     "tags": ""
   },
   {
-    "id": "G-0069",
-    "word": "Gerät",
-    "article": "das",
-    "plural": "-e",
-    "wordType": "noun",
-    "english": "device / appliance / equipment",
-    "bangla": "যন্ত্র / ডিভাইস",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ich kaufe meine Elektrogeräte immer gebraucht. Das ist viel billiger.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0070",
-    "word": "gerecht",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "fair / just",
-    "bangla": "ন্যায্য / ন্যায়সংগত",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Lass uns den Kuchen gerecht verteilen.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0071",
+    "id": "G-0064",
     "word": "Gericht",
     "article": "das",
     "plural": "-e",
@@ -1080,7 +975,7 @@
     "tags": ""
   },
   {
-    "id": "G-0072",
+    "id": "G-0065",
     "word": "gering",
     "article": "",
     "plural": "",
@@ -1095,7 +990,7 @@
     "tags": ""
   },
   {
-    "id": "G-0073",
+    "id": "G-0066",
     "word": "gern/gerne",
     "article": "",
     "plural": "",
@@ -1110,7 +1005,22 @@
     "tags": ""
   },
   {
-    "id": "G-0074",
+    "id": "G-0067",
+    "word": "Gerät",
+    "article": "das",
+    "plural": "-e",
+    "wordType": "noun",
+    "english": "device / appliance / equipment",
+    "bangla": "যন্ত্র / ডিভাইস",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Ich kaufe meine Elektrogeräte immer gebraucht. Das ist viel billiger.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0068",
     "word": "gesamt-/Gesamt-",
     "article": "",
     "plural": "",
@@ -1125,22 +1035,7 @@
     "tags": ""
   },
   {
-    "id": "G-0075",
-    "word": "Geschäft",
-    "article": "das",
-    "plural": "-e",
-    "wordType": "noun",
-    "english": "shop / store / business",
-    "bangla": "দোকান / ব্যবসা",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Die Geschäfte schließen um 18.30 Uhr.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0076",
+    "id": "G-0069",
     "word": "geschehen",
     "article": "",
     "plural": "",
@@ -1155,7 +1050,7 @@
     "tags": ""
   },
   {
-    "id": "G-0077",
+    "id": "G-0070",
     "word": "Geschenk",
     "article": "das",
     "plural": "-e",
@@ -1170,7 +1065,7 @@
     "tags": ""
   },
   {
-    "id": "G-0078",
+    "id": "G-0071",
     "word": "Geschichte",
     "article": "die",
     "plural": "-n",
@@ -1185,22 +1080,7 @@
     "tags": ""
   },
   {
-    "id": "G-0079",
-    "word": "geschieden",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "divorced",
-    "bangla": "তালাকপ্রাপ্ত / ডিভোর্সড",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ich bin seit drei Jahren geschieden.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0080",
+    "id": "G-0072",
     "word": "Geschirr",
     "article": "das",
     "plural": "",
@@ -1215,7 +1095,7 @@
     "tags": ""
   },
   {
-    "id": "G-0081",
+    "id": "G-0073",
     "word": "Geschlecht",
     "article": "das",
     "plural": "-er",
@@ -1230,7 +1110,7 @@
     "tags": ""
   },
   {
-    "id": "G-0082",
+    "id": "G-0074",
     "word": "Geschmack",
     "article": "der",
     "plural": "",
@@ -1245,7 +1125,7 @@
     "tags": ""
   },
   {
-    "id": "G-0083",
+    "id": "G-0075",
     "word": "Geschwindigkeit",
     "article": "die",
     "plural": "-en",
@@ -1260,7 +1140,22 @@
     "tags": ""
   },
   {
-    "id": "G-0084",
+    "id": "G-0076",
+    "word": "Geschwindigkeits-",
+    "article": "die",
+    "plural": "",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Geschwindigkeitsbeschränkungen.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0077",
     "word": "Geschwindigkeitsbeschränkung",
     "article": "die",
     "plural": "-en",
@@ -1275,7 +1170,7 @@
     "tags": ""
   },
   {
-    "id": "G-0085",
+    "id": "G-0078",
     "word": "Geschwister",
     "article": "",
     "plural": "",
@@ -1290,7 +1185,22 @@
     "tags": ""
   },
   {
-    "id": "G-0086",
+    "id": "G-0079",
+    "word": "Geschäft",
+    "article": "das",
+    "plural": "-e",
+    "wordType": "noun",
+    "english": "shop / store / business",
+    "bangla": "দোকান / ব্যবসা",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Die Geschäfte schließen um 18.30 Uhr.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0080",
     "word": "Gesellschaft",
     "article": "die",
     "plural": "-en",
@@ -1305,7 +1215,7 @@
     "tags": ""
   },
   {
-    "id": "G-0087",
+    "id": "G-0081",
     "word": "Gesetz",
     "article": "das",
     "plural": "-e",
@@ -1320,7 +1230,7 @@
     "tags": ""
   },
   {
-    "id": "G-0088",
+    "id": "G-0082",
     "word": "Gesicht",
     "article": "das",
     "plural": "-er",
@@ -1335,22 +1245,7 @@
     "tags": ""
   },
   {
-    "id": "G-0089",
-    "word": "gespannt",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "curious / eager / tense",
-    "bangla": "উৎসুক / কৌতূহলী",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ich bin gespannt, wer bei diesem Spiel gewinnt.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0090",
+    "id": "G-0083",
     "word": "Gespräch",
     "article": "das",
     "plural": "-e",
@@ -1365,7 +1260,7 @@
     "tags": ""
   },
   {
-    "id": "G-0091",
+    "id": "G-0084",
     "word": "gestern",
     "article": "",
     "plural": "",
@@ -1380,7 +1275,7 @@
     "tags": ""
   },
   {
-    "id": "G-0092",
+    "id": "G-0085",
     "word": "gesund",
     "article": "",
     "plural": "",
@@ -1395,7 +1290,7 @@
     "tags": ""
   },
   {
-    "id": "G-0093",
+    "id": "G-0086",
     "word": "Gesundheit",
     "article": "die",
     "plural": "",
@@ -1410,7 +1305,7 @@
     "tags": ""
   },
   {
-    "id": "G-0094",
+    "id": "G-0087",
     "word": "Getränk",
     "article": "das",
     "plural": "-e",
@@ -1425,7 +1320,7 @@
     "tags": ""
   },
   {
-    "id": "G-0095",
+    "id": "G-0088",
     "word": "Gewalt",
     "article": "die",
     "plural": "-en",
@@ -1440,7 +1335,7 @@
     "tags": ""
   },
   {
-    "id": "G-0096",
+    "id": "G-0089",
     "word": "Gewerkschaft",
     "article": "die",
     "plural": "-en",
@@ -1455,7 +1350,7 @@
     "tags": ""
   },
   {
-    "id": "G-0097",
+    "id": "G-0090",
     "word": "Gewicht",
     "article": "das",
     "plural": "-e",
@@ -1470,22 +1365,7 @@
     "tags": ""
   },
   {
-    "id": "G-0098",
-    "word": "gewinnen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to win",
-    "bangla": "জেতা / জয় করা",
-    "partizipII": "gewonnen",
-    "auxiliary": "hat",
-    "exampleSentence": "Ich möchte so gern einmal im Lotto gewinnen.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0099",
+    "id": "G-0091",
     "word": "Gewinn",
     "article": "der",
     "plural": "-e",
@@ -1500,7 +1380,22 @@
     "tags": ""
   },
   {
-    "id": "G-0100",
+    "id": "G-0092",
+    "word": "gewinnen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to win",
+    "bangla": "জেতা / জয় করা",
+    "partizipII": "gewonnen",
+    "auxiliary": "hat",
+    "exampleSentence": "Ich möchte so gern einmal im Lotto gewinnen.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0093",
     "word": "Gewissen",
     "article": "das",
     "plural": "",
@@ -1515,7 +1410,7 @@
     "tags": ""
   },
   {
-    "id": "G-0101",
+    "id": "G-0094",
     "word": "Gewitter",
     "article": "das",
     "plural": "-",
@@ -1530,22 +1425,7 @@
     "tags": ""
   },
   {
-    "id": "G-0102",
-    "word": "gewöhnen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to get used to / accustom",
-    "bangla": "অভ্যস্ত হওয়া / অভ্যস্ত করা",
-    "partizipII": "gewöhnt",
-    "auxiliary": "hat",
-    "exampleSentence": "Wir haben uns an das Leben hier gewöhnt.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0103",
+    "id": "G-0095",
     "word": "Gewohnheit",
     "article": "die",
     "plural": "-en",
@@ -1560,22 +1440,22 @@
     "tags": ""
   },
   {
-    "id": "G-0104",
-    "word": "gewohnt",
+    "id": "G-0096",
+    "word": "gewöhnen",
     "article": "",
     "plural": "",
-    "wordType": "adj",
-    "english": "used to / accustomed",
-    "bangla": "অভ্যস্ত",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ich bin gewohnt, früh ins Bett zu gehen.",
+    "wordType": "verb",
+    "english": "to get used to / accustom",
+    "bangla": "অভ্যস্ত হওয়া / অভ্যস্ত করা",
+    "partizipII": "gewöhnt",
+    "auxiliary": "hat",
+    "exampleSentence": "Wir haben uns an das Leben hier gewöhnt.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "G-0105",
+    "id": "G-0097",
     "word": "gewöhnlich",
     "article": "",
     "plural": "",
@@ -1590,7 +1470,7 @@
     "tags": ""
   },
   {
-    "id": "G-0106",
+    "id": "G-0098",
     "word": "Gewürz",
     "article": "das",
     "plural": "-e",
@@ -1605,7 +1485,7 @@
     "tags": ""
   },
   {
-    "id": "G-0107",
+    "id": "G-0099",
     "word": "gießen",
     "article": "",
     "plural": "",
@@ -1620,7 +1500,7 @@
     "tags": ""
   },
   {
-    "id": "G-0108",
+    "id": "G-0100",
     "word": "Gift",
     "article": "das",
     "plural": "-e",
@@ -1635,7 +1515,7 @@
     "tags": ""
   },
   {
-    "id": "G-0109",
+    "id": "G-0101",
     "word": "giftig",
     "article": "",
     "plural": "",
@@ -1650,7 +1530,22 @@
     "tags": ""
   },
   {
-    "id": "G-0110",
+    "id": "G-0102",
+    "word": "Girokonto",
+    "article": "das",
+    "plural": "-en",
+    "wordType": "noun",
+    "english": "current account / checking account",
+    "bangla": "চলতি হিসাব",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Mein Girokonto kostet gar nichts.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0103",
     "word": "Gitarre",
     "article": "die",
     "plural": "-n",
@@ -1665,7 +1560,7 @@
     "tags": ""
   },
   {
-    "id": "G-0111",
+    "id": "G-0104",
     "word": "Glace/Glacé",
     "article": "die/das",
     "plural": "-n",
@@ -1680,7 +1575,7 @@
     "tags": ""
   },
   {
-    "id": "G-0112",
+    "id": "G-0105",
     "word": "Glas",
     "article": "das",
     "plural": "¨-er",
@@ -1695,7 +1590,7 @@
     "tags": ""
   },
   {
-    "id": "G-0113",
+    "id": "G-0106",
     "word": "glatt",
     "article": "",
     "plural": "",
@@ -1710,7 +1605,7 @@
     "tags": ""
   },
   {
-    "id": "G-0114",
+    "id": "G-0107",
     "word": "glauben",
     "article": "",
     "plural": "",
@@ -1725,7 +1620,7 @@
     "tags": ""
   },
   {
-    "id": "G-0115",
+    "id": "G-0108",
     "word": "gleich",
     "article": "",
     "plural": "",
@@ -1740,22 +1635,7 @@
     "tags": ""
   },
   {
-    "id": "G-0116",
-    "word": "gleichfalls",
-    "article": "",
-    "plural": "",
-    "wordType": "adv",
-    "english": "likewise / same to you",
-    "bangla": "একইভাবে / আপনাকেও",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Schöne Feiertage! – Danke, gleichfalls.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0117",
+    "id": "G-0109",
     "word": "gleichberechtigt",
     "article": "",
     "plural": "",
@@ -1770,7 +1650,22 @@
     "tags": ""
   },
   {
-    "id": "G-0118",
+    "id": "G-0110",
+    "word": "gleichfalls",
+    "article": "",
+    "plural": "",
+    "wordType": "adv",
+    "english": "likewise / same to you",
+    "bangla": "একইভাবে / আপনাকেও",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Schöne Feiertage! – Danke, gleichfalls.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0111",
     "word": "gleichzeitig",
     "article": "",
     "plural": "",
@@ -1785,7 +1680,7 @@
     "tags": ""
   },
   {
-    "id": "G-0119",
+    "id": "G-0112",
     "word": "Gleis",
     "article": "das",
     "plural": "-e",
@@ -1800,7 +1695,7 @@
     "tags": ""
   },
   {
-    "id": "G-0120",
+    "id": "G-0113",
     "word": "Glück",
     "article": "das",
     "plural": "",
@@ -1815,7 +1710,7 @@
     "tags": ""
   },
   {
-    "id": "G-0121",
+    "id": "G-0114",
     "word": "glücklich",
     "article": "",
     "plural": "",
@@ -1830,7 +1725,7 @@
     "tags": ""
   },
   {
-    "id": "G-0122",
+    "id": "G-0115",
     "word": "Glückwunsch",
     "article": "der",
     "plural": "¨-e",
@@ -1845,7 +1740,7 @@
     "tags": ""
   },
   {
-    "id": "G-0123",
+    "id": "G-0116",
     "word": "Gold",
     "article": "das",
     "plural": "",
@@ -1860,7 +1755,7 @@
     "tags": ""
   },
   {
-    "id": "G-0124",
+    "id": "G-0117",
     "word": "Golf/Golfspiel",
     "article": "das",
     "plural": "",
@@ -1875,7 +1770,7 @@
     "tags": ""
   },
   {
-    "id": "G-0125",
+    "id": "G-0118",
     "word": "Gott",
     "article": "der",
     "plural": "¨-er",
@@ -1890,7 +1785,7 @@
     "tags": ""
   },
   {
-    "id": "G-0126",
+    "id": "G-0119",
     "word": "Grafik",
     "article": "die",
     "plural": "-en",
@@ -1905,7 +1800,7 @@
     "tags": ""
   },
   {
-    "id": "G-0127",
+    "id": "G-0120",
     "word": "Gras",
     "article": "das",
     "plural": "",
@@ -1920,37 +1815,7 @@
     "tags": ""
   },
   {
-    "id": "G-0128",
-    "word": "gratulieren",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to congratulate",
-    "bangla": "অভিনন্দন জানানো",
-    "partizipII": "gratuliert",
-    "auxiliary": "hat",
-    "exampleSentence": "Ich gratuliere euch zur Geburt eurer Tochter.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0129",
-    "word": "Gratulation",
-    "article": "die",
-    "plural": "-en",
-    "wordType": "noun",
-    "english": "congratulation",
-    "bangla": "অভিনন্দন",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Herzliche Gratulation! Sie haben gewonnen!",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0130",
+    "id": "G-0121",
     "word": "gratis",
     "article": "",
     "plural": "",
@@ -1965,7 +1830,37 @@
     "tags": ""
   },
   {
-    "id": "G-0131",
+    "id": "G-0122",
+    "word": "Gratulation",
+    "article": "die",
+    "plural": "-en",
+    "wordType": "noun",
+    "english": "congratulation",
+    "bangla": "অভিনন্দন",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Herzliche Gratulation! Sie haben gewonnen!",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0123",
+    "word": "gratulieren",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to congratulate",
+    "bangla": "অভিনন্দন জানানো",
+    "partizipII": "gratuliert",
+    "auxiliary": "hat",
+    "exampleSentence": "Ich gratuliere euch zur Geburt eurer Tochter.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0124",
     "word": "greifen",
     "article": "",
     "plural": "",
@@ -1980,7 +1875,7 @@
     "tags": ""
   },
   {
-    "id": "G-0132",
+    "id": "G-0125",
     "word": "Grenze",
     "article": "die",
     "plural": "-n",
@@ -1995,37 +1890,7 @@
     "tags": ""
   },
   {
-    "id": "G-0133",
-    "word": "grillen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to barbecue (Germany/Austria)",
-    "bangla": "গ্রিল করা / কাবাব করা (জার্মানি/অস্ট্রিয়া)",
-    "partizipII": "gegrillt",
-    "auxiliary": "hat",
-    "exampleSentence": "Heute wollen wir im Garten grillen.",
-    "synonyms": "D/A: grillen, CH: grillieren",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0134",
-    "word": "grillieren",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to barbecue (Switzerland)",
-    "bangla": "গ্রিল করা (সুইজারল্যান্ড)",
-    "partizipII": "grilliert",
-    "auxiliary": "hat",
-    "exampleSentence": "Heute wollen wir im Garten grillieren.",
-    "synonyms": "CH: grillieren, D/A: grillen",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0135",
+    "id": "G-0126",
     "word": "Grill",
     "article": "der",
     "plural": "-s",
@@ -2040,7 +1905,37 @@
     "tags": ""
   },
   {
-    "id": "G-0136",
+    "id": "G-0127",
+    "word": "grillen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to barbecue (Germany/Austria)",
+    "bangla": "গ্রিল করা / কাবাব করা (জার্মানি/অস্ট্রিয়া)",
+    "partizipII": "gegrillt",
+    "auxiliary": "hat",
+    "exampleSentence": "Heute wollen wir im Garten grillen.",
+    "synonyms": "D/A: grillen, CH: grillieren",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0128",
+    "word": "grillieren",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to barbecue (Switzerland)",
+    "bangla": "গ্রিল করা (সুইজারল্যান্ড)",
+    "partizipII": "grilliert",
+    "auxiliary": "hat",
+    "exampleSentence": "Heute wollen wir im Garten grillieren.",
+    "synonyms": "CH: grillieren, D/A: grillen",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0129",
     "word": "Grippe",
     "article": "die",
     "plural": "",
@@ -2055,7 +1950,7 @@
     "tags": ""
   },
   {
-    "id": "G-0137",
+    "id": "G-0130",
     "word": "groß",
     "article": "",
     "plural": "",
@@ -2070,7 +1965,7 @@
     "tags": ""
   },
   {
-    "id": "G-0138",
+    "id": "G-0131",
     "word": "Groß-",
     "article": "",
     "plural": "",
@@ -2085,37 +1980,7 @@
     "tags": ""
   },
   {
-    "id": "G-0139",
-    "word": "Größe",
-    "article": "die",
-    "plural": "-n",
-    "wordType": "noun",
-    "english": "size / height / greatness",
-    "bangla": "আকার / উচ্চতা / মাপ",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Welche Größe haben Sie?",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0140",
-    "word": "gründen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to found / establish",
-    "bangla": "প্রতিষ্ঠা করা / স্থাপন করা",
-    "partizipII": "gegründet",
-    "auxiliary": "hat",
-    "exampleSentence": "Frau Bauer hat eine eigene Firma gegründet.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0141",
+    "id": "G-0132",
     "word": "Grund",
     "article": "der",
     "plural": "¨-e",
@@ -2130,22 +1995,7 @@
     "tags": ""
   },
   {
-    "id": "G-0142",
-    "word": "gründlich",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "thorough / thoroughgoing",
-    "bangla": "পুঙ্খানুপুঙ্খ / ভালো করে",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ich möchte die Wohnung gründlich reinigen, bevor der Besuch kommt.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0143",
+    "id": "G-0133",
     "word": "Grundstück",
     "article": "das",
     "plural": "-e",
@@ -2160,7 +2010,7 @@
     "tags": ""
   },
   {
-    "id": "G-0144",
+    "id": "G-0134",
     "word": "Gruppe",
     "article": "die",
     "plural": "-n",
@@ -2175,22 +2025,7 @@
     "tags": ""
   },
   {
-    "id": "G-0145",
-    "word": "grüßen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to greet / say hello",
-    "bangla": "অভিবাদন জানানো / সালাম দেওয়া",
-    "partizipII": "gegrüßt",
-    "auxiliary": "hat",
-    "exampleSentence": "Wer war die Frau, die du eben gegrüßt hast?",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0146",
+    "id": "G-0135",
     "word": "Gruß",
     "article": "der",
     "plural": "¨-e",
@@ -2205,7 +2040,67 @@
     "tags": ""
   },
   {
-    "id": "G-0147",
+    "id": "G-0136",
+    "word": "Größe",
+    "article": "die",
+    "plural": "-n",
+    "wordType": "noun",
+    "english": "size / height / greatness",
+    "bangla": "আকার / উচ্চতা / মাপ",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Welche Größe haben Sie?",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0137",
+    "word": "gründen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to found / establish",
+    "bangla": "প্রতিষ্ঠা করা / স্থাপন করা",
+    "partizipII": "gegründet",
+    "auxiliary": "hat",
+    "exampleSentence": "Frau Bauer hat eine eigene Firma gegründet.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0138",
+    "word": "gründlich",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "thorough / thoroughgoing",
+    "bangla": "পুঙ্খানুপুঙ্খ / ভালো করে",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Ich möchte die Wohnung gründlich reinigen, bevor der Besuch kommt.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0139",
+    "word": "grüßen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to greet / say hello",
+    "bangla": "অভিবাদন জানানো / সালাম দেওয়া",
+    "partizipII": "gegrüßt",
+    "auxiliary": "hat",
+    "exampleSentence": "Wer war die Frau, die du eben gegrüßt hast?",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0140",
     "word": "gucken",
     "article": "",
     "plural": "",
@@ -2220,37 +2115,7 @@
     "tags": ""
   },
   {
-    "id": "G-0148",
-    "word": "gültig",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "valid",
-    "bangla": "বৈধ / গ্রহণযোগ্য",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Mein Pass ist nur noch zwei Monate gültig.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0149",
-    "word": "günstig",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "favorable / cheap / affordable",
-    "bangla": "সুবিধাজনক / সস্তা",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ich suche eine günstige Ferienwohnung.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "G-0150",
+    "id": "G-0141",
     "word": "gut",
     "article": "",
     "plural": "",
@@ -2265,7 +2130,7 @@
     "tags": ""
   },
   {
-    "id": "G-0151",
+    "id": "G-0142",
     "word": "Gymnastik",
     "article": "die",
     "plural": "",
@@ -2275,6 +2140,36 @@
     "partizipII": "",
     "auxiliary": "",
     "exampleSentence": "Ich mache jeden Morgen Gymnastik.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0143",
+    "word": "gültig",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "valid",
+    "bangla": "বৈধ / গ্রহণযোগ্য",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Mein Pass ist nur noch zwei Monate gültig.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "G-0144",
+    "word": "günstig",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "favorable / cheap / affordable",
+    "bangla": "সুবিধাজনক / সস্তা",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Ich suche eine günstige Ferienwohnung.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""

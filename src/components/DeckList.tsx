@@ -5,10 +5,11 @@ import { getCustomDeckInfo } from "../custom-words";
 interface Props {
   index: DeckIndex;
   onSelectDeck: (deckId: string) => void;
+  onViewDeck: (deckId: string, deckName: string) => void;
   onCustomDeck?: () => void;
 }
 
-export function DeckList({ index, onSelectDeck, onCustomDeck }: Props) {
+export function DeckList({ index, onSelectDeck, onViewDeck, onCustomDeck }: Props) {
   const customInfo = getCustomDeckInfo();
   const [filter, setFilter] = useState<string>("all");
 
@@ -62,7 +63,12 @@ export function DeckList({ index, onSelectDeck, onCustomDeck }: Props) {
           </div>
         )}
         {filtered.map((deck) => (
-          <DeckCard key={deck.id} deck={deck} onClick={() => onSelectDeck(deck.id)} />
+          <DeckCard
+            key={deck.id}
+            deck={deck}
+            onClick={() => onSelectDeck(deck.id)}
+            onView={() => onViewDeck(deck.id, deck.name)}
+          />
         ))}
       </div>
     </div>
@@ -95,7 +101,7 @@ function FilterChip({
   );
 }
 
-function DeckCard({ deck, onClick }: { deck: DeckInfo; onClick: () => void }) {
+function DeckCard({ deck, onClick, onView }: { deck: DeckInfo; onClick: () => void; onView: () => void }) {
   return (
     <div
       onClick={onClick}
@@ -122,7 +128,16 @@ function DeckCard({ deck, onClick }: { deck: DeckInfo; onClick: () => void }) {
             {deck.cardCount} cards · {deck.description}
           </p>
         </div>
-        <span style={{ fontSize: "1.4rem", color: "#d1d5db" }}>→</span>
+        <div style={{ display: "flex", gap: 8, alignItems: "center" }}>
+          <button
+            class="secondary"
+            onClick={(e) => { e.stopPropagation(); onView(); }}
+            style={{ fontSize: "0.75rem", padding: "4px 10px", borderRadius: 6 }}
+          >
+            View
+          </button>
+          <span style={{ fontSize: "1.4rem", color: "#d1d5db" }}>→</span>
+        </div>
       </div>
     </div>
   );

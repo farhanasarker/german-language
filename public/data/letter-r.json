@@ -1,6 +1,21 @@
 [
   {
     "id": "R-0000",
+    "word": "(sich) rasieren",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "R-0001",
     "word": "Rabatt",
     "article": "der",
     "plural": "-e",
@@ -15,7 +30,7 @@
     "tags": ""
   },
   {
-    "id": "R-0001",
+    "id": "R-0002",
     "word": "Rad",
     "article": "das",
     "plural": "¨-er",
@@ -30,7 +45,22 @@
     "tags": ""
   },
   {
-    "id": "R-0002",
+    "id": "R-0003",
+    "word": "radeiser",
+    "article": "",
+    "plural": "",
+    "wordType": "",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "R-0004",
     "word": "Radfahrer",
     "article": "der",
     "plural": "-",
@@ -45,7 +75,7 @@
     "tags": ""
   },
   {
-    "id": "R-0003",
+    "id": "R-0005",
     "word": "Radfahrerin",
     "article": "die",
     "plural": "-nen",
@@ -60,7 +90,7 @@
     "tags": ""
   },
   {
-    "id": "R-0004",
+    "id": "R-0006",
     "word": "Radio",
     "article": "das",
     "plural": "-s",
@@ -75,7 +105,7 @@
     "tags": ""
   },
   {
-    "id": "R-0005",
+    "id": "R-0007",
     "word": "Rahm",
     "article": "der",
     "plural": "",
@@ -90,7 +120,7 @@
     "tags": ""
   },
   {
-    "id": "R-0006",
+    "id": "R-0008",
     "word": "Rand",
     "article": "der",
     "plural": "¨-er",
@@ -105,7 +135,7 @@
     "tags": ""
   },
   {
-    "id": "R-0007",
+    "id": "R-0009",
     "word": "Rasen",
     "article": "der",
     "plural": "-",
@@ -115,36 +145,6 @@
     "partizipII": "",
     "auxiliary": "",
     "exampleSentence": "Der Rasen vor dem Haus ist sehr grün.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "R-0008",
-    "word": "sich rasieren",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to shave",
-    "bangla": "শেভ করা",
-    "partizipII": "rasiert",
-    "auxiliary": "hat",
-    "exampleSentence": "Mein Bruder rasiert sich jeden Morgen.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "R-0009",
-    "word": "raten",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to advise / to guess",
-    "bangla": "উপদেশ দেওয়া / অনুমান করা",
-    "partizipII": "geraten",
-    "auxiliary": "hat",
-    "exampleSentence": "Kannst du mir raten, was ich tun soll?",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
@@ -166,36 +166,21 @@
   },
   {
     "id": "R-0011",
-    "word": "Ratschlag",
-    "article": "der",
-    "plural": "¨-e",
-    "wordType": "noun",
-    "english": "advice / tip",
-    "bangla": "পরামর্শ / টিপস",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Vielen Dank für deinen Ratschlag.",
+    "word": "raten",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to advise / to guess",
+    "bangla": "উপদেশ দেওয়া / অনুমান করা",
+    "partizipII": "geraten",
+    "auxiliary": "hat",
+    "exampleSentence": "Kannst du mir raten, was ich tun soll?",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
     "id": "R-0012",
-    "word": "Rätsel",
-    "article": "das",
-    "plural": "-",
-    "wordType": "noun",
-    "english": "puzzle / riddle",
-    "bangla": "ধাঁধা / পাজল",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Kannst du dieses Rätsel lösen?",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "R-0013",
     "word": "Rathaus",
     "article": "das",
     "plural": "¨-er",
@@ -205,6 +190,21 @@
     "partizipII": "",
     "auxiliary": "",
     "exampleSentence": "Das Rathaus steht im Zentrum der Stadt.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "R-0013",
+    "word": "Ratschlag",
+    "article": "der",
+    "plural": "¨-e",
+    "wordType": "noun",
+    "english": "advice / tip",
+    "bangla": "পরামর্শ / টিপস",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Vielen Dank für deinen Ratschlag.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
@@ -256,21 +256,6 @@
   },
   {
     "id": "R-0017",
-    "word": "Raum",
-    "article": "der",
-    "plural": "¨-e",
-    "wordType": "noun",
-    "english": "room / space",
-    "bangla": "ঘর / স্থান",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "In diesem Raum finden 50 Personen Platz.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "R-0018",
     "word": "rauf",
     "article": "",
     "plural": "",
@@ -280,6 +265,21 @@
     "partizipII": "",
     "auxiliary": "",
     "exampleSentence": "Komm rauf, wir sind im dritten Stock!",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "R-0018",
+    "word": "Raum",
+    "article": "der",
+    "plural": "¨-e",
+    "wordType": "noun",
+    "english": "room / space",
+    "bangla": "ঘর / স্থান",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "In diesem Raum finden 50 Personen Platz.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
@@ -346,21 +346,6 @@
   },
   {
     "id": "R-0023",
-    "word": "Realität",
-    "article": "die",
-    "plural": "-en",
-    "wordType": "noun",
-    "english": "reality",
-    "bangla": "বাস্তবতা",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Die Realität sieht leider anders aus.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "R-0024",
     "word": "realistisch",
     "article": "",
     "plural": "",
@@ -370,6 +355,21 @@
     "partizipII": "",
     "auxiliary": "",
     "exampleSentence": "Sei realistisch! Das schaffst du nicht in einer Woche.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "R-0024",
+    "word": "Realität",
+    "article": "die",
+    "plural": "-en",
+    "wordType": "noun",
+    "english": "reality",
+    "bangla": "বাস্তবতা",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Die Realität sieht leider anders aus.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
@@ -436,21 +436,36 @@
   },
   {
     "id": "R-0029",
-    "word": "Recht",
+    "word": "recht",
     "article": "das",
     "plural": "-e",
-    "wordType": "noun",
-    "english": "right / law",
-    "bangla": "অধিকার / আইন",
+    "wordType": "adj",
+    "english": "right / correct",
+    "bangla": "সঠিক / ঠিক",
     "partizipII": "",
     "auxiliary": "",
-    "exampleSentence": "Jeder Mensch hat das Recht auf Bildung.",
+    "exampleSentence": "Du hast recht, das war meine Schuld.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
     "id": "R-0030",
+    "word": "recht-",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "right-hand / right",
+    "bangla": "ডান দিকের",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Nimm den rechten Weg.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "R-0031",
     "word": "rechtlich",
     "article": "",
     "plural": "",
@@ -460,21 +475,6 @@
     "partizipII": "",
     "auxiliary": "",
     "exampleSentence": "Wir müssen die rechtlichen Fragen klären.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "R-0031",
-    "word": "recht",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "right / correct",
-    "bangla": "সঠিক / ঠিক",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Du hast recht, das war meine Schuld.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
@@ -496,21 +496,6 @@
   },
   {
     "id": "R-0033",
-    "word": "recht-",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "right-hand / right",
-    "bangla": "ডান দিকের",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Nimm den rechten Weg.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "R-0034",
     "word": "rechtzeitig",
     "article": "",
     "plural": "",
@@ -520,6 +505,21 @@
     "partizipII": "",
     "auxiliary": "",
     "exampleSentence": "Bitte komm rechtzeitig zum Termin.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "R-0034",
+    "word": "Rede",
+    "article": "die",
+    "plural": "-n",
+    "wordType": "noun",
+    "english": "speech / talk",
+    "bangla": "বক্তৃতা / ভাষণ",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Der Präsident hielt eine Rede.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
@@ -541,21 +541,6 @@
   },
   {
     "id": "R-0036",
-    "word": "Rede",
-    "article": "die",
-    "plural": "-n",
-    "wordType": "noun",
-    "english": "speech / talk",
-    "bangla": "বক্তৃতা / ভাষণ",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Der Präsident hielt eine Rede.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "R-0037",
     "word": "reduzieren",
     "article": "",
     "plural": "",
@@ -570,7 +555,7 @@
     "tags": ""
   },
   {
-    "id": "R-0038",
+    "id": "R-0037",
     "word": "Referat",
     "article": "das",
     "plural": "-e",
@@ -585,7 +570,7 @@
     "tags": ""
   },
   {
-    "id": "R-0039",
+    "id": "R-0038",
     "word": "Reform",
     "article": "die",
     "plural": "-en",
@@ -600,7 +585,7 @@
     "tags": ""
   },
   {
-    "id": "R-0040",
+    "id": "R-0039",
     "word": "Regal",
     "article": "das",
     "plural": "-e",
@@ -615,7 +600,7 @@
     "tags": ""
   },
   {
-    "id": "R-0041",
+    "id": "R-0040",
     "word": "Regel",
     "article": "die",
     "plural": "-n",
@@ -630,7 +615,7 @@
     "tags": ""
   },
   {
-    "id": "R-0042",
+    "id": "R-0041",
     "word": "regelmäßig",
     "article": "",
     "plural": "",
@@ -645,7 +630,7 @@
     "tags": ""
   },
   {
-    "id": "R-0043",
+    "id": "R-0042",
     "word": "regeln",
     "article": "",
     "plural": "",
@@ -660,22 +645,7 @@
     "tags": ""
   },
   {
-    "id": "R-0044",
-    "word": "regnen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to rain",
-    "bangla": "বৃষ্টি পড়া",
-    "partizipII": "geregnet",
-    "auxiliary": "hat",
-    "exampleSentence": "Es regnet schon den ganzen Tag.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "R-0045",
+    "id": "R-0043",
     "word": "Regen",
     "article": "der",
     "plural": "",
@@ -690,7 +660,7 @@
     "tags": ""
   },
   {
-    "id": "R-0046",
+    "id": "R-0044",
     "word": "Region",
     "article": "die",
     "plural": "-en",
@@ -705,7 +675,7 @@
     "tags": ""
   },
   {
-    "id": "R-0047",
+    "id": "R-0045",
     "word": "regional",
     "article": "",
     "plural": "",
@@ -720,7 +690,22 @@
     "tags": ""
   },
   {
-    "id": "R-0048",
+    "id": "R-0046",
+    "word": "regnen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to rain",
+    "bangla": "বৃষ্টি পড়া",
+    "partizipII": "geregnet",
+    "auxiliary": "hat",
+    "exampleSentence": "Es regnet schon den ganzen Tag.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "R-0047",
     "word": "reich",
     "article": "",
     "plural": "",
@@ -735,7 +720,7 @@
     "tags": ""
   },
   {
-    "id": "R-0049",
+    "id": "R-0048",
     "word": "reichen",
     "article": "",
     "plural": "",
@@ -750,7 +735,7 @@
     "tags": ""
   },
   {
-    "id": "R-0050",
+    "id": "R-0049",
     "word": "reif",
     "article": "",
     "plural": "",
@@ -765,7 +750,7 @@
     "tags": ""
   },
   {
-    "id": "R-0051",
+    "id": "R-0050",
     "word": "Reifen",
     "article": "der",
     "plural": "-",
@@ -780,7 +765,7 @@
     "tags": ""
   },
   {
-    "id": "R-0052",
+    "id": "R-0051",
     "word": "Reihe",
     "article": "die",
     "plural": "-n",
@@ -795,7 +780,7 @@
     "tags": ""
   },
   {
-    "id": "R-0053",
+    "id": "R-0052",
     "word": "Reihenfolge",
     "article": "die",
     "plural": "-n",
@@ -810,7 +795,7 @@
     "tags": ""
   },
   {
-    "id": "R-0054",
+    "id": "R-0053",
     "word": "rein",
     "article": "",
     "plural": "",
@@ -825,7 +810,7 @@
     "tags": ""
   },
   {
-    "id": "R-0055",
+    "id": "R-0054",
     "word": "reinigen",
     "article": "",
     "plural": "",
@@ -840,7 +825,7 @@
     "tags": ""
   },
   {
-    "id": "R-0056",
+    "id": "R-0055",
     "word": "Reinigung",
     "article": "die",
     "plural": "-en",
@@ -855,7 +840,7 @@
     "tags": ""
   },
   {
-    "id": "R-0057",
+    "id": "R-0056",
     "word": "Reis",
     "article": "der",
     "plural": "-e",
@@ -870,22 +855,7 @@
     "tags": ""
   },
   {
-    "id": "R-0058",
-    "word": "reisen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to travel",
-    "bangla": "ভ্রমণ করা",
-    "partizipII": "gereist",
-    "auxiliary": "ist",
-    "exampleSentence": "Ich reise im Sommer nach Spanien.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "R-0059",
+    "id": "R-0057",
     "word": "Reise",
     "article": "die",
     "plural": "-n",
@@ -900,7 +870,7 @@
     "tags": ""
   },
   {
-    "id": "R-0060",
+    "id": "R-0058",
     "word": "Reisebüro",
     "article": "das",
     "plural": "-s",
@@ -915,7 +885,22 @@
     "tags": ""
   },
   {
-    "id": "R-0061",
+    "id": "R-0059",
+    "word": "reisen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to travel",
+    "bangla": "ভ্রমণ করা",
+    "partizipII": "gereist",
+    "auxiliary": "ist",
+    "exampleSentence": "Ich reise im Sommer nach Spanien.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "R-0060",
     "word": "reiten",
     "article": "",
     "plural": "",
@@ -930,7 +915,7 @@
     "tags": ""
   },
   {
-    "id": "R-0062",
+    "id": "R-0061",
     "word": "Reklame",
     "article": "die",
     "plural": "-n",
@@ -945,7 +930,7 @@
     "tags": ""
   },
   {
-    "id": "R-0063",
+    "id": "R-0062",
     "word": "Rekord",
     "article": "der",
     "plural": "-e",
@@ -960,7 +945,7 @@
     "tags": ""
   },
   {
-    "id": "R-0064",
+    "id": "R-0063",
     "word": "relativ",
     "article": "",
     "plural": "",
@@ -975,7 +960,7 @@
     "tags": ""
   },
   {
-    "id": "R-0065",
+    "id": "R-0064",
     "word": "Religion",
     "article": "die",
     "plural": "-en",
@@ -990,7 +975,7 @@
     "tags": ""
   },
   {
-    "id": "R-0066",
+    "id": "R-0065",
     "word": "rennen",
     "article": "",
     "plural": "",
@@ -1005,7 +990,7 @@
     "tags": ""
   },
   {
-    "id": "R-0067",
+    "id": "R-0066",
     "word": "Rente",
     "article": "die",
     "plural": "-n",
@@ -1020,22 +1005,7 @@
     "tags": ""
   },
   {
-    "id": "R-0068",
-    "word": "in Rente gehen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to retire (D)",
-    "bangla": "অবসর নেওয়া (জার্মানি)",
-    "partizipII": "in Rente gegangen",
-    "auxiliary": "ist",
-    "exampleSentence": "Nächstes Jahr gehe ich in Rente.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "R-0069",
+    "id": "R-0067",
     "word": "Rentner",
     "article": "der",
     "plural": "-",
@@ -1050,7 +1020,7 @@
     "tags": ""
   },
   {
-    "id": "R-0070",
+    "id": "R-0068",
     "word": "Rentnerin",
     "article": "die",
     "plural": "-nen",
@@ -1065,22 +1035,7 @@
     "tags": ""
   },
   {
-    "id": "R-0071",
-    "word": "reparieren",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to repair / fix",
-    "bangla": "মেরামত করা",
-    "partizipII": "repariert",
-    "auxiliary": "hat",
-    "exampleSentence": "Kannst du mein Fahrrad reparieren?",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "R-0072",
+    "id": "R-0069",
     "word": "Reparatur",
     "article": "die",
     "plural": "-en",
@@ -1095,7 +1050,22 @@
     "tags": ""
   },
   {
-    "id": "R-0073",
+    "id": "R-0070",
+    "word": "reparieren",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to repair / fix",
+    "bangla": "মেরামত করা",
+    "partizipII": "repariert",
+    "auxiliary": "hat",
+    "exampleSentence": "Kannst du mein Fahrrad reparieren?",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "R-0071",
     "word": "Reportage",
     "article": "die",
     "plural": "-n",
@@ -1110,7 +1080,7 @@
     "tags": ""
   },
   {
-    "id": "R-0074",
+    "id": "R-0072",
     "word": "Reporter",
     "article": "der",
     "plural": "-",
@@ -1125,7 +1095,7 @@
     "tags": ""
   },
   {
-    "id": "R-0075",
+    "id": "R-0073",
     "word": "Reporterin",
     "article": "die",
     "plural": "-nen",
@@ -1140,7 +1110,7 @@
     "tags": ""
   },
   {
-    "id": "R-0076",
+    "id": "R-0074",
     "word": "reservieren",
     "article": "",
     "plural": "",
@@ -1155,7 +1125,7 @@
     "tags": ""
   },
   {
-    "id": "R-0077",
+    "id": "R-0075",
     "word": "Reservierung",
     "article": "die",
     "plural": "-en",
@@ -1170,7 +1140,7 @@
     "tags": ""
   },
   {
-    "id": "R-0078",
+    "id": "R-0076",
     "word": "Respekt",
     "article": "der",
     "plural": "-e",
@@ -1185,7 +1155,7 @@
     "tags": ""
   },
   {
-    "id": "R-0079",
+    "id": "R-0077",
     "word": "Rest",
     "article": "der",
     "plural": "-e",
@@ -1200,7 +1170,7 @@
     "tags": ""
   },
   {
-    "id": "R-0080",
+    "id": "R-0078",
     "word": "Restaurant",
     "article": "das",
     "plural": "-s",
@@ -1215,7 +1185,7 @@
     "tags": ""
   },
   {
-    "id": "R-0081",
+    "id": "R-0079",
     "word": "retten",
     "article": "",
     "plural": "",
@@ -1230,7 +1200,7 @@
     "tags": ""
   },
   {
-    "id": "R-0082",
+    "id": "R-0080",
     "word": "Rezept",
     "article": "das",
     "plural": "-e",
@@ -1245,7 +1215,7 @@
     "tags": ""
   },
   {
-    "id": "R-0083",
+    "id": "R-0081",
     "word": "Rezeption",
     "article": "die",
     "plural": "-en",
@@ -1260,7 +1230,7 @@
     "tags": ""
   },
   {
-    "id": "R-0084",
+    "id": "R-0082",
     "word": "Richter",
     "article": "der",
     "plural": "-",
@@ -1275,7 +1245,7 @@
     "tags": ""
   },
   {
-    "id": "R-0085",
+    "id": "R-0083",
     "word": "Richterin",
     "article": "die",
     "plural": "-nen",
@@ -1290,7 +1260,7 @@
     "tags": ""
   },
   {
-    "id": "R-0086",
+    "id": "R-0084",
     "word": "richtig",
     "article": "",
     "plural": "",
@@ -1305,7 +1275,7 @@
     "tags": ""
   },
   {
-    "id": "R-0087",
+    "id": "R-0085",
     "word": "Richtung",
     "article": "die",
     "plural": "-en",
@@ -1320,7 +1290,7 @@
     "tags": ""
   },
   {
-    "id": "R-0088",
+    "id": "R-0086",
     "word": "riechen",
     "article": "",
     "plural": "",
@@ -1335,7 +1305,7 @@
     "tags": ""
   },
   {
-    "id": "R-0089",
+    "id": "R-0087",
     "word": "riesig",
     "article": "",
     "plural": "",
@@ -1350,7 +1320,7 @@
     "tags": ""
   },
   {
-    "id": "R-0090",
+    "id": "R-0088",
     "word": "Rind",
     "article": "das",
     "plural": "-er",
@@ -1365,7 +1335,7 @@
     "tags": ""
   },
   {
-    "id": "R-0091",
+    "id": "R-0089",
     "word": "Ring",
     "article": "der",
     "plural": "-e",
@@ -1380,7 +1350,7 @@
     "tags": ""
   },
   {
-    "id": "R-0092",
+    "id": "R-0090",
     "word": "Risiko",
     "article": "das",
     "plural": "Risiken",
@@ -1395,7 +1365,7 @@
     "tags": ""
   },
   {
-    "id": "R-0093",
+    "id": "R-0091",
     "word": "Rock",
     "article": "der",
     "plural": "¨-e",
@@ -1410,7 +1380,7 @@
     "tags": ""
   },
   {
-    "id": "R-0094",
+    "id": "R-0092",
     "word": "roh",
     "article": "",
     "plural": "",
@@ -1425,7 +1395,7 @@
     "tags": ""
   },
   {
-    "id": "R-0095",
+    "id": "R-0093",
     "word": "Rohr",
     "article": "das",
     "plural": "-e",
@@ -1440,7 +1410,7 @@
     "tags": ""
   },
   {
-    "id": "R-0096",
+    "id": "R-0094",
     "word": "Rolle",
     "article": "die",
     "plural": "-n",
@@ -1455,7 +1425,7 @@
     "tags": ""
   },
   {
-    "id": "R-0097",
+    "id": "R-0095",
     "word": "Roman",
     "article": "der",
     "plural": "-e",
@@ -1470,7 +1440,7 @@
     "tags": ""
   },
   {
-    "id": "R-0098",
+    "id": "R-0096",
     "word": "Rose",
     "article": "die",
     "plural": "-n",
@@ -1485,7 +1455,7 @@
     "tags": ""
   },
   {
-    "id": "R-0099",
+    "id": "R-0097",
     "word": "Rucksack",
     "article": "der",
     "plural": "¨-e",
@@ -1500,112 +1470,7 @@
     "tags": ""
   },
   {
-    "id": "R-0100",
-    "word": "rück-",
-    "article": "",
-    "plural": "",
-    "wordType": "prefix",
-    "english": "back- / return-",
-    "bangla": "পিছনে / ফিরে (উপসর্গ)",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Die Rückfahrt dauert ungefähr drei Stunden.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "R-0101",
-    "word": "Rückfahrt",
-    "article": "die",
-    "plural": "-en",
-    "wordType": "noun",
-    "english": "return journey",
-    "bangla": "ফেরার যাত্রা / প্রত্যাবর্তন যাত্রা",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Auf der Rückfahrt hatten wir Stau.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "R-0102",
-    "word": "Rückkehr",
-    "article": "die",
-    "plural": "",
-    "wordType": "noun",
-    "english": "return / homecoming",
-    "bangla": "প্রত্যাবর্তন / ফিরে আসা",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Seine Rückkehr hat alle gefreut.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "R-0103",
-    "word": "rückwärts",
-    "article": "",
-    "plural": "",
-    "wordType": "adv",
-    "english": "backwards",
-    "bangla": "পিছনের দিকে / বিপরীতে",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Fahr nicht rückwärts, da ist ein Hindernis!",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "R-0104",
-    "word": "Rücken",
-    "article": "der",
-    "plural": "-",
-    "wordType": "noun",
-    "english": "back",
-    "bangla": "পিঠ",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Mir tut der Rücken weh.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "R-0105",
-    "word": "Rücksicht",
-    "article": "die",
-    "plural": "",
-    "wordType": "noun",
-    "english": "consideration / regard",
-    "bangla": "বিবেচনা / খেয়াল / ভাবনা",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Nimm Rücksicht auf andere!",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "R-0106",
-    "word": "Rüebli",
-    "article": "das",
-    "plural": "-",
-    "wordType": "noun",
-    "english": "carrot (CH)",
-    "bangla": "গাজর (সুইজারল্যান্ড)",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "In der Schweiz sagt man Rüebli zu Karotten.",
-    "synonyms": "Karotte, Möhre",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "R-0107",
+    "id": "R-0098",
     "word": "rufen",
     "article": "",
     "plural": "",
@@ -1620,7 +1485,7 @@
     "tags": ""
   },
   {
-    "id": "R-0108",
+    "id": "R-0099",
     "word": "Rufnummer",
     "article": "die",
     "plural": "-n",
@@ -1635,7 +1500,7 @@
     "tags": ""
   },
   {
-    "id": "R-0109",
+    "id": "R-0100",
     "word": "Ruhe",
     "article": "die",
     "plural": "",
@@ -1650,7 +1515,7 @@
     "tags": ""
   },
   {
-    "id": "R-0110",
+    "id": "R-0101",
     "word": "ruhig",
     "article": "",
     "plural": "",
@@ -1665,7 +1530,7 @@
     "tags": ""
   },
   {
-    "id": "R-0111",
+    "id": "R-0102",
     "word": "rund",
     "article": "",
     "plural": "",
@@ -1680,7 +1545,7 @@
     "tags": ""
   },
   {
-    "id": "R-0112",
+    "id": "R-0103",
     "word": "Runde",
     "article": "die",
     "plural": "-n",
@@ -1695,7 +1560,7 @@
     "tags": ""
   },
   {
-    "id": "R-0113",
+    "id": "R-0104",
     "word": "Rundfahrt",
     "article": "die",
     "plural": "-en",
@@ -1706,6 +1571,126 @@
     "auxiliary": "",
     "exampleSentence": "Wir haben eine Rundfahrt durch die Altstadt gemacht.",
     "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "R-0105",
+    "word": "Rätsel",
+    "article": "das",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "puzzle / riddle",
+    "bangla": "ধাঁধা / পাজল",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Kannst du dieses Rätsel lösen?",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "R-0106",
+    "word": "rück-",
+    "article": "",
+    "plural": "",
+    "wordType": "prefix",
+    "english": "back- / return-",
+    "bangla": "পিছনে / ফিরে (উপসর্গ)",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Die Rückfahrt dauert ungefähr drei Stunden.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "R-0107",
+    "word": "Rücken",
+    "article": "der",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "back",
+    "bangla": "পিঠ",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Mir tut der Rücken weh.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "R-0108",
+    "word": "Rückfahrt",
+    "article": "die",
+    "plural": "-en",
+    "wordType": "noun",
+    "english": "return journey",
+    "bangla": "ফেরার যাত্রা / প্রত্যাবর্তন যাত্রা",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Auf der Rückfahrt hatten wir Stau.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "R-0109",
+    "word": "Rückkehr",
+    "article": "die",
+    "plural": "",
+    "wordType": "noun",
+    "english": "return / homecoming",
+    "bangla": "প্রত্যাবর্তন / ফিরে আসা",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Seine Rückkehr hat alle gefreut.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "R-0110",
+    "word": "Rücksicht",
+    "article": "die",
+    "plural": "-en",
+    "wordType": "noun",
+    "english": "consideration / regard",
+    "bangla": "বিবেচনা / খেয়াল / ভাবনা",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Nimm Rücksicht auf andere!",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "R-0111",
+    "word": "rückwärts",
+    "article": "",
+    "plural": "",
+    "wordType": "adv",
+    "english": "backwards",
+    "bangla": "পিছনের দিকে / বিপরীতে",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Fahr nicht rückwärts, da ist ein Hindernis!",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "R-0112",
+    "word": "Rüebli",
+    "article": "das",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "carrot (CH)",
+    "bangla": "গাজর (সুইজারল্যান্ড)",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "In der Schweiz sagt man Rüebli zu Karotten.",
+    "synonyms": "Karotte, Möhre",
     "antonyms": "",
     "tags": ""
   }

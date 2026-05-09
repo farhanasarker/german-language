@@ -1,6 +1,156 @@
 [
   {
     "id": "V-0000",
+    "word": "(sich) verabreden",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0001",
+    "word": "(sich) verabschieden",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0002",
+    "word": "(sich) verbessern",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0003",
+    "word": "(sich) verbrennen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0004",
+    "word": "(sich) verletzen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0005",
+    "word": "(sich) verstecken",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0006",
+    "word": "(sich) verstehen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0007",
+    "word": "(sich) verändern",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0008",
+    "word": "(sich) vorbereiten",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0009",
+    "word": "(sich) vorstellen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0010",
     "word": "Vase",
     "article": "die",
     "plural": "-n",
@@ -15,7 +165,7 @@
     "tags": ""
   },
   {
-    "id": "V-0001",
+    "id": "V-0011",
     "word": "Vater",
     "article": "der",
     "plural": "¨-",
@@ -30,7 +180,7 @@
     "tags": ""
   },
   {
-    "id": "V-0002",
+    "id": "V-0012",
     "word": "vegetarisch",
     "article": "",
     "plural": "",
@@ -45,7 +195,7 @@
     "tags": ""
   },
   {
-    "id": "V-0003",
+    "id": "V-0013",
     "word": "Velo",
     "article": "das",
     "plural": "-s",
@@ -60,22 +210,7 @@
     "tags": ""
   },
   {
-    "id": "V-0004",
-    "word": "sich verabreden",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to arrange to meet / make a date",
-    "bangla": "দেখা করার ব্যবস্থা করা",
-    "partizipII": "verabredet",
-    "auxiliary": "hat",
-    "exampleSentence": "Wir haben uns mit Freunden verabredet.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "V-0005",
+    "id": "V-0014",
     "word": "verabredet",
     "article": "",
     "plural": "",
@@ -90,7 +225,7 @@
     "tags": ""
   },
   {
-    "id": "V-0006",
+    "id": "V-0015",
     "word": "Verabredung",
     "article": "die",
     "plural": "-en",
@@ -105,52 +240,7 @@
     "tags": ""
   },
   {
-    "id": "V-0007",
-    "word": "sich verabschieden",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to say goodbye / take leave",
-    "bangla": "বিদায় নেওয়া",
-    "partizipII": "verabschiedet",
-    "auxiliary": "hat",
-    "exampleSentence": "Es ist schon 23 Uhr. Ich moechte mich verabschieden.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "V-0008",
-    "word": "Abschied",
-    "article": "der",
-    "plural": "-e",
-    "wordType": "noun",
-    "english": "farewell / goodbye / parting",
-    "bangla": "বিদায় / বিদায় গ্রহণ",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Der Abschied von meinen Freunden fiel mir schwer.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "V-0009",
-    "word": "sich veraendern",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to change / alter",
-    "bangla": "পরিবর্তন করা / বদলানো",
-    "partizipII": "veraendert",
-    "auxiliary": "hat",
-    "exampleSentence": "Du hast dich gar nicht veraendert.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "V-0010",
+    "id": "V-0016",
     "word": "Veranstaltung",
     "article": "die",
     "plural": "-en",
@@ -165,7 +255,7 @@
     "tags": ""
   },
   {
-    "id": "V-0011",
+    "id": "V-0017",
     "word": "verantwortlich",
     "article": "",
     "plural": "",
@@ -180,7 +270,7 @@
     "tags": ""
   },
   {
-    "id": "V-0012",
+    "id": "V-0018",
     "word": "Verantwortung",
     "article": "die",
     "plural": "",
@@ -195,22 +285,22 @@
     "tags": ""
   },
   {
-    "id": "V-0013",
-    "word": "sich verbessern",
+    "id": "V-0019",
+    "word": "verbessert",
     "article": "",
     "plural": "",
     "wordType": "verb",
-    "english": "to improve / get better",
-    "bangla": "উন্নতি করা / ভালো হওয়া",
-    "partizipII": "verbessert",
-    "auxiliary": "hat",
-    "exampleSentence": "Ich habe mein Deutsch verbessert.",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "V-0014",
+    "id": "V-0020",
     "word": "verbieten",
     "article": "",
     "plural": "",
@@ -225,37 +315,7 @@
     "tags": ""
   },
   {
-    "id": "V-0015",
-    "word": "Verbot",
-    "article": "das",
-    "plural": "-e",
-    "wordType": "noun",
-    "english": "ban / prohibition",
-    "bangla": "নিষেধাজ্ঞা",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ich bin fuer das Verbot dieses neuen Videospiels.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "V-0016",
-    "word": "verboten",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "forbidden / prohibited",
-    "bangla": "নিষিদ্ধ",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "In den meisten Restaurants ist Rauchen verboten.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "V-0017",
+    "id": "V-0021",
     "word": "verbinden",
     "article": "",
     "plural": "",
@@ -270,7 +330,7 @@
     "tags": ""
   },
   {
-    "id": "V-0018",
+    "id": "V-0022",
     "word": "Verbindung",
     "article": "die",
     "plural": "-en",
@@ -285,7 +345,37 @@
     "tags": ""
   },
   {
-    "id": "V-0019",
+    "id": "V-0023",
+    "word": "Verbot",
+    "article": "das",
+    "plural": "-e",
+    "wordType": "noun",
+    "english": "ban / prohibition",
+    "bangla": "নিষেধাজ্ঞা",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Ich bin fuer das Verbot dieses neuen Videospiels.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0024",
+    "word": "verboten",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "forbidden / prohibited",
+    "bangla": "নিষিদ্ধ",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "In den meisten Restaurants ist Rauchen verboten.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0025",
     "word": "verbrauchen",
     "article": "",
     "plural": "",
@@ -300,7 +390,7 @@
     "tags": ""
   },
   {
-    "id": "V-0020",
+    "id": "V-0026",
     "word": "Verbrecher",
     "article": "der",
     "plural": "-",
@@ -315,7 +405,7 @@
     "tags": ""
   },
   {
-    "id": "V-0021",
+    "id": "V-0027",
     "word": "Verbrecherin",
     "article": "die",
     "plural": "-nen",
@@ -330,22 +420,22 @@
     "tags": ""
   },
   {
-    "id": "V-0022",
-    "word": "sich verbrennen",
+    "id": "V-0028",
+    "word": "verbrennt",
     "article": "",
     "plural": "",
     "wordType": "verb",
-    "english": "to burn (oneself) / get burned",
-    "bangla": "পুড়ে যাওয়া / পোড়া",
-    "partizipII": "verbrannt",
-    "auxiliary": "hat",
-    "exampleSentence": "Der Herd war noch heiss. Ich habe mich verbrannt.",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "V-0023",
+    "id": "V-0029",
     "word": "verbringen",
     "article": "",
     "plural": "",
@@ -360,7 +450,7 @@
     "tags": ""
   },
   {
-    "id": "V-0024",
+    "id": "V-0030",
     "word": "Verdacht",
     "article": "der",
     "plural": "",
@@ -375,7 +465,7 @@
     "tags": ""
   },
   {
-    "id": "V-0025",
+    "id": "V-0031",
     "word": "verdaechtig",
     "article": "",
     "plural": "",
@@ -390,7 +480,7 @@
     "tags": ""
   },
   {
-    "id": "V-0026",
+    "id": "V-0032",
     "word": "verdienen",
     "article": "",
     "plural": "",
@@ -405,7 +495,22 @@
     "tags": ""
   },
   {
-    "id": "V-0027",
+    "id": "V-0033",
+    "word": "verdächtig",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0034",
     "word": "Verein",
     "article": "der",
     "plural": "-e",
@@ -420,7 +525,7 @@
     "tags": ""
   },
   {
-    "id": "V-0028",
+    "id": "V-0035",
     "word": "vereinbaren",
     "article": "",
     "plural": "",
@@ -435,7 +540,7 @@
     "tags": ""
   },
   {
-    "id": "V-0029",
+    "id": "V-0036",
     "word": "Vergangenheit",
     "article": "die",
     "plural": "",
@@ -450,7 +555,7 @@
     "tags": ""
   },
   {
-    "id": "V-0030",
+    "id": "V-0037",
     "word": "vergeblich",
     "article": "",
     "plural": "",
@@ -465,7 +570,7 @@
     "tags": ""
   },
   {
-    "id": "V-0031",
+    "id": "V-0038",
     "word": "vergessen",
     "article": "",
     "plural": "",
@@ -480,22 +585,7 @@
     "tags": ""
   },
   {
-    "id": "V-0032",
-    "word": "vergleichen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to compare",
-    "bangla": "তুলনা করা",
-    "partizipII": "verglichen",
-    "auxiliary": "hat",
-    "exampleSentence": "Vergleichen Sie die Angebote.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "V-0033",
+    "id": "V-0039",
     "word": "Vergleich",
     "article": "der",
     "plural": "-e",
@@ -510,22 +600,22 @@
     "tags": ""
   },
   {
-    "id": "V-0034",
-    "word": "sich vergnuegen",
+    "id": "V-0040",
+    "word": "vergleichen",
     "article": "",
     "plural": "",
     "wordType": "verb",
-    "english": "to enjoy oneself / have fun",
-    "bangla": "মজা করা / আনন্দ করা",
-    "partizipII": "vergnuegt",
+    "english": "to compare",
+    "bangla": "তুলনা করা",
+    "partizipII": "verglichen",
     "auxiliary": "hat",
-    "exampleSentence": "Auf der Party habe ich mich sehr vergnuegt.",
+    "exampleSentence": "Vergleichen Sie die Angebote.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "V-0035",
+    "id": "V-0041",
     "word": "Vergnuegen",
     "article": "das",
     "plural": "-",
@@ -540,7 +630,7 @@
     "tags": ""
   },
   {
-    "id": "V-0036",
+    "id": "V-0042",
     "word": "vergnuegt",
     "article": "",
     "plural": "",
@@ -555,7 +645,37 @@
     "tags": ""
   },
   {
-    "id": "V-0037",
+    "id": "V-0043",
+    "word": "Vergnügen",
+    "article": "das",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0044",
+    "word": "vergnügt",
+    "article": "",
+    "plural": "",
+    "wordType": "",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0045",
     "word": "vergroessern",
     "article": "",
     "plural": "",
@@ -570,52 +690,22 @@
     "tags": ""
   },
   {
-    "id": "V-0038",
-    "word": "verhaften",
+    "id": "V-0046",
+    "word": "vergrößern",
     "article": "",
     "plural": "",
     "wordType": "verb",
-    "english": "to arrest",
-    "bangla": "গ্রেপ্তার করা",
-    "partizipII": "verhaftet",
-    "auxiliary": "hat",
-    "exampleSentence": "Die Polizei hat 23 Menschen verhaftet.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "V-0039",
-    "word": "sich verhalten",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to behave / act",
-    "bangla": "আচরণ করা",
-    "partizipII": "verhalten",
-    "auxiliary": "hat",
-    "exampleSentence": "Der Mann hat sich uns gegenueber merkwuerdig verhalten.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "V-0040",
-    "word": "Verhalten",
-    "article": "das",
-    "plural": "",
-    "wordType": "noun",
-    "english": "behavior / conduct",
-    "bangla": "আচরণ",
+    "english": "",
+    "bangla": "",
     "partizipII": "",
     "auxiliary": "",
-    "exampleSentence": "Ich bewundere dein Verhalten in der schwierigen Situation.",
+    "exampleSentence": "",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "V-0041",
+    "id": "V-0047",
     "word": "Verhaeltnis",
     "article": "das",
     "plural": "-se",
@@ -630,7 +720,37 @@
     "tags": ""
   },
   {
-    "id": "V-0042",
+    "id": "V-0048",
+    "word": "verhaften",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to arrest",
+    "bangla": "গ্রেপ্তার করা",
+    "partizipII": "verhaftet",
+    "auxiliary": "hat",
+    "exampleSentence": "Die Polizei hat 23 Menschen verhaftet.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0049",
+    "word": "Verhalten",
+    "article": "das",
+    "plural": "",
+    "wordType": "noun",
+    "english": "behavior / conduct",
+    "bangla": "আচরণ",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Ich bewundere dein Verhalten in der schwierigen Situation.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0050",
     "word": "verheiratet",
     "article": "",
     "plural": "",
@@ -645,7 +765,7 @@
     "tags": ""
   },
   {
-    "id": "V-0043",
+    "id": "V-0051",
     "word": "verhindern",
     "article": "",
     "plural": "",
@@ -660,22 +780,22 @@
     "tags": ""
   },
   {
-    "id": "V-0044",
-    "word": "verkaufen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to sell",
-    "bangla": "বিক্রি করা",
-    "partizipII": "verkauft",
-    "auxiliary": "hat",
-    "exampleSentence": "Ich habe unser altes Auto verkauft.",
+    "id": "V-0052",
+    "word": "Verhältnis",
+    "article": "das",
+    "plural": "-se",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "V-0045",
+    "id": "V-0053",
     "word": "Verkaeufer",
     "article": "der",
     "plural": "-",
@@ -690,7 +810,7 @@
     "tags": ""
   },
   {
-    "id": "V-0046",
+    "id": "V-0054",
     "word": "Verkaeuferin",
     "article": "die",
     "plural": "-nen",
@@ -705,7 +825,22 @@
     "tags": ""
   },
   {
-    "id": "V-0047",
+    "id": "V-0055",
+    "word": "verkaufen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to sell",
+    "bangla": "বিক্রি করা",
+    "partizipII": "verkauft",
+    "auxiliary": "hat",
+    "exampleSentence": "Ich habe unser altes Auto verkauft.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0056",
     "word": "Verkehr",
     "article": "der",
     "plural": "",
@@ -720,7 +855,7 @@
     "tags": ""
   },
   {
-    "id": "V-0048",
+    "id": "V-0057",
     "word": "Verkehrsmittel",
     "article": "das",
     "plural": "-",
@@ -735,37 +870,52 @@
     "tags": ""
   },
   {
-    "id": "V-0049",
-    "word": "Verlag",
-    "article": "der",
-    "plural": "-e",
+    "id": "V-0058",
+    "word": "Verkehrszeichen",
+    "article": "das",
+    "plural": "-",
     "wordType": "noun",
-    "english": "publishing house / publisher",
-    "bangla": "প্রকাশনা সংস্থা",
+    "english": "traffic sign",
+    "bangla": "ট্রাফিক সাইন",
     "partizipII": "",
     "auxiliary": "",
-    "exampleSentence": "Von welchem Verlag ist dieses Buch?",
+    "exampleSentence": "Meine Kinder lernen in der Schule gerade die Verkehrszeichen.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "V-0050",
-    "word": "verlangen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to demand / ask for / require",
-    "bangla": "চাওয়া / দাবি করা",
-    "partizipII": "verlangt",
-    "auxiliary": "hat",
-    "exampleSentence": "Jeden Tag Ueberstunden? Das koennen Sie nicht verlangen.",
+    "id": "V-0059",
+    "word": "Verkäufer",
+    "article": "der",
+    "plural": "-",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "V-0051",
+    "id": "V-0060",
+    "word": "Verkäuferin",
+    "article": "die",
+    "plural": "-nen",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0061",
     "word": "verlaengern",
     "article": "",
     "plural": "",
@@ -780,7 +930,37 @@
     "tags": ""
   },
   {
-    "id": "V-0052",
+    "id": "V-0062",
+    "word": "Verlag",
+    "article": "der",
+    "plural": "-e",
+    "wordType": "noun",
+    "english": "publishing house / publisher",
+    "bangla": "প্রকাশনা সংস্থা",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Von welchem Verlag ist dieses Buch?",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0063",
+    "word": "verlangen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to demand / ask for / require",
+    "bangla": "চাওয়া / দাবি করা",
+    "partizipII": "verlangt",
+    "auxiliary": "hat",
+    "exampleSentence": "Jeden Tag Ueberstunden? Das koennen Sie nicht verlangen.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0064",
     "word": "verlassen",
     "article": "",
     "plural": "",
@@ -795,37 +975,7 @@
     "tags": ""
   },
   {
-    "id": "V-0053",
-    "word": "sich verlaufen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to get lost / lose one's way",
-    "bangla": "পথ হারানো",
-    "partizipII": "verlaufen",
-    "auxiliary": "hat",
-    "exampleSentence": "Gestern haben wir uns im Wald verlaufen.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "V-0054",
-    "word": "sich verletzen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to injure (oneself) / hurt",
-    "bangla": "আহত হওয়া / চোট লাগা",
-    "partizipII": "verletzt",
-    "auxiliary": "hat",
-    "exampleSentence": "Ich habe mich an der Hand verletzt.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "V-0055",
+    "id": "V-0065",
     "word": "Verletzung",
     "article": "die",
     "plural": "-en",
@@ -840,22 +990,7 @@
     "tags": ""
   },
   {
-    "id": "V-0056",
-    "word": "sich verlieben",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to fall in love",
-    "bangla": "প্রেমে পড়া",
-    "partizipII": "verliebt",
-    "auxiliary": "hat",
-    "exampleSentence": "Ich habe mich verliebt.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "V-0057",
+    "id": "V-0066",
     "word": "verliebt",
     "article": "",
     "plural": "",
@@ -870,7 +1005,7 @@
     "tags": ""
   },
   {
-    "id": "V-0058",
+    "id": "V-0067",
     "word": "verlieren",
     "article": "",
     "plural": "",
@@ -885,7 +1020,7 @@
     "tags": ""
   },
   {
-    "id": "V-0059",
+    "id": "V-0068",
     "word": "Verlierer",
     "article": "der",
     "plural": "-",
@@ -900,7 +1035,7 @@
     "tags": ""
   },
   {
-    "id": "V-0060",
+    "id": "V-0069",
     "word": "Verliererin",
     "article": "die",
     "plural": "-nen",
@@ -915,7 +1050,7 @@
     "tags": ""
   },
   {
-    "id": "V-0061",
+    "id": "V-0070",
     "word": "Verlust",
     "article": "der",
     "plural": "-e",
@@ -930,7 +1065,37 @@
     "tags": ""
   },
   {
-    "id": "V-0062",
+    "id": "V-0071",
+    "word": "verlängern",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0072",
+    "word": "verläuft sich",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0073",
     "word": "vermeiden",
     "article": "",
     "plural": "",
@@ -945,7 +1110,7 @@
     "tags": ""
   },
   {
-    "id": "V-0063",
+    "id": "V-0074",
     "word": "vermieten",
     "article": "",
     "plural": "",
@@ -960,7 +1125,7 @@
     "tags": ""
   },
   {
-    "id": "V-0064",
+    "id": "V-0075",
     "word": "Vermieter",
     "article": "der",
     "plural": "-",
@@ -975,7 +1140,7 @@
     "tags": ""
   },
   {
-    "id": "V-0065",
+    "id": "V-0076",
     "word": "Vermieterin",
     "article": "die",
     "plural": "-nen",
@@ -990,7 +1155,7 @@
     "tags": ""
   },
   {
-    "id": "V-0066",
+    "id": "V-0077",
     "word": "Vermietung",
     "article": "die",
     "plural": "-en",
@@ -1005,7 +1170,7 @@
     "tags": ""
   },
   {
-    "id": "V-0067",
+    "id": "V-0078",
     "word": "vermissen",
     "article": "",
     "plural": "",
@@ -1020,7 +1185,7 @@
     "tags": ""
   },
   {
-    "id": "V-0068",
+    "id": "V-0079",
     "word": "Vermittlung",
     "article": "die",
     "plural": "-en",
@@ -1035,7 +1200,7 @@
     "tags": ""
   },
   {
-    "id": "V-0069",
+    "id": "V-0080",
     "word": "vermuten",
     "article": "",
     "plural": "",
@@ -1050,7 +1215,7 @@
     "tags": ""
   },
   {
-    "id": "V-0070",
+    "id": "V-0081",
     "word": "vermutlich",
     "article": "",
     "plural": "",
@@ -1065,7 +1230,7 @@
     "tags": ""
   },
   {
-    "id": "V-0071",
+    "id": "V-0082",
     "word": "vernuenftig",
     "article": "",
     "plural": "",
@@ -1080,7 +1245,22 @@
     "tags": ""
   },
   {
-    "id": "V-0072",
+    "id": "V-0083",
+    "word": "vernünftig",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0084",
     "word": "verpacken",
     "article": "",
     "plural": "",
@@ -1095,7 +1275,7 @@
     "tags": ""
   },
   {
-    "id": "V-0073",
+    "id": "V-0085",
     "word": "verpassen",
     "article": "",
     "plural": "",
@@ -1110,7 +1290,7 @@
     "tags": ""
   },
   {
-    "id": "V-0074",
+    "id": "V-0086",
     "word": "verpflegen",
     "article": "",
     "plural": "",
@@ -1125,7 +1305,7 @@
     "tags": ""
   },
   {
-    "id": "V-0075",
+    "id": "V-0087",
     "word": "verpflichtet",
     "article": "",
     "plural": "",
@@ -1140,7 +1320,7 @@
     "tags": ""
   },
   {
-    "id": "V-0076",
+    "id": "V-0088",
     "word": "verraten",
     "article": "",
     "plural": "",
@@ -1155,7 +1335,7 @@
     "tags": ""
   },
   {
-    "id": "V-0077",
+    "id": "V-0089",
     "word": "verreisen",
     "article": "",
     "plural": "",
@@ -1170,7 +1350,7 @@
     "tags": ""
   },
   {
-    "id": "V-0078",
+    "id": "V-0090",
     "word": "verrueckt",
     "article": "",
     "plural": "",
@@ -1185,22 +1365,22 @@
     "tags": ""
   },
   {
-    "id": "V-0079",
-    "word": "Versammlung",
-    "article": "die",
-    "plural": "-en",
-    "wordType": "noun",
-    "english": "assembly / meeting / gathering",
-    "bangla": "সভা / সমাবেশ",
+    "id": "V-0091",
+    "word": "verrückt",
+    "article": "",
+    "plural": "",
+    "wordType": "",
+    "english": "",
+    "bangla": "",
     "partizipII": "",
     "auxiliary": "",
-    "exampleSentence": "Der Minister hielt bei der Versammlung eine Rede.",
+    "exampleSentence": "",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "V-0080",
+    "id": "V-0092",
     "word": "versaeumen",
     "article": "",
     "plural": "",
@@ -1215,7 +1395,22 @@
     "tags": ""
   },
   {
-    "id": "V-0081",
+    "id": "V-0093",
+    "word": "Versammlung",
+    "article": "die",
+    "plural": "-en",
+    "wordType": "noun",
+    "english": "assembly / meeting / gathering",
+    "bangla": "সভা / সমাবেশ",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Der Minister hielt bei der Versammlung eine Rede.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0094",
     "word": "verschieben",
     "article": "",
     "plural": "",
@@ -1230,7 +1425,7 @@
     "tags": ""
   },
   {
-    "id": "V-0082",
+    "id": "V-0095",
     "word": "verschieden",
     "article": "",
     "plural": "",
@@ -1245,7 +1440,22 @@
     "tags": ""
   },
   {
-    "id": "V-0083",
+    "id": "V-0096",
+    "word": "verschmutzen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to pollute / dirty",
+    "bangla": "দূষিত করা / নোংরা করা",
+    "partizipII": "verschmutzt",
+    "auxiliary": "hat",
+    "exampleSentence": "Fabriken verschmutzen die Umwelt.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0097",
     "word": "verschreiben",
     "article": "",
     "plural": "",
@@ -1260,7 +1470,7 @@
     "tags": ""
   },
   {
-    "id": "V-0084",
+    "id": "V-0098",
     "word": "verschwinden",
     "article": "",
     "plural": "",
@@ -1275,7 +1485,7 @@
     "tags": ""
   },
   {
-    "id": "V-0085",
+    "id": "V-0099",
     "word": "versichern",
     "article": "",
     "plural": "",
@@ -1290,7 +1500,7 @@
     "tags": ""
   },
   {
-    "id": "V-0086",
+    "id": "V-0100",
     "word": "Versichertenkarte",
     "article": "die",
     "plural": "-n",
@@ -1305,7 +1515,7 @@
     "tags": ""
   },
   {
-    "id": "V-0087",
+    "id": "V-0101",
     "word": "Versicherung",
     "article": "die",
     "plural": "-en",
@@ -1320,7 +1530,7 @@
     "tags": ""
   },
   {
-    "id": "V-0088",
+    "id": "V-0102",
     "word": "Verspaetung",
     "article": "die",
     "plural": "-en",
@@ -1335,7 +1545,7 @@
     "tags": ""
   },
   {
-    "id": "V-0089",
+    "id": "V-0103",
     "word": "versprechen",
     "article": "",
     "plural": "",
@@ -1350,7 +1560,22 @@
     "tags": ""
   },
   {
-    "id": "V-0090",
+    "id": "V-0104",
+    "word": "Verspätung",
+    "article": "die",
+    "plural": "-en",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0105",
     "word": "verstaendlich",
     "article": "",
     "plural": "",
@@ -1365,7 +1590,7 @@
     "tags": ""
   },
   {
-    "id": "V-0091",
+    "id": "V-0106",
     "word": "Verstaendnis",
     "article": "das",
     "plural": "",
@@ -1380,52 +1605,52 @@
     "tags": ""
   },
   {
-    "id": "V-0092",
-    "word": "sich verstecken",
+    "id": "V-0107",
+    "word": "versteckt",
     "article": "",
     "plural": "",
     "wordType": "verb",
-    "english": "to hide (oneself)",
-    "bangla": "লুকানো / আত্মগোপন করা",
-    "partizipII": "versteckt",
-    "auxiliary": "hat",
-    "exampleSentence": "Ich habe das Geld hinter dem Regal versteckt.",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "V-0093",
-    "word": "sich verstehen",
+    "id": "V-0108",
+    "word": "verständlich",
     "article": "",
     "plural": "",
-    "wordType": "verb",
-    "english": "to understand / get along",
-    "bangla": "বোঝা / বোঝাপড়া হওয়া",
-    "partizipII": "verstanden",
-    "auxiliary": "hat",
-    "exampleSentence": "Ich kann Sie kaum verstehen. Sprechen Sie bitte lauter.",
+    "wordType": "adj",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Wer hat dir das Geheimnis verraten?",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "V-0094",
-    "word": "versuchen",
-    "article": "",
+    "id": "V-0109",
+    "word": "Verständnis",
+    "article": "das",
     "plural": "",
-    "wordType": "verb",
-    "english": "to try / attempt / taste",
-    "bangla": "চেষ্টা করা / স্বাদ নেওয়া",
-    "partizipII": "versucht",
-    "auxiliary": "hat",
-    "exampleSentence": "Haben Sie es schon mal mit diesem Mittel versucht?",
+    "wordType": "noun",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "V-0095",
+    "id": "V-0110",
     "word": "Versuch",
     "article": "der",
     "plural": "-e",
@@ -1440,7 +1665,52 @@
     "tags": ""
   },
   {
-    "id": "V-0096",
+    "id": "V-0111",
+    "word": "versuchen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to try / attempt / taste",
+    "bangla": "চেষ্টা করা / স্বাদ নেওয়া",
+    "partizipII": "versucht",
+    "auxiliary": "hat",
+    "exampleSentence": "Haben Sie es schon mal mit diesem Mittel versucht?",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0112",
+    "word": "versäumen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0113",
+    "word": "vert",
+    "article": "",
+    "plural": "",
+    "wordType": "",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0114",
     "word": "verteilen",
     "article": "",
     "plural": "",
@@ -1455,7 +1725,7 @@
     "tags": ""
   },
   {
-    "id": "V-0097",
+    "id": "V-0115",
     "word": "Vertrag",
     "article": "der",
     "plural": "¨-e",
@@ -1470,22 +1740,7 @@
     "tags": ""
   },
   {
-    "id": "V-0098",
-    "word": "vertrauen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to trust",
-    "bangla": "বিশ্বাস করা / আস্থা রাখা",
-    "partizipII": "vertraut",
-    "auxiliary": "hat",
-    "exampleSentence": "Ich kenne dich gut. Ich vertraue dir.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "V-0099",
+    "id": "V-0116",
     "word": "Vertrauen",
     "article": "das",
     "plural": "",
@@ -1500,7 +1755,7 @@
     "tags": ""
   },
   {
-    "id": "V-0100",
+    "id": "V-0117",
     "word": "vertreten",
     "article": "",
     "plural": "",
@@ -1515,7 +1770,7 @@
     "tags": ""
   },
   {
-    "id": "V-0101",
+    "id": "V-0118",
     "word": "Vertreter",
     "article": "der",
     "plural": "-",
@@ -1530,7 +1785,7 @@
     "tags": ""
   },
   {
-    "id": "V-0102",
+    "id": "V-0119",
     "word": "Vertreterin",
     "article": "die",
     "plural": "-nen",
@@ -1545,7 +1800,7 @@
     "tags": ""
   },
   {
-    "id": "V-0103",
+    "id": "V-0120",
     "word": "Vertretung",
     "article": "die",
     "plural": "-en",
@@ -1560,7 +1815,22 @@
     "tags": ""
   },
   {
-    "id": "V-0104",
+    "id": "V-0121",
+    "word": "verursachen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to cause / bring about",
+    "bangla": "কারণ হওয়া / ঘটানো",
+    "partizipII": "verursacht",
+    "auxiliary": "hat",
+    "exampleSentence": "Dieser Busfahrer verursachte den Unfall.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0122",
     "word": "verurteilen",
     "article": "",
     "plural": "",
@@ -1575,7 +1845,7 @@
     "tags": ""
   },
   {
-    "id": "V-0105",
+    "id": "V-0123",
     "word": "Verwaltung",
     "article": "die",
     "plural": "-en",
@@ -1590,7 +1860,7 @@
     "tags": ""
   },
   {
-    "id": "V-0106",
+    "id": "V-0124",
     "word": "verwandt",
     "article": "",
     "plural": "",
@@ -1605,7 +1875,7 @@
     "tags": ""
   },
   {
-    "id": "V-0107",
+    "id": "V-0125",
     "word": "Verwandte",
     "article": "der/die",
     "plural": "-n",
@@ -1620,7 +1890,7 @@
     "tags": ""
   },
   {
-    "id": "V-0108",
+    "id": "V-0126",
     "word": "verwechseln",
     "article": "",
     "plural": "",
@@ -1635,7 +1905,7 @@
     "tags": ""
   },
   {
-    "id": "V-0109",
+    "id": "V-0127",
     "word": "verwenden",
     "article": "",
     "plural": "",
@@ -1650,7 +1920,7 @@
     "tags": ""
   },
   {
-    "id": "V-0110",
+    "id": "V-0128",
     "word": "verzeihen",
     "article": "",
     "plural": "",
@@ -1665,7 +1935,7 @@
     "tags": ""
   },
   {
-    "id": "V-0111",
+    "id": "V-0129",
     "word": "Verzeihung",
     "article": "die",
     "plural": "",
@@ -1680,7 +1950,7 @@
     "tags": ""
   },
   {
-    "id": "V-0112",
+    "id": "V-0130",
     "word": "verzichten",
     "article": "",
     "plural": "",
@@ -1695,7 +1965,37 @@
     "tags": ""
   },
   {
-    "id": "V-0113",
+    "id": "V-0131",
+    "word": "verändert",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0132",
+    "word": "veröffentlichen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to publish",
+    "bangla": "প্রকাশ করা",
+    "partizipII": "veröffentlicht",
+    "auxiliary": "hat",
+    "exampleSentence": "Der Autor möchte ein Buch veröffentlichen.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0133",
     "word": "Video",
     "article": "das",
     "plural": "-s",
@@ -1710,7 +2010,7 @@
     "tags": ""
   },
   {
-    "id": "V-0114",
+    "id": "V-0134",
     "word": "viel",
     "article": "",
     "plural": "",
@@ -1725,7 +2025,7 @@
     "tags": ""
   },
   {
-    "id": "V-0115",
+    "id": "V-0135",
     "word": "vielleicht",
     "article": "",
     "plural": "",
@@ -1740,7 +2040,7 @@
     "tags": ""
   },
   {
-    "id": "V-0116",
+    "id": "V-0136",
     "word": "Viertel",
     "article": "das",
     "plural": "-",
@@ -1755,7 +2055,7 @@
     "tags": ""
   },
   {
-    "id": "V-0117",
+    "id": "V-0137",
     "word": "virtuell",
     "article": "",
     "plural": "",
@@ -1770,7 +2070,7 @@
     "tags": ""
   },
   {
-    "id": "V-0118",
+    "id": "V-0138",
     "word": "Virus",
     "article": "der",
     "plural": "Viren",
@@ -1785,7 +2085,7 @@
     "tags": ""
   },
   {
-    "id": "V-0119",
+    "id": "V-0139",
     "word": "Visitenkarte",
     "article": "die",
     "plural": "-n",
@@ -1800,7 +2100,7 @@
     "tags": ""
   },
   {
-    "id": "V-0120",
+    "id": "V-0140",
     "word": "Visum",
     "article": "das",
     "plural": "Visa",
@@ -1815,7 +2115,7 @@
     "tags": ""
   },
   {
-    "id": "V-0121",
+    "id": "V-0141",
     "word": "Vitamin",
     "article": "das",
     "plural": "-e",
@@ -1830,52 +2130,7 @@
     "tags": ""
   },
   {
-    "id": "V-0122",
-    "word": "voll",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "full / filled / complete",
-    "bangla": "পূর্ণ / ভর্তি",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Die Flasche ist noch ganz voll.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "V-0123",
-    "word": "Vollzeit",
-    "article": "die",
-    "plural": "",
-    "wordType": "noun",
-    "english": "full-time (work)",
-    "bangla": "পূর্ণকালীন / ফুল-টাইম",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ich moechte gerne Vollzeit arbeiten.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "V-0124",
-    "word": "Volleyball",
-    "article": "der",
-    "plural": "",
-    "wordType": "noun",
-    "english": "volleyball",
-    "bangla": "ভলিবল",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Im Sommer spiele ich gern Volleyball.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "V-0125",
+    "id": "V-0142",
     "word": "voellig",
     "article": "",
     "plural": "",
@@ -1890,7 +2145,52 @@
     "tags": ""
   },
   {
-    "id": "V-0126",
+    "id": "V-0143",
+    "word": "voll",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "full / filled / complete",
+    "bangla": "পূর্ণ / ভর্তি",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Die Flasche ist noch ganz voll.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0144",
+    "word": "Volleyball",
+    "article": "der",
+    "plural": "",
+    "wordType": "noun",
+    "english": "volleyball",
+    "bangla": "ভলিবল",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Im Sommer spiele ich gern Volleyball.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0145",
+    "word": "Vollzeit",
+    "article": "die",
+    "plural": "",
+    "wordType": "noun",
+    "english": "full-time (work)",
+    "bangla": "পূর্ণকালীন / ফুল-টাইম",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Ich moechte gerne Vollzeit arbeiten.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0146",
     "word": "von",
     "article": "",
     "plural": "",
@@ -1905,7 +2205,7 @@
     "tags": ""
   },
   {
-    "id": "V-0127",
+    "id": "V-0147",
     "word": "voneinander",
     "article": "",
     "plural": "",
@@ -1920,7 +2220,7 @@
     "tags": ""
   },
   {
-    "id": "V-0128",
+    "id": "V-0148",
     "word": "vor",
     "article": "",
     "plural": "",
@@ -1935,7 +2235,7 @@
     "tags": ""
   },
   {
-    "id": "V-0129",
+    "id": "V-0149",
     "word": "vor allem",
     "article": "",
     "plural": "",
@@ -1950,7 +2250,7 @@
     "tags": ""
   },
   {
-    "id": "V-0130",
+    "id": "V-0150",
     "word": "voraus",
     "article": "",
     "plural": "",
@@ -1965,7 +2265,7 @@
     "tags": ""
   },
   {
-    "id": "V-0131",
+    "id": "V-0151",
     "word": "Voraussetzung",
     "article": "die",
     "plural": "-en",
@@ -1980,7 +2280,7 @@
     "tags": ""
   },
   {
-    "id": "V-0132",
+    "id": "V-0152",
     "word": "voraussichtlich",
     "article": "",
     "plural": "",
@@ -1995,7 +2295,7 @@
     "tags": ""
   },
   {
-    "id": "V-0133",
+    "id": "V-0153",
     "word": "vorbei",
     "article": "",
     "plural": "",
@@ -2010,22 +2310,7 @@
     "tags": ""
   },
   {
-    "id": "V-0134",
-    "word": "sich vorbereiten",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to prepare (oneself)",
-    "bangla": "প্রস্তুত হওয়া / প্রস্তুতি নেওয়া",
-    "partizipII": "vorbereitet",
-    "auxiliary": "hat",
-    "exampleSentence": "Ich muss mich auf meine Pruefung vorbereiten.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "V-0135",
+    "id": "V-0154",
     "word": "Vorbereitung",
     "article": "die",
     "plural": "-en",
@@ -2040,7 +2325,7 @@
     "tags": ""
   },
   {
-    "id": "V-0136",
+    "id": "V-0155",
     "word": "vorder-",
     "article": "",
     "plural": "",
@@ -2055,7 +2340,7 @@
     "tags": ""
   },
   {
-    "id": "V-0137",
+    "id": "V-0156",
     "word": "Vorfahrt",
     "article": "die",
     "plural": "",
@@ -2070,7 +2355,7 @@
     "tags": ""
   },
   {
-    "id": "V-0138",
+    "id": "V-0157",
     "word": "vorgestern",
     "article": "",
     "plural": "",
@@ -2085,7 +2370,7 @@
     "tags": ""
   },
   {
-    "id": "V-0139",
+    "id": "V-0158",
     "word": "vorhaben",
     "article": "",
     "plural": "",
@@ -2100,7 +2385,7 @@
     "tags": ""
   },
   {
-    "id": "V-0140",
+    "id": "V-0159",
     "word": "vorher",
     "article": "",
     "plural": "",
@@ -2115,7 +2400,7 @@
     "tags": ""
   },
   {
-    "id": "V-0141",
+    "id": "V-0160",
     "word": "vorhin",
     "article": "",
     "plural": "",
@@ -2130,7 +2415,7 @@
     "tags": ""
   },
   {
-    "id": "V-0142",
+    "id": "V-0161",
     "word": "vorkommen",
     "article": "",
     "plural": "",
@@ -2145,7 +2430,7 @@
     "tags": ""
   },
   {
-    "id": "V-0143",
+    "id": "V-0162",
     "word": "vorlaeufig",
     "article": "",
     "plural": "",
@@ -2160,7 +2445,7 @@
     "tags": ""
   },
   {
-    "id": "V-0144",
+    "id": "V-0163",
     "word": "vorlesen",
     "article": "",
     "plural": "",
@@ -2175,7 +2460,22 @@
     "tags": ""
   },
   {
-    "id": "V-0145",
+    "id": "V-0164",
+    "word": "vorläufig",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0165",
     "word": "vorn",
     "article": "",
     "plural": "",
@@ -2190,7 +2490,22 @@
     "tags": ""
   },
   {
-    "id": "V-0146",
+    "id": "V-0166",
+    "word": "Vorname",
+    "article": "der",
+    "plural": "-n",
+    "wordType": "noun",
+    "english": "first name",
+    "bangla": "নামের প্রথম অংশ / নিজ নাম",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Mein Vorname ist Anna.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0167",
     "word": "Vorort",
     "article": "der",
     "plural": "-e",
@@ -2205,22 +2520,7 @@
     "tags": ""
   },
   {
-    "id": "V-0147",
-    "word": "vorschlagen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to suggest / propose",
-    "bangla": "প্রস্তাব করা",
-    "partizipII": "vorgeschlagen",
-    "auxiliary": "hat",
-    "exampleSentence": "Ich schlage vor, dass wir eine Pause machen.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "V-0148",
+    "id": "V-0168",
     "word": "Vorschlag",
     "article": "der",
     "plural": "¨-e",
@@ -2235,7 +2535,22 @@
     "tags": ""
   },
   {
-    "id": "V-0149",
+    "id": "V-0169",
+    "word": "vorschlagen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to suggest / propose",
+    "bangla": "প্রস্তাব করা",
+    "partizipII": "vorgeschlagen",
+    "auxiliary": "hat",
+    "exampleSentence": "Ich schlage vor, dass wir eine Pause machen.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0170",
     "word": "Vorschrift",
     "article": "die",
     "plural": "-en",
@@ -2250,7 +2565,7 @@
     "tags": ""
   },
   {
-    "id": "V-0150",
+    "id": "V-0171",
     "word": "Vorsicht",
     "article": "die",
     "plural": "",
@@ -2265,7 +2580,7 @@
     "tags": ""
   },
   {
-    "id": "V-0151",
+    "id": "V-0172",
     "word": "vorsichtig",
     "article": "",
     "plural": "",
@@ -2280,22 +2595,22 @@
     "tags": ""
   },
   {
-    "id": "V-0152",
-    "word": "sich vorstellen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to introduce / imagine",
-    "bangla": "পরিচয় করানো / কল্পনা করা",
-    "partizipII": "vorgestellt",
-    "auxiliary": "hat",
-    "exampleSentence": "Darf ich dir meine Frau vorstellen?",
+    "id": "V-0173",
+    "word": "Vorspeise",
+    "article": "die",
+    "plural": "-n",
+    "wordType": "noun",
+    "english": "appetizer / starter",
+    "bangla": "এপেটাইজার / শুরুর খাবার",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Als Vorspeise nehme ich eine Suppe.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
-    "id": "V-0153",
+    "id": "V-0174",
     "word": "Vorstellung",
     "article": "die",
     "plural": "-en",
@@ -2310,7 +2625,7 @@
     "tags": ""
   },
   {
-    "id": "V-0154",
+    "id": "V-0175",
     "word": "Vorstellungsgespraech",
     "article": "das",
     "plural": "-e",
@@ -2325,7 +2640,7 @@
     "tags": ""
   },
   {
-    "id": "V-0155",
+    "id": "V-0176",
     "word": "Vorteil",
     "article": "der",
     "plural": "-e",
@@ -2340,7 +2655,7 @@
     "tags": ""
   },
   {
-    "id": "V-0156",
+    "id": "V-0177",
     "word": "Vortrag",
     "article": "der",
     "plural": "¨-e",
@@ -2355,22 +2670,7 @@
     "tags": ""
   },
   {
-    "id": "V-0157",
-    "word": "Vorwahl",
-    "article": "die",
-    "plural": "-en",
-    "wordType": "noun",
-    "english": "area code / dialling code",
-    "bangla": "এরিয়া কোড / ডায়ালিং কোড",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Wie ist die Vorwahl von Hamburg?",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "V-0158",
+    "id": "V-0178",
     "word": "vorwaerts",
     "article": "",
     "plural": "",
@@ -2385,7 +2685,22 @@
     "tags": ""
   },
   {
-    "id": "V-0159",
+    "id": "V-0179",
+    "word": "Vorwahl",
+    "article": "die",
+    "plural": "-en",
+    "wordType": "noun",
+    "english": "area code / dialling code",
+    "bangla": "এরিয়া কোড / ডায়ালিং কোড",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Wie ist die Vorwahl von Hamburg?",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0180",
     "word": "Vorwurf",
     "article": "der",
     "plural": "¨-e",
@@ -2395,6 +2710,36 @@
     "partizipII": "",
     "auxiliary": "",
     "exampleSentence": "Eva kann nichts dafuer. Mach ihr keine Vorwuerfe.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0181",
+    "word": "vorwärts",
+    "article": "",
+    "plural": "",
+    "wordType": "",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "V-0182",
+    "word": "völlig",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "",
+    "bangla": "",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "",
     "synonyms": "",
     "antonyms": "",
     "tags": ""

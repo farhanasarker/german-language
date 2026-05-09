@@ -159,22 +159,22 @@
     "bangla": "ডেজার্ট / মিষ্টান্ন",
     "partizipII": "",
     "auxiliary": "",
-    "exampleSentence": "Als Nachspeise gibt es Eis.",
+    "exampleSentence": "Dafuer nehme ich keine Nachspeise.",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
   },
   {
     "id": "N-0011",
-    "word": "nächst-",
+    "word": "nacht",
     "article": "",
     "plural": "",
-    "wordType": "adj",
-    "english": "next",
-    "bangla": "পরবর্তী / আগামী",
+    "wordType": "",
+    "english": "",
+    "bangla": "",
     "partizipII": "",
     "auxiliary": "",
-    "exampleSentence": "Nächste Woche fahren wir nach Berlin.",
+    "exampleSentence": "",
     "synonyms": "",
     "antonyms": "",
     "tags": ""
@@ -271,51 +271,6 @@
   },
   {
     "id": "N-0018",
-    "word": "Nähe",
-    "article": "die",
-    "plural": "",
-    "wordType": "noun",
-    "english": "vicinity / nearness / proximity",
-    "bangla": "নিকটবর্তিতা / সন্নিকট",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "In der Nähe von Köln gibt es viele schöne Städte.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "N-0019",
-    "word": "nähen",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to sew",
-    "bangla": "সেলাই করা",
-    "partizipII": "genäht",
-    "auxiliary": "hat",
-    "exampleSentence": "Meine Oma hat mir ein Kleid genäht.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "N-0020",
-    "word": "sich nähern",
-    "article": "",
-    "plural": "",
-    "wordType": "verb",
-    "english": "to approach",
-    "bangla": "কাছে আসা / নিকটবর্তী হওয়া",
-    "partizipII": "genähert",
-    "auxiliary": "hat",
-    "exampleSentence": "Das Ende des Kurses nähert sich.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "N-0021",
     "word": "Nahrungsmittel",
     "article": "das",
     "plural": "-",
@@ -330,7 +285,7 @@
     "tags": ""
   },
   {
-    "id": "N-0022",
+    "id": "N-0019",
     "word": "Name",
     "article": "der",
     "plural": "-n",
@@ -345,52 +300,7 @@
     "tags": ""
   },
   {
-    "id": "N-0023",
-    "word": "Familienname",
-    "article": "der",
-    "plural": "-n",
-    "wordType": "noun",
-    "english": "surname / family name",
-    "bangla": "পদবি / পরিবারের নাম",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Mein Familienname ist Müller.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "N-0024",
-    "word": "Vorname",
-    "article": "der",
-    "plural": "-n",
-    "wordType": "noun",
-    "english": "first name",
-    "bangla": "নামের প্রথম অংশ / নিজ নাম",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Mein Vorname ist Anna.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "N-0025",
-    "word": "nämlich",
-    "article": "",
-    "plural": "",
-    "wordType": "adv",
-    "english": "namely / you see",
-    "bangla": "অর্থাৎ / কারণ / আসলে",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ich kann nicht kommen, ich habe nämlich keine Zeit.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "N-0026",
+    "id": "N-0020",
     "word": "Nase",
     "article": "die",
     "plural": "-n",
@@ -405,7 +315,7 @@
     "tags": ""
   },
   {
-    "id": "N-0027",
+    "id": "N-0021",
     "word": "nass",
     "article": "",
     "plural": "",
@@ -420,7 +330,7 @@
     "tags": ""
   },
   {
-    "id": "N-0028",
+    "id": "N-0022",
     "word": "national",
     "article": "",
     "plural": "",
@@ -435,7 +345,7 @@
     "tags": ""
   },
   {
-    "id": "N-0029",
+    "id": "N-0023",
     "word": "Natur",
     "article": "die",
     "plural": "",
@@ -450,7 +360,7 @@
     "tags": ""
   },
   {
-    "id": "N-0030",
+    "id": "N-0024",
     "word": "natürlich",
     "article": "",
     "plural": "",
@@ -465,7 +375,7 @@
     "tags": ""
   },
   {
-    "id": "N-0031",
+    "id": "N-0025",
     "word": "Nebel",
     "article": "der",
     "plural": "-",
@@ -480,22 +390,7 @@
     "tags": ""
   },
   {
-    "id": "N-0032",
-    "word": "neblig",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "foggy / misty",
-    "bangla": "কুয়াশাচ্ছন্ন",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Es ist heute neblig.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "N-0033",
+    "id": "N-0026",
     "word": "neben",
     "article": "",
     "plural": "",
@@ -510,7 +405,7 @@
     "tags": ""
   },
   {
-    "id": "N-0034",
+    "id": "N-0027",
     "word": "nebenan",
     "article": "",
     "plural": "",
@@ -525,7 +420,7 @@
     "tags": ""
   },
   {
-    "id": "N-0035",
+    "id": "N-0028",
     "word": "nebenbei",
     "article": "",
     "plural": "",
@@ -540,7 +435,22 @@
     "tags": ""
   },
   {
-    "id": "N-0036",
+    "id": "N-0029",
+    "word": "neblig",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "foggy / misty",
+    "bangla": "কুয়াশাচ্ছন্ন",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Es ist heute neblig.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "N-0030",
     "word": "Neffe",
     "article": "der",
     "plural": "-n",
@@ -555,7 +465,7 @@
     "tags": ""
   },
   {
-    "id": "N-0037",
+    "id": "N-0031",
     "word": "negativ",
     "article": "",
     "plural": "",
@@ -570,7 +480,7 @@
     "tags": ""
   },
   {
-    "id": "N-0038",
+    "id": "N-0032",
     "word": "nehmen",
     "article": "",
     "plural": "",
@@ -585,7 +495,7 @@
     "tags": ""
   },
   {
-    "id": "N-0039",
+    "id": "N-0033",
     "word": "nein",
     "article": "",
     "plural": "",
@@ -600,7 +510,7 @@
     "tags": ""
   },
   {
-    "id": "N-0040",
+    "id": "N-0034",
     "word": "nennen",
     "article": "",
     "plural": "",
@@ -615,7 +525,7 @@
     "tags": ""
   },
   {
-    "id": "N-0041",
+    "id": "N-0035",
     "word": "Nerv",
     "article": "der",
     "plural": "-en",
@@ -630,7 +540,7 @@
     "tags": ""
   },
   {
-    "id": "N-0042",
+    "id": "N-0036",
     "word": "nervös",
     "article": "",
     "plural": "",
@@ -645,7 +555,7 @@
     "tags": ""
   },
   {
-    "id": "N-0043",
+    "id": "N-0037",
     "word": "nett",
     "article": "",
     "plural": "",
@@ -660,7 +570,7 @@
     "tags": ""
   },
   {
-    "id": "N-0044",
+    "id": "N-0038",
     "word": "Netz",
     "article": "das",
     "plural": "-e",
@@ -675,7 +585,7 @@
     "tags": ""
   },
   {
-    "id": "N-0045",
+    "id": "N-0039",
     "word": "Netzwerk",
     "article": "das",
     "plural": "-e",
@@ -690,7 +600,7 @@
     "tags": ""
   },
   {
-    "id": "N-0046",
+    "id": "N-0040",
     "word": "neu",
     "article": "",
     "plural": "",
@@ -705,22 +615,7 @@
     "tags": ""
   },
   {
-    "id": "N-0047",
-    "word": "Neuigkeit",
-    "article": "die",
-    "plural": "-en",
-    "wordType": "noun",
-    "english": "news / novelty",
-    "bangla": "খবর / নতুনত্ব",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Hast du eine Neuigkeit gehört?",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "N-0048",
+    "id": "N-0041",
     "word": "neugierig",
     "article": "",
     "plural": "",
@@ -735,7 +630,22 @@
     "tags": ""
   },
   {
-    "id": "N-0049",
+    "id": "N-0042",
+    "word": "Neuigkeit",
+    "article": "die",
+    "plural": "-en",
+    "wordType": "noun",
+    "english": "news / novelty",
+    "bangla": "খবর / নতুনত্ব",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Hast du eine Neuigkeit gehört?",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "N-0043",
     "word": "neulich",
     "article": "",
     "plural": "",
@@ -750,7 +660,7 @@
     "tags": ""
   },
   {
-    "id": "N-0050",
+    "id": "N-0044",
     "word": "nicht",
     "article": "",
     "plural": "",
@@ -765,7 +675,7 @@
     "tags": ""
   },
   {
-    "id": "N-0051",
+    "id": "N-0045",
     "word": "Nichte",
     "article": "die",
     "plural": "-n",
@@ -780,7 +690,7 @@
     "tags": ""
   },
   {
-    "id": "N-0052",
+    "id": "N-0046",
     "word": "Nichtraucher",
     "article": "der",
     "plural": "-",
@@ -795,7 +705,7 @@
     "tags": ""
   },
   {
-    "id": "N-0053",
+    "id": "N-0047",
     "word": "Nichtraucherin",
     "article": "die",
     "plural": "-nen",
@@ -810,7 +720,7 @@
     "tags": ""
   },
   {
-    "id": "N-0054",
+    "id": "N-0048",
     "word": "nichts",
     "article": "",
     "plural": "",
@@ -825,7 +735,7 @@
     "tags": ""
   },
   {
-    "id": "N-0055",
+    "id": "N-0049",
     "word": "nie",
     "article": "",
     "plural": "",
@@ -840,7 +750,7 @@
     "tags": ""
   },
   {
-    "id": "N-0056",
+    "id": "N-0050",
     "word": "niedrig",
     "article": "",
     "plural": "",
@@ -855,7 +765,7 @@
     "tags": ""
   },
   {
-    "id": "N-0057",
+    "id": "N-0051",
     "word": "niemand",
     "article": "",
     "plural": "",
@@ -870,7 +780,7 @@
     "tags": ""
   },
   {
-    "id": "N-0058",
+    "id": "N-0052",
     "word": "nirgends",
     "article": "",
     "plural": "",
@@ -885,7 +795,7 @@
     "tags": ""
   },
   {
-    "id": "N-0059",
+    "id": "N-0053",
     "word": "nirgendwo",
     "article": "",
     "plural": "",
@@ -900,7 +810,7 @@
     "tags": ""
   },
   {
-    "id": "N-0060",
+    "id": "N-0054",
     "word": "noch",
     "article": "",
     "plural": "",
@@ -915,7 +825,7 @@
     "tags": ""
   },
   {
-    "id": "N-0061",
+    "id": "N-0055",
     "word": "noch mal",
     "article": "",
     "plural": "",
@@ -930,7 +840,7 @@
     "tags": ""
   },
   {
-    "id": "N-0062",
+    "id": "N-0056",
     "word": "nochmals",
     "article": "",
     "plural": "",
@@ -945,7 +855,7 @@
     "tags": ""
   },
   {
-    "id": "N-0063",
+    "id": "N-0057",
     "word": "normal",
     "article": "",
     "plural": "",
@@ -960,7 +870,7 @@
     "tags": ""
   },
   {
-    "id": "N-0064",
+    "id": "N-0058",
     "word": "normalerweise",
     "article": "",
     "plural": "",
@@ -975,7 +885,7 @@
     "tags": ""
   },
   {
-    "id": "N-0065",
+    "id": "N-0059",
     "word": "Not-",
     "article": "",
     "plural": "",
@@ -990,7 +900,7 @@
     "tags": ""
   },
   {
-    "id": "N-0066",
+    "id": "N-0060",
     "word": "Notaufnahme",
     "article": "die",
     "plural": "-n",
@@ -1005,7 +915,7 @@
     "tags": ""
   },
   {
-    "id": "N-0067",
+    "id": "N-0061",
     "word": "Notausgang",
     "article": "der",
     "plural": "¨-e",
@@ -1020,37 +930,7 @@
     "tags": ""
   },
   {
-    "id": "N-0068",
-    "word": "Notfall",
-    "article": "der",
-    "plural": "¨-e",
-    "wordType": "noun",
-    "english": "emergency",
-    "bangla": "জরুরি অবস্থা",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Im Notfall rufen Sie 112 an.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "N-0069",
-    "word": "Notruf",
-    "article": "der",
-    "plural": "-e",
-    "wordType": "noun",
-    "english": "emergency call",
-    "bangla": "জরুরি কল / জরুরি ফোন",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Wählen Sie bei einem Unfall den Notruf 112.",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "N-0070",
+    "id": "N-0062",
     "word": "Note",
     "article": "die",
     "plural": "-n",
@@ -1065,7 +945,22 @@
     "tags": ""
   },
   {
-    "id": "N-0071",
+    "id": "N-0063",
+    "word": "Notfall",
+    "article": "der",
+    "plural": "¨-e",
+    "wordType": "noun",
+    "english": "emergency",
+    "bangla": "জরুরি অবস্থা",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Im Notfall rufen Sie 112 an.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "N-0064",
     "word": "notieren",
     "article": "",
     "plural": "",
@@ -1080,22 +975,7 @@
     "tags": ""
   },
   {
-    "id": "N-0072",
-    "word": "nötig",
-    "article": "",
-    "plural": "",
-    "wordType": "adj",
-    "english": "necessary",
-    "bangla": "প্রয়োজনীয় / দরকারি",
-    "partizipII": "",
-    "auxiliary": "",
-    "exampleSentence": "Ist das wirklich nötig?",
-    "synonyms": "",
-    "antonyms": "",
-    "tags": ""
-  },
-  {
-    "id": "N-0073",
+    "id": "N-0065",
     "word": "Notiz",
     "article": "die",
     "plural": "-en",
@@ -1110,7 +990,22 @@
     "tags": ""
   },
   {
-    "id": "N-0074",
+    "id": "N-0066",
+    "word": "Notruf",
+    "article": "der",
+    "plural": "-e",
+    "wordType": "noun",
+    "english": "emergency call",
+    "bangla": "জরুরি কল / জরুরি ফোন",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Wählen Sie bei einem Unfall den Notruf 112.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "N-0067",
     "word": "notwendig",
     "article": "",
     "plural": "",
@@ -1125,7 +1020,7 @@
     "tags": ""
   },
   {
-    "id": "N-0075",
+    "id": "N-0068",
     "word": "Nudel",
     "article": "die",
     "plural": "-n",
@@ -1140,7 +1035,7 @@
     "tags": ""
   },
   {
-    "id": "N-0076",
+    "id": "N-0069",
     "word": "Nummer",
     "article": "die",
     "plural": "-n",
@@ -1155,7 +1050,7 @@
     "tags": ""
   },
   {
-    "id": "N-0077",
+    "id": "N-0070",
     "word": "nun",
     "article": "",
     "plural": "",
@@ -1170,7 +1065,7 @@
     "tags": ""
   },
   {
-    "id": "N-0078",
+    "id": "N-0071",
     "word": "nur",
     "article": "",
     "plural": "",
@@ -1185,7 +1080,7 @@
     "tags": ""
   },
   {
-    "id": "N-0079",
+    "id": "N-0072",
     "word": "nutzen",
     "article": "",
     "plural": "",
@@ -1200,7 +1095,82 @@
     "tags": ""
   },
   {
-    "id": "N-0080",
+    "id": "N-0073",
+    "word": "nächst-",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "next",
+    "bangla": "পরবর্তী / আগামী",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Nächste Woche fahren wir nach Berlin.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "N-0074",
+    "word": "Nähe",
+    "article": "die",
+    "plural": "",
+    "wordType": "noun",
+    "english": "vicinity / nearness / proximity",
+    "bangla": "নিকটবর্তিতা / সন্নিকট",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "In der Nähe von Köln gibt es viele schöne Städte.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "N-0075",
+    "word": "nähen",
+    "article": "",
+    "plural": "",
+    "wordType": "verb",
+    "english": "to sew",
+    "bangla": "সেলাই করা",
+    "partizipII": "genäht",
+    "auxiliary": "hat",
+    "exampleSentence": "Meine Oma hat mir ein Kleid genäht.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "N-0076",
+    "word": "nämlich",
+    "article": "",
+    "plural": "",
+    "wordType": "adv",
+    "english": "namely / you see",
+    "bangla": "অর্থাৎ / কারণ / আসলে",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Ich kann nicht kommen, ich habe nämlich keine Zeit.",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "N-0077",
+    "word": "nötig",
+    "article": "",
+    "plural": "",
+    "wordType": "adj",
+    "english": "necessary",
+    "bangla": "প্রয়োজনীয় / দরকারি",
+    "partizipII": "",
+    "auxiliary": "",
+    "exampleSentence": "Ist das wirklich nötig?",
+    "synonyms": "",
+    "antonyms": "",
+    "tags": ""
+  },
+  {
+    "id": "N-0078",
     "word": "nützen",
     "article": "",
     "plural": "",
@@ -1215,7 +1185,7 @@
     "tags": ""
   },
   {
-    "id": "N-0081",
+    "id": "N-0079",
     "word": "nützlich",
     "article": "",
     "plural": "",

@@ -3,16 +3,19 @@ import { DeckList } from "./components/DeckList";
 import { StudySession } from "./components/StudySession";
 import { SettingsPanel } from "./components/SettingsPanel";
 import { CustomDeck } from "./components/CustomDeck";
+import { Stats } from "./components/Stats";
+import { WordList } from "./components/WordList";
 import { loadDeckIndex, loadDeck, type DeckIndex, type CardEntry } from "./data";
 import { exportAllProgress, importProgress } from "./storage";
 import { getCustomDeckId } from "./custom-words";
 
-type Page = "decks" | "study" | "settings" | "custom";
+type Page = "decks" | "study" | "settings" | "custom" | "stats" | "wordlist";
 
 export function App() {
   const [page, setPage] = useState<Page>("decks");
   const [deckIndex, setDeckIndex] = useState<DeckIndex | null>(null);
   const [currentDeckId, setCurrentDeckId] = useState<string | null>(null);
+  const [currentDeckName, setCurrentDeckName] = useState<string>("");
   const [entries, setEntries] = useState<CardEntry[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -39,6 +42,12 @@ export function App() {
     setEntries(customEntries);
     setCurrentDeckId(getCustomDeckId());
     setPage("study");
+  }, []);
+
+  const viewWordList = useCallback((deckId: string, deckName: string) => {
+    setCurrentDeckId(deckId);
+    setCurrentDeckName(deckName);
+    setPage("wordlist");
   }, []);
 
   const backToDecks = useCallback(() => {
@@ -110,6 +119,13 @@ export function App() {
           <button
             class="secondary"
             style={{ fontSize: "0.8rem", padding: "6px 12px" }}
+            onClick={() => setPage(page === "stats" ? "decks" : "stats")}
+          >
+            {page === "stats" ? "Decks" : "Stats"}
+          </button>
+          <button
+            class="secondary"
+            style={{ fontSize: "0.8rem", padding: "6px 12px" }}
             onClick={() => setPage(page === "custom" ? "decks" : "custom")}
           >
             {page === "custom" ? "Decks" : "Custom Words"}
@@ -134,6 +150,7 @@ export function App() {
         <DeckList
           index={deckIndex}
           onSelectDeck={startStudy}
+          onViewDeck={viewWordList}
           onCustomDeck={() => setPage("custom")}
         />
       )}
@@ -153,6 +170,14 @@ export function App() {
 
       {page === "custom" && (
         <CustomDeck onStartStudy={startCustomStudy} />
+      )}
+
+      {page === "stats" && (
+        <Stats onClose={() => setPage("decks")} />
+      )}
+
+      {page === "wordlist" && currentDeckId && (
+        <WordList deckId={currentDeckId} deckName={currentDeckName} onClose={backToDecks} />
       )}
     </div>
   );
